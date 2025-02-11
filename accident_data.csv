@@ -1,0 +1,2001 @@
+Accident_ID,Date_Time,Location,Severity,Weather_Condition,Road_Condition,Vehicle_Type,Driver_Age,Casualties_Count,Cause_of_Accident
+1,8/20/2024 6:25,Bangalore,Moderate,Rainy,Icy,Car,50,2,Weather
+2,10/7/2024 13:11,Hyderabad,Severe,Clear,Icy,Bicycle,25,1,Bad Road Condition
+3,4/9/2024 0:11,Kolkata,Minor,Clear,Under Construction,Truck,59,1,Speeding
+4,6/18/2023 23:50,Mumbai,Minor,Windy,Icy,Auto Rickshaw,64,1,Bad Road Condition
+5,4/7/2024 9:34,Kolkata,Moderate,Windy,Wet,Bike,45,3,Red Light Violation
+6,5/25/2024 4:50,Ahmedabad,Moderate,Clear,Icy,Truck,20,2,Bad Road Condition
+7,7/16/2023 3:48,Ahmedabad,Moderate,Rainy,Icy,Auto Rickshaw,40,0,Weather
+8,9/1/2024 21:15,Hyderabad,Minor,Foggy,Potholes,Car,40,5,Drunk Driving
+9,11/11/2023 1:31,Hyderabad,Severe,Clear,Wet,Auto Rickshaw,47,2,Weather
+10,9/20/2024 12:42,Bangalore,Moderate,Snowy,Dry,Bike,20,5,Brake Failure
+11,9/29/2024 11:11,Delhi,Severe,Rainy,Potholes,Bus,59,4,Bad Road Condition
+12,3/14/2023 10:07,Mumbai,Minor,Rainy,Dry,Bus,46,0,Weather
+13,1/26/2023 2:24,Mumbai,Severe,Clear,Icy,Bicycle,31,3,Speeding
+14,8/18/2024 14:29,Chennai,Minor,Clear,Potholes,Car,37,1,Weather
+15,4/10/2023 20:39,Bangalore,Moderate,Clear,Under Construction,Auto Rickshaw,61,5,Red Light Violation
+16,4/29/2023 19:59,Delhi,Moderate,Clear,Icy,Bike,26,1,Bad Road Condition
+17,7/5/2024 4:20,Pune,Moderate,Rainy,Wet,Truck,21,3,Brake Failure
+18,9/22/2023 17:52,Bangalore,Minor,Rainy,Wet,Bike,49,2,Red Light Violation
+19,1/19/2023 16:15,Chennai,Minor,Foggy,Dry,Auto Rickshaw,54,2,Red Light Violation
+20,9/4/2024 13:43,Mumbai,Minor,Foggy,Icy,Auto Rickshaw,59,0,Red Light Violation
+21,12/27/2023 12:17,Kolkata,Severe,Windy,Under Construction,Truck,50,0,Weather
+22,1/8/2023 10:53,Delhi,Moderate,Windy,Under Construction,Auto Rickshaw,49,1,Speeding
+23,5/3/2024 17:51,Pune,Minor,Rainy,Potholes,Bus,58,0,Bad Road Condition
+24,6/15/2023 4:44,Delhi,Minor,Snowy,Icy,Truck,40,3,Speeding
+25,6/8/2024 16:17,Mumbai,Moderate,Snowy,Wet,Bicycle,59,4,Bad Road Condition
+26,9/30/2023 6:08,Hyderabad,Severe,Rainy,Dry,Bus,26,1,Speeding
+27,1/5/2024 7:28,Bangalore,Minor,Clear,Under Construction,Truck,57,1,Weather
+28,8/27/2023 23:19,Pune,Minor,Snowy,Icy,Bicycle,47,4,Speeding
+29,10/31/2023 11:36,Hyderabad,Moderate,Clear,Under Construction,Bicycle,58,5,Overtaking
+30,10/16/2023 8:11,Mumbai,Moderate,Snowy,Icy,Bike,50,2,Red Light Violation
+31,4/8/2023 6:58,Bangalore,Moderate,Foggy,Dry,Truck,44,5,Brake Failure
+32,12/30/2023 2:09,Ahmedabad,Severe,Foggy,Wet,Bus,29,4,Red Light Violation
+33,3/3/2023 15:26,Kolkata,Severe,Clear,Potholes,Bicycle,34,5,Overtaking
+34,7/25/2023 21:37,Chennai,Minor,Rainy,Under Construction,Bus,32,4,Speeding
+35,2/19/2023 3:36,Ahmedabad,Minor,Rainy,Dry,Bus,53,2,Bad Road Condition
+36,6/14/2023 22:07,Hyderabad,Minor,Rainy,Icy,Bike,62,4,Overtaking
+37,12/22/2024 11:28,Mumbai,Minor,Rainy,Potholes,Bike,44,1,Weather
+38,2/4/2023 13:13,Hyderabad,Minor,Rainy,Wet,Truck,41,0,Drunk Driving
+39,9/28/2023 21:01,Hyderabad,Minor,Rainy,Icy,Bike,21,3,Drunk Driving
+40,12/2/2024 6:31,Ahmedabad,Minor,Snowy,Under Construction,Bicycle,39,5,Weather
+41,11/18/2024 8:15,Kolkata,Minor,Rainy,Under Construction,Car,35,5,Overtaking
+42,12/5/2023 15:08,Mumbai,Moderate,Windy,Under Construction,Bike,51,1,Red Light Violation
+43,11/16/2023 6:53,Delhi,Severe,Snowy,Under Construction,Truck,34,4,Bad Road Condition
+44,8/10/2024 21:59,Hyderabad,Minor,Snowy,Dry,Bike,52,2,Speeding
+45,5/25/2024 11:19,Mumbai,Minor,Windy,Potholes,Truck,33,0,Bad Road Condition
+46,5/28/2023 5:39,Bangalore,Severe,Snowy,Icy,Car,31,0,Drunk Driving
+47,9/13/2024 13:54,Delhi,Severe,Foggy,Dry,Bus,65,3,Red Light Violation
+48,2/11/2023 11:19,Pune,Minor,Rainy,Under Construction,Auto Rickshaw,43,4,Bad Road Condition
+49,5/8/2023 7:47,Ahmedabad,Minor,Rainy,Wet,Bicycle,20,3,Brake Failure
+50,1/18/2023 21:54,Chennai,Moderate,Foggy,Dry,Bike,59,2,Drunk Driving
+51,2/24/2023 11:42,Hyderabad,Moderate,Rainy,Icy,Car,37,1,Weather
+52,6/16/2023 11:27,Kolkata,Minor,Rainy,Wet,Auto Rickshaw,32,5,Drunk Driving
+53,10/30/2023 1:24,Ahmedabad,Severe,Snowy,Wet,Auto Rickshaw,64,3,Overtaking
+54,3/14/2024 18:14,Kolkata,Severe,Rainy,Dry,Truck,61,2,Weather
+55,10/8/2024 15:13,Bangalore,Severe,Snowy,Dry,Auto Rickshaw,26,0,Speeding
+56,7/19/2023 19:48,Ahmedabad,Minor,Foggy,Under Construction,Bicycle,33,0,Speeding
+57,8/24/2024 9:59,Ahmedabad,Moderate,Snowy,Icy,Truck,32,1,Overtaking
+58,11/4/2023 9:21,Pune,Moderate,Snowy,Under Construction,Bike,26,0,Overtaking
+59,2/17/2023 14:11,Kolkata,Moderate,Clear,Wet,Truck,64,0,Bad Road Condition
+60,8/4/2024 10:44,Chennai,Minor,Windy,Icy,Bus,29,4,Overtaking
+61,4/3/2023 10:16,Bangalore,Moderate,Clear,Wet,Car,42,5,Weather
+62,6/27/2023 15:03,Hyderabad,Severe,Snowy,Icy,Car,32,5,Bad Road Condition
+63,10/7/2023 3:17,Mumbai,Minor,Windy,Dry,Truck,34,3,Overtaking
+64,7/21/2024 12:12,Bangalore,Moderate,Windy,Potholes,Bike,30,1,Weather
+65,8/9/2023 17:57,Kolkata,Moderate,Windy,Under Construction,Bus,24,1,Speeding
+66,3/15/2023 1:01,Kolkata,Minor,Rainy,Icy,Bus,33,5,Speeding
+67,1/5/2023 0:40,Chennai,Moderate,Windy,Icy,Auto Rickshaw,37,3,Drunk Driving
+68,7/10/2024 0:38,Chennai,Minor,Snowy,Dry,Bike,38,4,Red Light Violation
+69,7/29/2024 22:53,Hyderabad,Minor,Windy,Potholes,Car,21,3,Overtaking
+70,1/14/2023 4:59,Pune,Minor,Rainy,Icy,Bike,37,1,Overtaking
+71,9/8/2023 7:29,Ahmedabad,Severe,Clear,Icy,Bus,32,4,Drunk Driving
+72,4/12/2024 9:35,Delhi,Minor,Foggy,Potholes,Bus,24,4,Speeding
+73,9/22/2024 20:08,Kolkata,Moderate,Clear,Dry,Auto Rickshaw,35,2,Bad Road Condition
+74,8/7/2024 2:59,Kolkata,Minor,Foggy,Under Construction,Truck,49,5,Brake Failure
+75,4/8/2024 23:28,Chennai,Severe,Snowy,Potholes,Bike,25,4,Speeding
+76,10/24/2024 5:41,Hyderabad,Moderate,Clear,Icy,Car,62,5,Bad Road Condition
+77,11/6/2024 14:43,Bangalore,Moderate,Rainy,Icy,Auto Rickshaw,56,5,Drunk Driving
+78,1/24/2024 10:23,Bangalore,Moderate,Rainy,Wet,Bicycle,24,1,Brake Failure
+79,2/28/2024 21:45,Bangalore,Severe,Clear,Potholes,Bike,64,0,Brake Failure
+80,11/24/2024 9:00,Chennai,Moderate,Snowy,Wet,Car,38,3,Overtaking
+81,5/13/2024 3:55,Kolkata,Minor,Rainy,Icy,Bicycle,24,2,Red Light Violation
+82,11/13/2023 14:38,Pune,Severe,Windy,Icy,Bike,61,5,Red Light Violation
+83,12/23/2024 8:16,Hyderabad,Severe,Foggy,Icy,Car,48,3,Speeding
+84,3/11/2023 2:05,Pune,Moderate,Clear,Under Construction,Car,31,4,Speeding
+85,8/21/2024 15:10,Ahmedabad,Moderate,Windy,Dry,Truck,41,4,Overtaking
+86,2/28/2023 21:51,Kolkata,Severe,Clear,Under Construction,Car,62,0,Drunk Driving
+87,3/2/2023 22:07,Mumbai,Moderate,Windy,Wet,Auto Rickshaw,44,0,Red Light Violation
+88,8/11/2024 3:51,Mumbai,Severe,Snowy,Wet,Bus,39,1,Brake Failure
+89,3/23/2023 8:43,Chennai,Moderate,Foggy,Dry,Bus,32,2,Speeding
+90,12/21/2023 3:36,Hyderabad,Moderate,Snowy,Icy,Auto Rickshaw,45,2,Drunk Driving
+91,7/22/2024 9:40,Chennai,Minor,Foggy,Icy,Bicycle,38,2,Red Light Violation
+92,3/15/2024 20:08,Pune,Minor,Rainy,Wet,Bus,27,2,Speeding
+93,9/25/2023 18:57,Mumbai,Moderate,Foggy,Icy,Auto Rickshaw,24,1,Weather
+94,6/8/2023 3:00,Ahmedabad,Severe,Foggy,Wet,Bus,48,3,Red Light Violation
+95,8/1/2024 2:22,Delhi,Severe,Clear,Wet,Bicycle,58,3,Overtaking
+96,5/20/2024 4:23,Kolkata,Severe,Snowy,Wet,Auto Rickshaw,45,5,Brake Failure
+97,3/5/2023 0:22,Kolkata,Severe,Windy,Wet,Bus,30,0,Red Light Violation
+98,5/29/2023 16:49,Pune,Moderate,Foggy,Wet,Bicycle,62,5,Bad Road Condition
+99,6/8/2024 9:23,Pune,Moderate,Rainy,Dry,Bicycle,24,3,Bad Road Condition
+100,9/9/2024 12:41,Mumbai,Moderate,Snowy,Icy,Auto Rickshaw,59,3,Speeding
+101,7/23/2024 23:42,Delhi,Minor,Clear,Dry,Truck,34,1,Red Light Violation
+102,2/6/2023 6:23,Chennai,Moderate,Snowy,Wet,Auto Rickshaw,42,5,Overtaking
+103,8/27/2024 5:41,Bangalore,Minor,Snowy,Icy,Auto Rickshaw,63,2,Bad Road Condition
+104,10/3/2023 1:19,Ahmedabad,Moderate,Windy,Dry,Auto Rickshaw,54,0,Weather
+105,9/18/2024 20:00,Mumbai,Severe,Clear,Dry,Bus,23,1,Overtaking
+106,4/15/2024 22:18,Kolkata,Minor,Clear,Dry,Truck,41,3,Speeding
+107,10/22/2024 10:55,Delhi,Severe,Snowy,Dry,Bus,43,1,Drunk Driving
+108,1/7/2024 12:04,Ahmedabad,Minor,Rainy,Under Construction,Bike,25,4,Overtaking
+109,4/23/2023 16:25,Kolkata,Minor,Rainy,Under Construction,Auto Rickshaw,19,4,Drunk Driving
+110,8/21/2024 0:22,Hyderabad,Moderate,Clear,Under Construction,Truck,19,3,Overtaking
+111,7/11/2024 19:58,Bangalore,Moderate,Snowy,Potholes,Bicycle,30,1,Speeding
+112,9/16/2023 17:24,Mumbai,Moderate,Snowy,Potholes,Bicycle,51,5,Drunk Driving
+113,11/16/2023 14:08,Bangalore,Severe,Foggy,Dry,Truck,31,2,Speeding
+114,7/16/2024 4:10,Ahmedabad,Severe,Clear,Wet,Bus,31,4,Red Light Violation
+115,5/9/2023 5:04,Mumbai,Severe,Foggy,Wet,Car,53,5,Weather
+116,9/28/2024 17:50,Chennai,Moderate,Foggy,Potholes,Truck,48,4,Weather
+117,10/18/2023 11:55,Kolkata,Moderate,Clear,Dry,Car,42,5,Weather
+118,6/28/2024 0:33,Kolkata,Minor,Clear,Under Construction,Bicycle,22,5,Weather
+119,11/5/2024 20:52,Chennai,Severe,Rainy,Under Construction,Bike,30,3,Overtaking
+120,4/26/2024 13:43,Chennai,Severe,Snowy,Dry,Bicycle,56,1,Drunk Driving
+121,5/11/2024 21:11,Chennai,Moderate,Snowy,Wet,Bike,27,0,Red Light Violation
+122,3/6/2023 5:15,Chennai,Moderate,Clear,Icy,Truck,38,3,Speeding
+123,2/19/2023 7:59,Mumbai,Minor,Snowy,Icy,Bicycle,37,3,Red Light Violation
+124,1/27/2024 18:56,Kolkata,Minor,Foggy,Dry,Car,31,2,Brake Failure
+125,5/22/2023 2:06,Chennai,Minor,Rainy,Icy,Bike,29,1,Speeding
+126,6/9/2023 7:14,Ahmedabad,Minor,Foggy,Wet,Bus,28,2,Overtaking
+127,7/20/2024 22:12,Chennai,Moderate,Rainy,Potholes,Car,51,2,Drunk Driving
+128,12/2/2024 21:34,Hyderabad,Severe,Snowy,Under Construction,Bike,43,4,Drunk Driving
+129,3/27/2023 23:43,Hyderabad,Moderate,Windy,Wet,Truck,60,0,Bad Road Condition
+130,8/28/2023 13:50,Hyderabad,Minor,Clear,Wet,Bus,29,5,Bad Road Condition
+131,1/8/2023 7:22,Pune,Minor,Rainy,Dry,Bicycle,45,5,Speeding
+132,12/10/2023 13:57,Pune,Moderate,Foggy,Icy,Bicycle,28,3,Speeding
+133,10/15/2023 14:23,Hyderabad,Moderate,Rainy,Potholes,Bus,28,5,Overtaking
+134,5/15/2024 5:33,Kolkata,Moderate,Foggy,Under Construction,Bus,65,2,Overtaking
+135,10/9/2024 7:26,Delhi,Minor,Windy,Dry,Bus,42,0,Bad Road Condition
+136,8/24/2023 23:44,Ahmedabad,Moderate,Snowy,Icy,Auto Rickshaw,27,3,Drunk Driving
+137,9/1/2024 16:24,Delhi,Minor,Snowy,Under Construction,Car,31,5,Speeding
+138,3/3/2023 23:56,Ahmedabad,Severe,Rainy,Dry,Bus,24,1,Red Light Violation
+139,5/28/2023 2:36,Mumbai,Minor,Clear,Icy,Truck,48,2,Brake Failure
+140,6/29/2024 19:10,Pune,Moderate,Clear,Under Construction,Truck,54,4,Weather
+141,2/13/2023 21:37,Chennai,Severe,Windy,Wet,Auto Rickshaw,50,1,Speeding
+142,8/8/2024 1:20,Hyderabad,Moderate,Foggy,Icy,Bike,61,3,Brake Failure
+143,11/19/2024 7:11,Hyderabad,Moderate,Snowy,Potholes,Bicycle,43,2,Speeding
+144,5/19/2024 5:08,Mumbai,Minor,Clear,Wet,Bus,55,4,Speeding
+145,3/2/2023 19:14,Ahmedabad,Minor,Foggy,Dry,Car,33,1,Speeding
+146,2/26/2023 6:24,Delhi,Minor,Snowy,Potholes,Truck,42,5,Red Light Violation
+147,8/30/2023 8:07,Hyderabad,Severe,Windy,Icy,Bike,64,4,Bad Road Condition
+148,5/15/2023 17:38,Delhi,Minor,Clear,Under Construction,Bike,46,1,Drunk Driving
+149,4/1/2023 8:04,Mumbai,Moderate,Windy,Under Construction,Car,54,4,Bad Road Condition
+150,11/7/2023 12:37,Hyderabad,Minor,Foggy,Under Construction,Car,60,2,Bad Road Condition
+151,2/8/2023 16:22,Mumbai,Moderate,Snowy,Potholes,Bus,37,4,Red Light Violation
+152,6/1/2023 0:38,Mumbai,Moderate,Rainy,Icy,Bike,65,2,Drunk Driving
+153,3/5/2023 1:46,Ahmedabad,Severe,Windy,Icy,Bike,33,5,Brake Failure
+154,12/26/2024 13:08,Pune,Minor,Snowy,Potholes,Truck,27,2,Bad Road Condition
+155,2/28/2023 6:05,Delhi,Severe,Clear,Wet,Bus,48,5,Weather
+156,6/21/2024 0:42,Kolkata,Minor,Foggy,Wet,Car,26,5,Overtaking
+157,1/1/2024 9:11,Pune,Minor,Windy,Icy,Truck,36,0,Speeding
+158,1/8/2024 5:27,Pune,Severe,Rainy,Icy,Bicycle,54,5,Drunk Driving
+159,11/3/2024 4:56,Ahmedabad,Severe,Snowy,Wet,Truck,19,1,Drunk Driving
+160,6/19/2023 14:07,Kolkata,Minor,Rainy,Icy,Bike,28,2,Red Light Violation
+161,6/10/2023 13:10,Bangalore,Severe,Snowy,Potholes,Bike,55,1,Speeding
+162,12/17/2024 5:07,Delhi,Minor,Foggy,Dry,Bus,30,4,Bad Road Condition
+163,8/4/2024 20:58,Ahmedabad,Minor,Windy,Icy,Bike,62,4,Overtaking
+164,9/3/2023 18:34,Bangalore,Severe,Foggy,Wet,Car,39,2,Brake Failure
+165,2/8/2024 14:07,Chennai,Minor,Snowy,Potholes,Bicycle,43,5,Bad Road Condition
+166,9/26/2024 0:37,Mumbai,Moderate,Windy,Under Construction,Bicycle,23,5,Weather
+167,6/24/2023 10:53,Hyderabad,Severe,Rainy,Wet,Auto Rickshaw,23,2,Red Light Violation
+168,5/11/2023 16:54,Hyderabad,Minor,Snowy,Icy,Bus,65,4,Overtaking
+169,5/13/2023 10:15,Mumbai,Moderate,Clear,Potholes,Car,32,4,Bad Road Condition
+170,2/26/2023 15:34,Delhi,Moderate,Clear,Icy,Bike,28,4,Weather
+171,2/4/2024 8:24,Chennai,Moderate,Clear,Dry,Car,42,4,Speeding
+172,4/1/2023 9:38,Kolkata,Minor,Windy,Potholes,Bike,57,3,Red Light Violation
+173,2/3/2023 14:57,Kolkata,Moderate,Snowy,Icy,Bicycle,42,3,Brake Failure
+174,4/28/2024 3:32,Ahmedabad,Minor,Snowy,Wet,Auto Rickshaw,51,4,Bad Road Condition
+175,3/24/2024 13:38,Chennai,Severe,Clear,Icy,Auto Rickshaw,57,4,Overtaking
+176,3/8/2024 5:27,Delhi,Severe,Windy,Wet,Truck,57,2,Weather
+177,3/1/2024 0:52,Hyderabad,Moderate,Rainy,Dry,Auto Rickshaw,59,4,Drunk Driving
+178,6/11/2023 1:20,Ahmedabad,Minor,Foggy,Wet,Bicycle,45,1,Brake Failure
+179,6/7/2024 0:37,Mumbai,Severe,Snowy,Wet,Bicycle,20,0,Bad Road Condition
+180,8/1/2023 23:33,Delhi,Moderate,Rainy,Under Construction,Bike,47,2,Weather
+181,1/4/2023 8:13,Ahmedabad,Moderate,Foggy,Icy,Bike,29,2,Drunk Driving
+182,11/14/2023 4:24,Pune,Severe,Foggy,Icy,Bike,61,4,Red Light Violation
+183,11/26/2023 14:30,Ahmedabad,Minor,Windy,Icy,Truck,25,1,Brake Failure
+184,11/30/2024 9:03,Kolkata,Minor,Rainy,Icy,Bike,34,4,Bad Road Condition
+185,12/18/2024 11:44,Ahmedabad,Moderate,Foggy,Icy,Truck,30,0,Red Light Violation
+186,10/16/2023 10:29,Delhi,Severe,Clear,Dry,Bicycle,20,3,Weather
+187,6/26/2023 23:21,Ahmedabad,Minor,Rainy,Wet,Car,36,0,Brake Failure
+188,5/19/2024 4:10,Chennai,Moderate,Rainy,Wet,Car,34,2,Bad Road Condition
+189,6/8/2023 18:01,Kolkata,Minor,Windy,Wet,Bicycle,23,3,Bad Road Condition
+190,6/9/2023 19:40,Hyderabad,Severe,Clear,Dry,Car,31,0,Red Light Violation
+191,10/20/2023 5:17,Ahmedabad,Minor,Clear,Potholes,Truck,44,2,Red Light Violation
+192,12/19/2023 0:21,Bangalore,Minor,Clear,Potholes,Auto Rickshaw,37,1,Drunk Driving
+193,3/16/2023 21:39,Mumbai,Moderate,Rainy,Icy,Auto Rickshaw,57,5,Weather
+194,12/2/2023 7:11,Pune,Moderate,Snowy,Dry,Bus,24,4,Brake Failure
+195,6/16/2024 0:00,Pune,Moderate,Snowy,Dry,Auto Rickshaw,21,4,Bad Road Condition
+196,3/22/2023 7:53,Chennai,Minor,Foggy,Icy,Auto Rickshaw,18,4,Brake Failure
+197,12/21/2024 12:06,Hyderabad,Minor,Rainy,Icy,Truck,29,1,Drunk Driving
+198,11/25/2024 22:37,Chennai,Minor,Windy,Wet,Bike,35,2,Bad Road Condition
+199,5/29/2023 3:20,Pune,Severe,Rainy,Icy,Bus,19,2,Speeding
+200,6/28/2023 17:42,Delhi,Severe,Snowy,Dry,Bike,28,4,Bad Road Condition
+201,9/6/2024 15:05,Kolkata,Moderate,Windy,Potholes,Car,32,1,Overtaking
+202,7/20/2024 23:42,Delhi,Minor,Rainy,Dry,Car,35,1,Weather
+203,2/24/2024 5:42,Chennai,Moderate,Rainy,Potholes,Bus,41,5,Speeding
+204,10/9/2023 13:47,Ahmedabad,Minor,Clear,Icy,Bike,35,3,Speeding
+205,11/9/2024 2:59,Pune,Minor,Rainy,Wet,Car,55,0,Drunk Driving
+206,10/16/2023 21:29,Mumbai,Moderate,Snowy,Icy,Bike,25,1,Overtaking
+207,6/13/2023 0:01,Chennai,Minor,Foggy,Under Construction,Auto Rickshaw,52,4,Bad Road Condition
+208,11/26/2024 16:24,Hyderabad,Severe,Rainy,Dry,Bicycle,54,5,Bad Road Condition
+209,1/19/2024 11:08,Ahmedabad,Severe,Rainy,Dry,Car,32,1,Red Light Violation
+210,4/2/2023 22:24,Bangalore,Minor,Rainy,Under Construction,Auto Rickshaw,39,3,Weather
+211,1/14/2023 2:58,Bangalore,Severe,Rainy,Wet,Bike,38,2,Bad Road Condition
+212,9/3/2023 5:45,Ahmedabad,Minor,Rainy,Under Construction,Bike,25,0,Drunk Driving
+213,9/1/2023 9:34,Mumbai,Moderate,Foggy,Potholes,Bicycle,40,5,Brake Failure
+214,2/28/2023 1:33,Mumbai,Moderate,Clear,Wet,Auto Rickshaw,43,0,Drunk Driving
+215,10/11/2023 8:33,Chennai,Minor,Clear,Icy,Bus,32,5,Weather
+216,10/20/2023 11:03,Chennai,Moderate,Snowy,Under Construction,Bus,25,1,Bad Road Condition
+217,4/20/2023 21:39,Chennai,Moderate,Rainy,Icy,Bicycle,24,2,Red Light Violation
+218,1/24/2023 11:16,Kolkata,Minor,Foggy,Under Construction,Bus,56,0,Speeding
+219,7/26/2024 8:10,Bangalore,Moderate,Rainy,Potholes,Car,45,3,Drunk Driving
+220,4/28/2023 14:54,Mumbai,Minor,Windy,Wet,Truck,33,3,Bad Road Condition
+221,9/16/2023 17:50,Hyderabad,Moderate,Windy,Wet,Auto Rickshaw,24,3,Drunk Driving
+222,10/23/2024 1:23,Hyderabad,Minor,Windy,Icy,Bike,59,4,Brake Failure
+223,6/11/2024 4:59,Hyderabad,Moderate,Snowy,Under Construction,Auto Rickshaw,60,2,Bad Road Condition
+224,12/20/2023 19:11,Bangalore,Moderate,Snowy,Potholes,Truck,32,0,Brake Failure
+225,12/16/2024 16:21,Mumbai,Severe,Rainy,Potholes,Auto Rickshaw,20,4,Red Light Violation
+226,8/19/2024 6:31,Pune,Severe,Snowy,Dry,Bike,55,3,Speeding
+227,6/27/2023 10:46,Chennai,Minor,Clear,Under Construction,Truck,54,1,Drunk Driving
+228,7/24/2023 15:23,Kolkata,Moderate,Rainy,Potholes,Car,22,0,Brake Failure
+229,12/2/2023 3:17,Ahmedabad,Minor,Windy,Under Construction,Bicycle,23,0,Weather
+230,11/7/2024 8:27,Bangalore,Moderate,Foggy,Icy,Auto Rickshaw,40,4,Brake Failure
+231,10/22/2024 5:24,Chennai,Minor,Snowy,Under Construction,Car,18,2,Drunk Driving
+232,2/8/2024 16:07,Mumbai,Severe,Rainy,Dry,Bike,19,5,Bad Road Condition
+233,5/15/2023 21:29,Kolkata,Severe,Snowy,Wet,Auto Rickshaw,36,1,Drunk Driving
+234,6/15/2024 11:41,Pune,Moderate,Windy,Icy,Auto Rickshaw,44,2,Weather
+235,9/9/2024 6:13,Mumbai,Moderate,Clear,Dry,Truck,64,3,Speeding
+236,9/7/2023 0:51,Bangalore,Minor,Foggy,Potholes,Bike,50,2,Weather
+237,7/29/2023 1:29,Bangalore,Minor,Clear,Under Construction,Truck,47,3,Red Light Violation
+238,11/26/2024 20:18,Ahmedabad,Severe,Clear,Under Construction,Bike,30,2,Red Light Violation
+239,2/6/2024 23:12,Pune,Minor,Clear,Dry,Car,25,0,Bad Road Condition
+240,4/18/2024 11:50,Chennai,Moderate,Clear,Icy,Bike,63,4,Weather
+241,2/9/2024 7:24,Pune,Moderate,Clear,Wet,Car,29,0,Red Light Violation
+242,6/16/2024 8:02,Mumbai,Severe,Clear,Wet,Bicycle,34,0,Bad Road Condition
+243,9/4/2023 3:10,Pune,Moderate,Foggy,Potholes,Bike,54,4,Drunk Driving
+244,9/17/2023 8:40,Kolkata,Moderate,Rainy,Potholes,Truck,64,4,Speeding
+245,3/5/2023 19:23,Mumbai,Minor,Clear,Dry,Bike,26,3,Bad Road Condition
+246,7/30/2023 17:30,Pune,Severe,Snowy,Potholes,Car,64,3,Red Light Violation
+247,3/1/2024 16:27,Bangalore,Minor,Clear,Potholes,Auto Rickshaw,58,4,Brake Failure
+248,10/30/2024 0:57,Mumbai,Minor,Foggy,Wet,Bicycle,56,2,Speeding
+249,4/24/2023 12:14,Ahmedabad,Moderate,Clear,Icy,Auto Rickshaw,34,5,Speeding
+250,6/12/2024 14:09,Hyderabad,Moderate,Foggy,Icy,Bike,65,3,Red Light Violation
+251,7/12/2023 1:16,Delhi,Minor,Snowy,Under Construction,Car,26,4,Bad Road Condition
+252,11/29/2023 11:11,Ahmedabad,Severe,Clear,Dry,Truck,28,2,Drunk Driving
+253,2/1/2024 3:26,Ahmedabad,Minor,Clear,Wet,Auto Rickshaw,46,2,Drunk Driving
+254,3/12/2023 3:38,Ahmedabad,Minor,Snowy,Under Construction,Bus,27,2,Red Light Violation
+255,11/7/2024 14:01,Delhi,Severe,Clear,Under Construction,Bicycle,25,2,Speeding
+256,3/13/2023 1:47,Delhi,Minor,Rainy,Wet,Bicycle,48,3,Brake Failure
+257,10/25/2023 5:58,Delhi,Minor,Rainy,Dry,Auto Rickshaw,42,4,Overtaking
+258,1/29/2023 17:34,Ahmedabad,Minor,Windy,Under Construction,Bicycle,49,1,Brake Failure
+259,5/6/2024 17:29,Pune,Minor,Foggy,Dry,Bike,60,5,Weather
+260,8/22/2023 15:41,Hyderabad,Severe,Snowy,Under Construction,Auto Rickshaw,40,5,Bad Road Condition
+261,6/17/2024 20:21,Chennai,Moderate,Rainy,Dry,Truck,28,5,Drunk Driving
+262,2/28/2024 14:45,Delhi,Moderate,Foggy,Potholes,Auto Rickshaw,28,0,Red Light Violation
+263,12/28/2023 16:54,Mumbai,Minor,Snowy,Potholes,Bicycle,21,2,Weather
+264,2/13/2024 8:57,Ahmedabad,Minor,Snowy,Under Construction,Bus,55,1,Drunk Driving
+265,4/28/2024 6:09,Ahmedabad,Minor,Snowy,Under Construction,Car,63,0,Bad Road Condition
+266,8/30/2024 12:18,Pune,Moderate,Rainy,Icy,Truck,34,5,Bad Road Condition
+267,8/30/2023 7:02,Hyderabad,Moderate,Rainy,Under Construction,Bus,62,0,Weather
+268,1/9/2024 1:00,Kolkata,Severe,Windy,Icy,Bus,52,2,Red Light Violation
+269,12/2/2023 4:50,Chennai,Moderate,Snowy,Under Construction,Truck,39,0,Speeding
+270,12/4/2023 15:57,Bangalore,Moderate,Clear,Potholes,Truck,25,4,Bad Road Condition
+271,10/10/2023 14:26,Delhi,Minor,Rainy,Wet,Bike,46,5,Overtaking
+272,2/23/2024 15:35,Pune,Severe,Clear,Potholes,Car,55,0,Red Light Violation
+273,11/13/2024 23:53,Hyderabad,Minor,Snowy,Under Construction,Bicycle,49,4,Bad Road Condition
+274,9/12/2023 11:19,Chennai,Minor,Snowy,Potholes,Bus,37,0,Speeding
+275,1/14/2024 7:17,Chennai,Severe,Rainy,Potholes,Truck,40,5,Brake Failure
+276,1/18/2023 9:19,Hyderabad,Minor,Foggy,Under Construction,Truck,45,3,Brake Failure
+277,8/17/2024 13:03,Pune,Severe,Rainy,Potholes,Auto Rickshaw,57,4,Overtaking
+278,7/26/2023 9:36,Pune,Moderate,Snowy,Under Construction,Bicycle,30,5,Red Light Violation
+279,10/2/2024 6:18,Chennai,Minor,Rainy,Under Construction,Auto Rickshaw,32,5,Overtaking
+280,5/6/2024 17:44,Bangalore,Severe,Snowy,Icy,Auto Rickshaw,30,2,Red Light Violation
+281,4/25/2023 11:47,Delhi,Minor,Snowy,Wet,Auto Rickshaw,28,1,Speeding
+282,9/11/2023 15:18,Delhi,Minor,Foggy,Dry,Bus,51,4,Overtaking
+283,5/10/2024 9:45,Mumbai,Severe,Windy,Under Construction,Bike,64,1,Drunk Driving
+284,9/25/2023 6:53,Bangalore,Minor,Clear,Icy,Truck,56,4,Overtaking
+285,12/28/2023 13:25,Mumbai,Minor,Foggy,Potholes,Auto Rickshaw,31,5,Red Light Violation
+286,8/7/2023 14:07,Kolkata,Moderate,Windy,Potholes,Bike,33,2,Bad Road Condition
+287,4/29/2024 23:04,Mumbai,Moderate,Clear,Wet,Auto Rickshaw,31,1,Weather
+288,8/16/2024 7:09,Ahmedabad,Severe,Clear,Icy,Bike,25,4,Brake Failure
+289,5/26/2023 5:50,Chennai,Severe,Foggy,Potholes,Auto Rickshaw,46,2,Weather
+290,5/24/2024 16:15,Pune,Severe,Windy,Under Construction,Car,63,4,Speeding
+291,9/4/2023 0:58,Bangalore,Minor,Clear,Under Construction,Bus,48,3,Drunk Driving
+292,5/16/2023 8:10,Ahmedabad,Moderate,Snowy,Under Construction,Bus,39,0,Red Light Violation
+293,10/16/2023 2:42,Hyderabad,Moderate,Snowy,Potholes,Auto Rickshaw,31,1,Brake Failure
+294,12/4/2023 23:08,Ahmedabad,Minor,Windy,Under Construction,Bus,59,0,Brake Failure
+295,7/30/2023 8:59,Kolkata,Minor,Rainy,Wet,Truck,62,1,Overtaking
+296,1/29/2024 23:26,Kolkata,Moderate,Clear,Icy,Truck,45,1,Drunk Driving
+297,8/23/2023 12:25,Chennai,Moderate,Rainy,Wet,Bus,34,5,Overtaking
+298,4/7/2023 13:08,Delhi,Moderate,Clear,Under Construction,Bicycle,53,5,Weather
+299,7/7/2024 8:59,Mumbai,Moderate,Windy,Potholes,Car,42,4,Bad Road Condition
+300,8/9/2024 20:03,Bangalore,Minor,Rainy,Wet,Bike,49,4,Weather
+301,9/29/2023 16:05,Mumbai,Severe,Windy,Icy,Auto Rickshaw,42,0,Brake Failure
+302,9/21/2023 18:24,Hyderabad,Minor,Rainy,Potholes,Auto Rickshaw,55,2,Red Light Violation
+303,7/4/2023 11:37,Pune,Moderate,Rainy,Dry,Truck,44,1,Red Light Violation
+304,12/24/2023 5:40,Kolkata,Minor,Windy,Under Construction,Auto Rickshaw,35,5,Weather
+305,7/30/2024 0:10,Chennai,Severe,Rainy,Under Construction,Bike,29,2,Bad Road Condition
+306,2/26/2024 18:50,Delhi,Minor,Rainy,Potholes,Bicycle,56,5,Overtaking
+307,1/13/2023 22:48,Bangalore,Severe,Rainy,Dry,Bicycle,59,4,Bad Road Condition
+308,6/11/2023 3:15,Chennai,Severe,Snowy,Under Construction,Truck,58,4,Weather
+309,9/23/2023 14:27,Ahmedabad,Minor,Clear,Potholes,Bike,48,1,Speeding
+310,7/9/2023 7:26,Kolkata,Moderate,Windy,Dry,Bike,62,4,Overtaking
+311,10/7/2023 1:03,Mumbai,Minor,Clear,Wet,Truck,27,2,Drunk Driving
+312,10/23/2024 22:35,Mumbai,Severe,Foggy,Icy,Truck,63,0,Bad Road Condition
+313,10/6/2024 18:13,Bangalore,Severe,Foggy,Potholes,Auto Rickshaw,57,5,Brake Failure
+314,8/22/2024 15:47,Bangalore,Minor,Windy,Dry,Car,34,1,Red Light Violation
+315,8/24/2023 19:06,Bangalore,Minor,Snowy,Potholes,Bike,20,2,Bad Road Condition
+316,11/12/2023 3:48,Hyderabad,Minor,Clear,Dry,Bus,21,0,Brake Failure
+317,12/14/2024 13:04,Pune,Minor,Clear,Potholes,Auto Rickshaw,20,1,Speeding
+318,6/10/2023 14:04,Bangalore,Moderate,Clear,Dry,Auto Rickshaw,23,3,Weather
+319,6/20/2024 9:26,Mumbai,Severe,Clear,Dry,Car,29,4,Red Light Violation
+320,4/16/2024 2:07,Hyderabad,Severe,Rainy,Under Construction,Truck,46,3,Bad Road Condition
+321,2/9/2023 17:32,Bangalore,Moderate,Foggy,Potholes,Bike,59,1,Bad Road Condition
+322,10/9/2023 12:59,Kolkata,Moderate,Foggy,Dry,Truck,62,1,Brake Failure
+323,10/5/2023 10:17,Mumbai,Minor,Windy,Under Construction,Bicycle,25,3,Speeding
+324,11/17/2024 22:16,Kolkata,Moderate,Snowy,Under Construction,Bus,63,5,Drunk Driving
+325,7/3/2024 18:52,Chennai,Moderate,Foggy,Icy,Bike,29,4,Weather
+326,4/1/2024 6:38,Hyderabad,Moderate,Foggy,Under Construction,Bicycle,52,5,Red Light Violation
+327,1/31/2024 0:55,Bangalore,Minor,Rainy,Dry,Car,19,0,Speeding
+328,3/31/2024 15:01,Pune,Minor,Windy,Wet,Bus,59,4,Weather
+329,6/16/2023 19:28,Delhi,Moderate,Rainy,Potholes,Bike,46,1,Overtaking
+330,8/15/2023 8:10,Mumbai,Moderate,Clear,Potholes,Bus,53,3,Weather
+331,5/19/2023 1:36,Mumbai,Minor,Clear,Wet,Bicycle,47,2,Overtaking
+332,1/6/2023 13:21,Hyderabad,Moderate,Foggy,Under Construction,Truck,54,0,Brake Failure
+333,2/14/2023 0:21,Pune,Severe,Foggy,Dry,Bike,24,5,Speeding
+334,8/7/2023 17:55,Hyderabad,Moderate,Rainy,Dry,Bike,56,0,Red Light Violation
+335,4/25/2024 6:53,Chennai,Minor,Snowy,Wet,Bus,19,2,Red Light Violation
+336,8/21/2023 13:43,Pune,Minor,Windy,Potholes,Truck,59,4,Brake Failure
+337,4/13/2023 16:05,Bangalore,Severe,Foggy,Under Construction,Bicycle,29,1,Red Light Violation
+338,10/19/2023 12:34,Bangalore,Minor,Snowy,Dry,Bicycle,55,5,Weather
+339,5/25/2024 22:44,Kolkata,Severe,Snowy,Wet,Bike,57,0,Drunk Driving
+340,7/15/2024 12:14,Ahmedabad,Minor,Foggy,Under Construction,Car,19,2,Brake Failure
+341,3/27/2023 5:48,Hyderabad,Minor,Rainy,Under Construction,Car,51,2,Red Light Violation
+342,11/15/2024 11:37,Mumbai,Moderate,Windy,Potholes,Auto Rickshaw,25,5,Red Light Violation
+343,7/26/2023 8:59,Hyderabad,Minor,Rainy,Icy,Bike,46,3,Red Light Violation
+344,2/9/2024 13:32,Delhi,Severe,Rainy,Potholes,Auto Rickshaw,50,5,Drunk Driving
+345,3/30/2024 11:56,Hyderabad,Minor,Snowy,Wet,Bus,61,4,Brake Failure
+346,12/25/2024 9:55,Hyderabad,Moderate,Clear,Icy,Bicycle,42,4,Bad Road Condition
+347,10/14/2024 4:34,Hyderabad,Minor,Windy,Icy,Bus,34,5,Weather
+348,3/12/2023 4:54,Delhi,Severe,Snowy,Wet,Bus,26,1,Bad Road Condition
+349,3/5/2023 19:38,Kolkata,Moderate,Foggy,Dry,Car,54,0,Bad Road Condition
+350,4/8/2023 8:29,Kolkata,Severe,Windy,Under Construction,Bicycle,36,1,Drunk Driving
+351,6/9/2024 20:00,Hyderabad,Severe,Snowy,Potholes,Bus,47,3,Speeding
+352,8/31/2024 12:23,Hyderabad,Severe,Snowy,Wet,Auto Rickshaw,35,3,Red Light Violation
+353,9/3/2023 14:05,Delhi,Severe,Snowy,Wet,Bike,60,0,Drunk Driving
+354,9/9/2023 9:43,Ahmedabad,Moderate,Foggy,Icy,Bicycle,25,2,Drunk Driving
+355,7/9/2023 5:18,Mumbai,Severe,Windy,Potholes,Bicycle,37,2,Brake Failure
+356,12/31/2023 22:05,Ahmedabad,Minor,Rainy,Wet,Bicycle,40,1,Speeding
+357,1/9/2024 23:00,Mumbai,Minor,Snowy,Potholes,Bus,43,4,Weather
+358,6/30/2023 4:15,Delhi,Severe,Windy,Under Construction,Bicycle,56,1,Brake Failure
+359,1/28/2023 8:23,Ahmedabad,Minor,Snowy,Potholes,Car,18,2,Drunk Driving
+360,12/28/2023 20:48,Pune,Minor,Foggy,Dry,Car,37,5,Overtaking
+361,6/30/2024 14:39,Delhi,Minor,Clear,Dry,Bicycle,44,5,Brake Failure
+362,12/21/2023 8:32,Mumbai,Moderate,Foggy,Dry,Car,52,4,Bad Road Condition
+363,7/19/2023 18:49,Pune,Moderate,Clear,Under Construction,Auto Rickshaw,61,4,Speeding
+364,9/19/2023 10:08,Kolkata,Minor,Foggy,Potholes,Truck,32,4,Speeding
+365,7/28/2023 16:32,Hyderabad,Moderate,Foggy,Under Construction,Bus,61,2,Weather
+366,3/19/2024 0:40,Delhi,Minor,Windy,Potholes,Car,27,3,Brake Failure
+367,8/13/2023 4:25,Ahmedabad,Severe,Clear,Potholes,Auto Rickshaw,50,4,Brake Failure
+368,4/18/2023 23:18,Bangalore,Minor,Clear,Potholes,Truck,40,3,Red Light Violation
+369,8/3/2023 23:01,Mumbai,Severe,Rainy,Potholes,Truck,34,4,Bad Road Condition
+370,6/16/2023 7:31,Ahmedabad,Moderate,Clear,Potholes,Bicycle,52,5,Speeding
+371,1/19/2024 23:02,Kolkata,Minor,Foggy,Potholes,Truck,58,5,Weather
+372,6/13/2024 18:09,Ahmedabad,Minor,Windy,Icy,Auto Rickshaw,34,4,Speeding
+373,11/22/2024 0:25,Kolkata,Severe,Clear,Icy,Bike,18,1,Drunk Driving
+374,9/4/2024 4:28,Mumbai,Minor,Foggy,Potholes,Bicycle,61,3,Drunk Driving
+375,11/13/2023 22:04,Delhi,Minor,Clear,Icy,Bicycle,51,5,Overtaking
+376,11/22/2023 10:35,Hyderabad,Minor,Rainy,Dry,Bike,47,4,Bad Road Condition
+377,1/11/2024 16:32,Kolkata,Severe,Rainy,Dry,Car,18,2,Brake Failure
+378,9/16/2024 11:16,Kolkata,Moderate,Snowy,Potholes,Bike,18,0,Drunk Driving
+379,5/8/2024 1:36,Mumbai,Minor,Snowy,Potholes,Auto Rickshaw,62,5,Bad Road Condition
+380,5/2/2023 18:56,Ahmedabad,Severe,Rainy,Under Construction,Truck,29,0,Brake Failure
+381,7/11/2023 19:49,Chennai,Severe,Windy,Under Construction,Auto Rickshaw,24,0,Bad Road Condition
+382,12/9/2023 21:07,Hyderabad,Minor,Rainy,Icy,Bus,23,4,Weather
+383,8/26/2024 11:57,Chennai,Minor,Snowy,Wet,Bicycle,49,4,Weather
+384,5/18/2024 5:19,Hyderabad,Moderate,Rainy,Wet,Bike,46,3,Brake Failure
+385,2/9/2024 4:40,Ahmedabad,Severe,Rainy,Wet,Bicycle,60,5,Red Light Violation
+386,5/6/2024 10:32,Ahmedabad,Minor,Snowy,Wet,Bicycle,20,2,Brake Failure
+387,10/21/2023 9:02,Mumbai,Severe,Windy,Icy,Bus,56,2,Bad Road Condition
+388,3/8/2024 4:23,Ahmedabad,Severe,Clear,Dry,Bicycle,45,0,Speeding
+389,11/26/2023 6:18,Pune,Minor,Foggy,Under Construction,Bike,42,4,Red Light Violation
+390,8/5/2024 2:08,Chennai,Moderate,Foggy,Icy,Bus,55,5,Weather
+391,9/10/2023 11:44,Hyderabad,Severe,Rainy,Dry,Bike,50,4,Weather
+392,6/10/2024 17:29,Chennai,Severe,Clear,Icy,Bicycle,65,2,Brake Failure
+393,6/3/2024 14:21,Chennai,Minor,Snowy,Under Construction,Bus,58,3,Overtaking
+394,7/10/2024 12:00,Ahmedabad,Moderate,Clear,Wet,Bike,57,4,Bad Road Condition
+395,12/19/2023 1:34,Bangalore,Minor,Snowy,Icy,Bike,33,2,Brake Failure
+396,6/4/2024 19:26,Chennai,Severe,Foggy,Potholes,Bicycle,21,0,Overtaking
+397,3/2/2024 13:42,Delhi,Minor,Foggy,Dry,Bicycle,64,1,Bad Road Condition
+398,8/27/2024 15:05,Bangalore,Moderate,Rainy,Wet,Bike,65,2,Overtaking
+399,9/12/2023 1:10,Hyderabad,Moderate,Foggy,Potholes,Bike,52,5,Weather
+400,3/30/2023 2:17,Kolkata,Severe,Rainy,Wet,Bus,62,2,Red Light Violation
+401,2/19/2024 9:27,Chennai,Moderate,Clear,Wet,Car,35,5,Bad Road Condition
+402,7/2/2023 20:19,Delhi,Severe,Windy,Wet,Auto Rickshaw,26,1,Red Light Violation
+403,9/12/2023 9:27,Hyderabad,Moderate,Foggy,Under Construction,Bike,58,0,Drunk Driving
+404,3/10/2024 4:38,Hyderabad,Minor,Rainy,Icy,Bus,19,5,Bad Road Condition
+405,3/25/2023 18:11,Ahmedabad,Severe,Rainy,Icy,Bike,46,0,Red Light Violation
+406,1/23/2023 9:05,Pune,Moderate,Windy,Potholes,Auto Rickshaw,19,1,Brake Failure
+407,7/28/2024 16:00,Chennai,Minor,Rainy,Icy,Bike,26,2,Brake Failure
+408,4/3/2023 23:02,Ahmedabad,Severe,Foggy,Icy,Bicycle,24,2,Drunk Driving
+409,5/23/2023 5:45,Hyderabad,Severe,Clear,Wet,Truck,63,2,Speeding
+410,7/2/2024 4:27,Hyderabad,Minor,Clear,Icy,Truck,48,0,Red Light Violation
+411,4/7/2024 23:05,Chennai,Minor,Clear,Wet,Bicycle,52,0,Speeding
+412,7/1/2023 13:44,Kolkata,Severe,Snowy,Potholes,Bicycle,26,0,Drunk Driving
+413,8/11/2024 13:03,Bangalore,Moderate,Snowy,Icy,Auto Rickshaw,53,5,Overtaking
+414,1/3/2023 17:53,Ahmedabad,Minor,Foggy,Wet,Truck,44,1,Overtaking
+415,12/16/2023 7:50,Ahmedabad,Minor,Snowy,Dry,Truck,33,3,Weather
+416,1/26/2024 2:04,Bangalore,Moderate,Clear,Icy,Bicycle,37,1,Bad Road Condition
+417,3/13/2023 13:05,Kolkata,Minor,Snowy,Wet,Auto Rickshaw,39,5,Speeding
+418,12/10/2023 22:37,Chennai,Severe,Foggy,Icy,Bicycle,27,0,Red Light Violation
+419,11/26/2023 17:58,Hyderabad,Moderate,Clear,Dry,Bus,25,3,Speeding
+420,8/6/2023 16:22,Kolkata,Minor,Foggy,Potholes,Bus,54,0,Drunk Driving
+421,1/1/2023 7:32,Bangalore,Minor,Clear,Wet,Bus,56,5,Weather
+422,10/21/2024 21:08,Bangalore,Moderate,Snowy,Icy,Bicycle,61,4,Speeding
+423,12/22/2024 21:49,Mumbai,Severe,Rainy,Potholes,Truck,54,4,Weather
+424,2/10/2024 2:00,Hyderabad,Severe,Rainy,Under Construction,Bicycle,60,3,Speeding
+425,2/26/2024 19:13,Bangalore,Minor,Foggy,Potholes,Bus,38,3,Weather
+426,9/30/2023 7:16,Ahmedabad,Minor,Foggy,Potholes,Bicycle,21,5,Weather
+427,6/20/2023 20:14,Pune,Minor,Clear,Under Construction,Bike,18,2,Overtaking
+428,3/30/2023 7:09,Ahmedabad,Moderate,Clear,Dry,Auto Rickshaw,38,2,Red Light Violation
+429,3/24/2024 0:59,Delhi,Minor,Foggy,Potholes,Car,53,4,Drunk Driving
+430,5/22/2023 18:44,Chennai,Minor,Windy,Icy,Car,56,0,Overtaking
+431,7/17/2024 2:22,Hyderabad,Severe,Clear,Potholes,Bus,22,0,Weather
+432,5/20/2023 17:37,Delhi,Severe,Clear,Icy,Bike,40,3,Red Light Violation
+433,6/9/2024 15:48,Ahmedabad,Moderate,Clear,Potholes,Truck,57,4,Drunk Driving
+434,10/20/2024 10:45,Pune,Severe,Clear,Potholes,Bicycle,54,2,Weather
+435,3/16/2023 2:19,Bangalore,Minor,Snowy,Under Construction,Car,18,0,Weather
+436,9/20/2024 8:07,Hyderabad,Moderate,Clear,Under Construction,Car,30,0,Red Light Violation
+437,1/21/2023 12:03,Kolkata,Minor,Foggy,Potholes,Bus,23,1,Overtaking
+438,1/12/2024 9:43,Pune,Moderate,Rainy,Dry,Bus,64,0,Red Light Violation
+439,3/17/2024 10:04,Kolkata,Minor,Rainy,Icy,Car,29,0,Bad Road Condition
+440,3/5/2023 3:00,Ahmedabad,Moderate,Windy,Wet,Truck,52,4,Weather
+441,10/31/2023 1:20,Bangalore,Minor,Clear,Icy,Auto Rickshaw,29,3,Overtaking
+442,11/8/2023 19:52,Chennai,Moderate,Clear,Wet,Bus,45,2,Red Light Violation
+443,1/16/2024 3:47,Delhi,Minor,Windy,Wet,Bus,23,0,Overtaking
+444,8/16/2023 10:07,Kolkata,Moderate,Windy,Dry,Bus,23,3,Speeding
+445,8/24/2023 6:32,Mumbai,Severe,Foggy,Wet,Bicycle,56,1,Drunk Driving
+446,2/2/2024 20:21,Mumbai,Severe,Windy,Icy,Bike,29,0,Drunk Driving
+447,10/9/2024 12:04,Ahmedabad,Moderate,Clear,Wet,Car,20,0,Overtaking
+448,8/20/2023 6:17,Mumbai,Minor,Rainy,Potholes,Car,65,1,Weather
+449,10/24/2023 22:51,Kolkata,Severe,Foggy,Wet,Car,21,0,Brake Failure
+450,5/16/2023 10:07,Kolkata,Moderate,Clear,Potholes,Bike,25,0,Weather
+451,6/23/2024 0:53,Delhi,Severe,Windy,Icy,Bus,25,3,Bad Road Condition
+452,9/8/2024 5:41,Hyderabad,Minor,Rainy,Wet,Auto Rickshaw,55,2,Weather
+453,2/6/2024 18:11,Chennai,Minor,Rainy,Potholes,Bicycle,55,1,Overtaking
+454,5/7/2024 17:43,Hyderabad,Severe,Rainy,Under Construction,Bicycle,63,5,Drunk Driving
+455,8/11/2023 11:54,Delhi,Moderate,Foggy,Icy,Auto Rickshaw,50,5,Speeding
+456,6/18/2023 17:26,Delhi,Minor,Snowy,Wet,Bike,53,4,Bad Road Condition
+457,5/10/2024 4:02,Ahmedabad,Severe,Snowy,Under Construction,Bike,58,5,Red Light Violation
+458,1/6/2024 20:33,Ahmedabad,Moderate,Rainy,Wet,Bus,21,3,Speeding
+459,4/19/2024 2:22,Pune,Moderate,Windy,Under Construction,Bicycle,31,2,Red Light Violation
+460,6/24/2023 19:56,Chennai,Severe,Windy,Icy,Truck,55,2,Red Light Violation
+461,4/29/2023 2:58,Chennai,Severe,Snowy,Potholes,Bike,37,3,Drunk Driving
+462,12/5/2024 17:12,Mumbai,Minor,Rainy,Potholes,Bicycle,32,1,Drunk Driving
+463,2/8/2024 7:03,Pune,Severe,Windy,Potholes,Car,49,5,Speeding
+464,7/17/2023 13:06,Ahmedabad,Minor,Rainy,Potholes,Truck,55,1,Speeding
+465,8/8/2023 21:06,Pune,Minor,Clear,Dry,Truck,25,3,Red Light Violation
+466,12/28/2023 4:46,Mumbai,Moderate,Clear,Under Construction,Bicycle,21,1,Bad Road Condition
+467,3/9/2023 1:50,Pune,Severe,Foggy,Wet,Car,56,0,Red Light Violation
+468,12/15/2023 1:22,Delhi,Severe,Windy,Wet,Truck,52,2,Bad Road Condition
+469,3/8/2023 18:16,Mumbai,Minor,Clear,Wet,Bus,57,4,Red Light Violation
+470,7/19/2024 23:29,Mumbai,Moderate,Foggy,Wet,Truck,43,2,Red Light Violation
+471,10/17/2023 7:25,Chennai,Moderate,Rainy,Icy,Bike,52,2,Speeding
+472,3/30/2023 6:15,Kolkata,Moderate,Windy,Under Construction,Car,39,0,Overtaking
+473,2/12/2024 9:50,Kolkata,Severe,Windy,Under Construction,Auto Rickshaw,37,5,Bad Road Condition
+474,7/26/2024 19:10,Pune,Severe,Foggy,Under Construction,Bike,64,2,Bad Road Condition
+475,2/1/2023 1:57,Ahmedabad,Moderate,Clear,Under Construction,Truck,20,4,Overtaking
+476,1/16/2024 11:16,Delhi,Minor,Windy,Under Construction,Car,47,5,Red Light Violation
+477,9/21/2023 9:43,Mumbai,Moderate,Snowy,Dry,Auto Rickshaw,62,4,Red Light Violation
+478,12/24/2024 18:26,Hyderabad,Minor,Snowy,Wet,Bike,62,3,Overtaking
+479,6/30/2024 11:27,Delhi,Moderate,Snowy,Under Construction,Bicycle,48,3,Weather
+480,8/4/2024 5:13,Hyderabad,Moderate,Foggy,Wet,Truck,53,0,Brake Failure
+481,10/23/2024 13:39,Pune,Severe,Clear,Potholes,Bicycle,51,2,Drunk Driving
+482,5/9/2024 1:39,Bangalore,Minor,Rainy,Wet,Bus,26,2,Speeding
+483,4/30/2024 4:09,Chennai,Minor,Snowy,Icy,Auto Rickshaw,54,5,Weather
+484,4/23/2024 7:02,Mumbai,Minor,Snowy,Dry,Truck,21,1,Brake Failure
+485,1/31/2024 1:40,Chennai,Minor,Foggy,Icy,Car,38,0,Brake Failure
+486,11/27/2024 22:22,Ahmedabad,Moderate,Snowy,Dry,Auto Rickshaw,30,3,Brake Failure
+487,3/28/2023 20:24,Chennai,Moderate,Snowy,Under Construction,Auto Rickshaw,21,5,Weather
+488,11/3/2024 19:42,Kolkata,Moderate,Clear,Potholes,Car,21,2,Bad Road Condition
+489,6/3/2023 8:57,Chennai,Moderate,Clear,Dry,Bike,51,4,Weather
+490,4/13/2024 15:27,Mumbai,Severe,Clear,Wet,Bicycle,41,1,Overtaking
+491,5/12/2024 3:09,Hyderabad,Moderate,Snowy,Dry,Auto Rickshaw,26,5,Drunk Driving
+492,3/1/2024 19:23,Mumbai,Moderate,Clear,Potholes,Truck,51,2,Bad Road Condition
+493,10/16/2024 8:55,Delhi,Minor,Snowy,Wet,Bicycle,64,5,Speeding
+494,3/23/2024 16:06,Ahmedabad,Moderate,Rainy,Icy,Auto Rickshaw,34,3,Bad Road Condition
+495,4/9/2024 19:35,Delhi,Minor,Snowy,Dry,Auto Rickshaw,53,3,Speeding
+496,2/15/2024 20:30,Bangalore,Moderate,Windy,Potholes,Car,30,0,Drunk Driving
+497,11/28/2023 5:23,Mumbai,Severe,Rainy,Under Construction,Bus,35,2,Drunk Driving
+498,12/28/2024 18:35,Ahmedabad,Moderate,Rainy,Wet,Auto Rickshaw,46,3,Speeding
+499,4/3/2023 12:38,Delhi,Severe,Rainy,Icy,Auto Rickshaw,35,1,Speeding
+500,10/1/2024 17:25,Bangalore,Minor,Rainy,Icy,Bus,24,5,Weather
+501,10/14/2023 20:13,Delhi,Severe,Windy,Wet,Car,54,4,Bad Road Condition
+502,6/10/2024 11:20,Pune,Moderate,Snowy,Wet,Car,35,0,Red Light Violation
+503,11/24/2023 4:49,Mumbai,Severe,Windy,Potholes,Bus,57,1,Bad Road Condition
+504,4/9/2023 11:47,Hyderabad,Severe,Foggy,Potholes,Bicycle,42,0,Red Light Violation
+505,10/25/2024 15:17,Ahmedabad,Moderate,Rainy,Dry,Auto Rickshaw,45,5,Overtaking
+506,10/18/2023 15:25,Mumbai,Minor,Snowy,Dry,Truck,45,0,Weather
+507,6/28/2024 9:20,Delhi,Moderate,Snowy,Potholes,Bicycle,65,4,Brake Failure
+508,9/17/2023 6:50,Mumbai,Minor,Windy,Icy,Truck,53,0,Brake Failure
+509,1/6/2023 19:16,Ahmedabad,Severe,Foggy,Under Construction,Bus,52,5,Brake Failure
+510,8/13/2023 20:15,Pune,Severe,Snowy,Icy,Truck,52,3,Speeding
+511,12/23/2024 12:10,Hyderabad,Severe,Rainy,Under Construction,Auto Rickshaw,40,2,Overtaking
+512,10/10/2023 9:16,Pune,Moderate,Rainy,Icy,Bus,55,2,Drunk Driving
+513,2/6/2024 23:02,Pune,Moderate,Snowy,Potholes,Bus,63,0,Bad Road Condition
+514,7/10/2024 2:43,Bangalore,Minor,Clear,Wet,Car,26,5,Speeding
+515,3/21/2024 15:59,Pune,Moderate,Foggy,Potholes,Bike,61,1,Weather
+516,3/6/2024 18:23,Mumbai,Severe,Snowy,Icy,Truck,44,3,Overtaking
+517,12/29/2023 5:25,Kolkata,Minor,Foggy,Wet,Auto Rickshaw,61,4,Red Light Violation
+518,7/6/2023 15:43,Hyderabad,Moderate,Clear,Under Construction,Bicycle,65,0,Overtaking
+519,2/25/2024 14:49,Chennai,Severe,Snowy,Dry,Bus,22,5,Red Light Violation
+520,4/3/2023 20:46,Chennai,Moderate,Snowy,Under Construction,Truck,37,1,Overtaking
+521,6/13/2024 9:41,Ahmedabad,Severe,Clear,Potholes,Bicycle,54,1,Weather
+522,7/14/2023 0:10,Mumbai,Severe,Snowy,Under Construction,Auto Rickshaw,19,5,Weather
+523,2/12/2023 15:26,Kolkata,Moderate,Snowy,Under Construction,Bus,46,5,Drunk Driving
+524,5/2/2023 20:14,Chennai,Severe,Foggy,Under Construction,Bicycle,43,3,Speeding
+525,9/26/2023 22:19,Pune,Moderate,Snowy,Wet,Bus,36,5,Speeding
+526,11/11/2023 7:31,Mumbai,Minor,Snowy,Potholes,Bus,20,2,Overtaking
+527,7/11/2023 17:06,Bangalore,Moderate,Rainy,Potholes,Bus,21,0,Overtaking
+528,4/12/2024 19:13,Bangalore,Moderate,Windy,Icy,Bike,26,2,Drunk Driving
+529,1/4/2024 17:09,Hyderabad,Moderate,Rainy,Wet,Bus,29,0,Weather
+530,9/30/2024 13:29,Ahmedabad,Severe,Clear,Under Construction,Truck,19,2,Brake Failure
+531,7/28/2023 22:38,Mumbai,Severe,Clear,Potholes,Bus,20,1,Red Light Violation
+532,4/2/2023 12:08,Hyderabad,Severe,Rainy,Icy,Bike,19,2,Weather
+533,5/4/2023 10:31,Kolkata,Severe,Clear,Dry,Bicycle,33,4,Drunk Driving
+534,12/21/2023 9:59,Bangalore,Minor,Clear,Icy,Truck,30,3,Overtaking
+535,10/6/2024 16:38,Bangalore,Moderate,Rainy,Potholes,Auto Rickshaw,61,0,Speeding
+536,4/12/2023 8:32,Hyderabad,Severe,Snowy,Dry,Bus,54,3,Brake Failure
+537,12/7/2024 0:43,Hyderabad,Severe,Windy,Potholes,Bus,44,1,Red Light Violation
+538,12/9/2024 15:04,Ahmedabad,Moderate,Rainy,Dry,Auto Rickshaw,50,4,Red Light Violation
+539,12/22/2023 10:33,Pune,Moderate,Clear,Potholes,Bike,49,0,Overtaking
+540,12/19/2023 14:36,Hyderabad,Moderate,Rainy,Dry,Truck,50,1,Speeding
+541,1/7/2024 11:17,Ahmedabad,Moderate,Rainy,Wet,Bike,21,4,Weather
+542,3/1/2024 18:54,Pune,Moderate,Snowy,Dry,Auto Rickshaw,18,1,Brake Failure
+543,10/1/2023 4:38,Chennai,Minor,Foggy,Wet,Bicycle,20,3,Speeding
+544,5/18/2023 14:12,Chennai,Moderate,Foggy,Potholes,Auto Rickshaw,44,2,Red Light Violation
+545,5/30/2024 2:30,Delhi,Severe,Rainy,Wet,Bike,37,1,Drunk Driving
+546,12/8/2023 13:52,Kolkata,Moderate,Snowy,Icy,Bus,37,4,Red Light Violation
+547,10/5/2023 1:21,Delhi,Moderate,Clear,Wet,Truck,35,2,Overtaking
+548,7/27/2024 17:07,Mumbai,Minor,Windy,Wet,Auto Rickshaw,48,1,Overtaking
+549,4/25/2023 21:01,Ahmedabad,Minor,Windy,Wet,Bicycle,63,5,Weather
+550,2/6/2023 12:57,Ahmedabad,Severe,Clear,Potholes,Bicycle,29,2,Speeding
+551,9/27/2023 3:08,Ahmedabad,Moderate,Foggy,Icy,Truck,22,1,Drunk Driving
+552,1/26/2023 15:09,Chennai,Moderate,Rainy,Dry,Car,50,3,Brake Failure
+553,2/14/2024 2:17,Hyderabad,Moderate,Rainy,Wet,Car,43,1,Brake Failure
+554,12/16/2024 12:31,Pune,Minor,Snowy,Potholes,Bicycle,45,3,Red Light Violation
+555,6/21/2023 9:18,Ahmedabad,Severe,Clear,Wet,Truck,50,3,Speeding
+556,3/10/2023 19:16,Hyderabad,Minor,Rainy,Under Construction,Bicycle,34,2,Speeding
+557,4/9/2024 7:59,Hyderabad,Minor,Windy,Potholes,Bike,33,0,Bad Road Condition
+558,4/17/2024 21:33,Mumbai,Moderate,Windy,Wet,Bike,39,4,Speeding
+559,8/20/2024 19:41,Hyderabad,Severe,Windy,Under Construction,Truck,56,2,Overtaking
+560,7/14/2023 1:59,Ahmedabad,Severe,Snowy,Dry,Auto Rickshaw,37,1,Drunk Driving
+561,9/19/2023 5:06,Chennai,Minor,Snowy,Dry,Auto Rickshaw,53,5,Weather
+562,3/14/2023 23:48,Bangalore,Severe,Windy,Dry,Car,21,4,Bad Road Condition
+563,11/14/2024 3:04,Chennai,Moderate,Windy,Wet,Bus,35,5,Bad Road Condition
+564,4/10/2024 1:08,Kolkata,Severe,Rainy,Under Construction,Auto Rickshaw,39,2,Brake Failure
+565,3/8/2024 1:12,Delhi,Minor,Snowy,Icy,Auto Rickshaw,59,0,Weather
+566,9/19/2024 4:37,Chennai,Severe,Foggy,Under Construction,Auto Rickshaw,55,4,Drunk Driving
+567,5/2/2023 16:35,Kolkata,Severe,Clear,Under Construction,Auto Rickshaw,23,5,Brake Failure
+568,10/7/2024 6:53,Mumbai,Minor,Windy,Dry,Auto Rickshaw,37,2,Drunk Driving
+569,7/17/2024 11:41,Pune,Moderate,Windy,Wet,Bus,36,3,Drunk Driving
+570,6/29/2024 16:36,Delhi,Severe,Clear,Potholes,Car,58,4,Weather
+571,12/14/2024 5:10,Delhi,Moderate,Snowy,Icy,Truck,58,5,Speeding
+572,5/9/2023 1:17,Ahmedabad,Moderate,Clear,Wet,Bike,40,2,Speeding
+573,11/22/2023 2:40,Kolkata,Severe,Rainy,Dry,Bicycle,38,2,Bad Road Condition
+574,6/20/2024 17:03,Pune,Severe,Snowy,Potholes,Bus,24,5,Drunk Driving
+575,7/14/2023 4:02,Bangalore,Moderate,Snowy,Wet,Auto Rickshaw,41,2,Red Light Violation
+576,4/11/2023 8:12,Hyderabad,Minor,Rainy,Under Construction,Auto Rickshaw,31,2,Weather
+577,3/18/2023 23:06,Pune,Moderate,Rainy,Icy,Bicycle,20,5,Overtaking
+578,6/30/2024 22:00,Bangalore,Minor,Windy,Icy,Car,23,1,Drunk Driving
+579,2/29/2024 8:08,Mumbai,Moderate,Snowy,Under Construction,Car,19,0,Drunk Driving
+580,12/4/2023 7:17,Kolkata,Minor,Clear,Icy,Bike,34,0,Brake Failure
+581,2/8/2023 18:15,Pune,Minor,Clear,Icy,Bike,55,2,Brake Failure
+582,11/18/2024 10:30,Delhi,Minor,Rainy,Wet,Truck,29,0,Bad Road Condition
+583,10/4/2023 21:50,Mumbai,Minor,Clear,Icy,Auto Rickshaw,43,3,Speeding
+584,3/16/2023 20:13,Bangalore,Minor,Snowy,Potholes,Bicycle,57,0,Speeding
+585,4/13/2023 15:25,Delhi,Minor,Foggy,Under Construction,Truck,62,2,Bad Road Condition
+586,1/18/2023 9:42,Kolkata,Minor,Windy,Icy,Bike,37,1,Weather
+587,3/31/2023 4:30,Chennai,Moderate,Rainy,Under Construction,Car,59,4,Speeding
+588,6/2/2023 3:11,Kolkata,Severe,Rainy,Potholes,Car,58,0,Overtaking
+589,9/6/2023 21:03,Kolkata,Minor,Foggy,Under Construction,Bike,22,4,Overtaking
+590,9/3/2023 22:43,Kolkata,Moderate,Clear,Potholes,Bicycle,31,5,Bad Road Condition
+591,3/30/2024 6:53,Delhi,Minor,Windy,Dry,Bike,46,2,Overtaking
+592,3/11/2024 16:09,Pune,Minor,Foggy,Icy,Auto Rickshaw,28,1,Red Light Violation
+593,10/24/2023 23:38,Delhi,Minor,Clear,Wet,Bus,47,4,Drunk Driving
+594,9/18/2024 7:08,Kolkata,Severe,Snowy,Wet,Car,43,4,Bad Road Condition
+595,6/24/2024 18:44,Pune,Moderate,Snowy,Potholes,Bus,53,5,Drunk Driving
+596,8/3/2024 16:04,Hyderabad,Severe,Clear,Potholes,Car,34,0,Speeding
+597,12/3/2023 12:49,Pune,Minor,Windy,Icy,Bike,50,1,Red Light Violation
+598,10/16/2024 12:08,Kolkata,Minor,Clear,Potholes,Bicycle,21,0,Red Light Violation
+599,4/12/2023 11:10,Hyderabad,Severe,Snowy,Dry,Bike,31,4,Red Light Violation
+600,3/21/2024 1:24,Pune,Minor,Windy,Under Construction,Auto Rickshaw,40,2,Brake Failure
+601,7/9/2023 10:24,Delhi,Severe,Snowy,Potholes,Auto Rickshaw,35,1,Overtaking
+602,7/23/2023 5:15,Delhi,Minor,Rainy,Wet,Truck,43,4,Drunk Driving
+603,5/24/2023 3:42,Pune,Minor,Rainy,Wet,Bicycle,61,4,Drunk Driving
+604,9/3/2023 9:38,Chennai,Moderate,Rainy,Potholes,Bike,63,3,Red Light Violation
+605,10/10/2023 2:38,Ahmedabad,Severe,Windy,Icy,Bike,42,1,Drunk Driving
+606,1/21/2023 4:28,Mumbai,Moderate,Clear,Wet,Bus,18,4,Drunk Driving
+607,4/17/2024 15:12,Delhi,Moderate,Windy,Potholes,Bus,47,2,Bad Road Condition
+608,11/30/2023 7:14,Hyderabad,Severe,Snowy,Dry,Car,30,2,Brake Failure
+609,8/22/2024 0:20,Mumbai,Severe,Snowy,Wet,Truck,60,5,Brake Failure
+610,5/23/2024 0:10,Bangalore,Moderate,Windy,Dry,Auto Rickshaw,60,0,Red Light Violation
+611,11/5/2024 15:45,Kolkata,Severe,Rainy,Under Construction,Truck,61,0,Bad Road Condition
+612,7/24/2023 6:27,Delhi,Severe,Foggy,Icy,Truck,34,5,Drunk Driving
+613,10/23/2023 5:32,Kolkata,Minor,Snowy,Icy,Bicycle,39,2,Brake Failure
+614,10/25/2024 23:44,Chennai,Minor,Snowy,Icy,Bike,38,5,Brake Failure
+615,4/24/2023 19:05,Kolkata,Moderate,Snowy,Dry,Truck,24,1,Brake Failure
+616,8/2/2023 12:04,Pune,Minor,Windy,Dry,Truck,29,1,Overtaking
+617,3/17/2023 13:22,Mumbai,Severe,Clear,Under Construction,Bike,35,4,Bad Road Condition
+618,12/10/2023 16:35,Bangalore,Moderate,Clear,Dry,Auto Rickshaw,44,2,Drunk Driving
+619,8/9/2023 1:02,Delhi,Moderate,Clear,Potholes,Auto Rickshaw,27,5,Speeding
+620,5/18/2024 7:49,Delhi,Severe,Snowy,Wet,Truck,37,1,Overtaking
+621,2/5/2023 23:04,Ahmedabad,Minor,Foggy,Dry,Truck,52,5,Bad Road Condition
+622,5/11/2023 13:19,Mumbai,Moderate,Foggy,Under Construction,Bicycle,49,1,Drunk Driving
+623,5/13/2024 14:33,Kolkata,Minor,Snowy,Icy,Bus,45,2,Bad Road Condition
+624,5/1/2023 10:12,Chennai,Severe,Foggy,Potholes,Bike,64,2,Bad Road Condition
+625,5/1/2023 12:41,Bangalore,Moderate,Clear,Icy,Truck,44,1,Drunk Driving
+626,4/29/2024 19:17,Delhi,Severe,Foggy,Potholes,Bicycle,39,4,Speeding
+627,5/23/2024 7:07,Pune,Minor,Windy,Icy,Bike,26,4,Red Light Violation
+628,7/15/2023 7:45,Pune,Minor,Snowy,Icy,Truck,35,0,Weather
+629,4/4/2024 0:03,Delhi,Moderate,Snowy,Icy,Bus,65,2,Brake Failure
+630,10/13/2023 14:36,Hyderabad,Minor,Snowy,Potholes,Bike,34,1,Speeding
+631,6/21/2024 19:37,Mumbai,Moderate,Clear,Dry,Bicycle,39,5,Speeding
+632,1/18/2024 4:48,Ahmedabad,Moderate,Clear,Potholes,Bicycle,38,0,Weather
+633,1/27/2023 18:35,Delhi,Moderate,Rainy,Potholes,Bicycle,27,1,Brake Failure
+634,4/14/2024 23:41,Mumbai,Minor,Rainy,Wet,Bus,55,5,Drunk Driving
+635,12/18/2024 3:49,Hyderabad,Minor,Foggy,Potholes,Bike,56,5,Brake Failure
+636,11/7/2023 3:50,Hyderabad,Severe,Clear,Potholes,Car,18,1,Bad Road Condition
+637,1/15/2023 23:13,Mumbai,Moderate,Foggy,Under Construction,Car,24,2,Red Light Violation
+638,7/26/2023 1:56,Mumbai,Severe,Windy,Dry,Truck,37,0,Drunk Driving
+639,12/28/2023 7:34,Pune,Moderate,Windy,Wet,Car,59,5,Speeding
+640,2/18/2023 18:12,Ahmedabad,Moderate,Windy,Potholes,Auto Rickshaw,22,1,Drunk Driving
+641,5/14/2023 2:57,Hyderabad,Moderate,Rainy,Icy,Bike,19,1,Overtaking
+642,10/3/2024 14:06,Bangalore,Moderate,Windy,Dry,Bicycle,34,4,Overtaking
+643,10/4/2023 3:04,Hyderabad,Minor,Snowy,Icy,Truck,27,5,Speeding
+644,9/11/2023 12:05,Bangalore,Moderate,Windy,Dry,Truck,22,2,Bad Road Condition
+645,12/21/2024 7:45,Kolkata,Severe,Windy,Dry,Bike,33,0,Bad Road Condition
+646,2/21/2023 5:24,Ahmedabad,Severe,Snowy,Potholes,Truck,56,1,Drunk Driving
+647,11/23/2023 12:50,Ahmedabad,Severe,Rainy,Potholes,Auto Rickshaw,59,1,Weather
+648,8/27/2023 0:08,Hyderabad,Moderate,Rainy,Wet,Auto Rickshaw,47,0,Weather
+649,7/1/2023 23:27,Kolkata,Severe,Foggy,Under Construction,Bicycle,33,3,Overtaking
+650,10/30/2023 12:39,Hyderabad,Minor,Clear,Icy,Bike,31,2,Overtaking
+651,10/25/2024 12:39,Bangalore,Severe,Clear,Under Construction,Car,31,5,Brake Failure
+652,12/17/2024 14:45,Ahmedabad,Moderate,Windy,Dry,Truck,63,2,Speeding
+653,10/8/2024 17:01,Pune,Severe,Snowy,Icy,Truck,18,1,Weather
+654,7/27/2023 10:09,Delhi,Severe,Snowy,Icy,Auto Rickshaw,39,5,Red Light Violation
+655,6/15/2023 2:56,Bangalore,Minor,Clear,Dry,Car,20,4,Speeding
+656,11/23/2023 15:35,Pune,Minor,Rainy,Under Construction,Bike,32,0,Speeding
+657,4/21/2023 3:24,Delhi,Moderate,Windy,Wet,Bike,20,2,Brake Failure
+658,1/21/2024 22:48,Ahmedabad,Minor,Clear,Wet,Auto Rickshaw,47,3,Speeding
+659,7/12/2024 2:56,Hyderabad,Severe,Clear,Potholes,Truck,54,3,Brake Failure
+660,3/2/2023 2:13,Delhi,Minor,Snowy,Potholes,Auto Rickshaw,30,2,Weather
+661,8/20/2024 15:27,Pune,Moderate,Foggy,Wet,Bus,26,3,Weather
+662,2/23/2024 13:38,Kolkata,Moderate,Windy,Icy,Auto Rickshaw,58,5,Weather
+663,11/15/2024 6:40,Kolkata,Severe,Snowy,Under Construction,Auto Rickshaw,36,4,Weather
+664,10/25/2024 1:05,Ahmedabad,Minor,Snowy,Under Construction,Bike,38,2,Speeding
+665,12/3/2023 15:12,Pune,Severe,Clear,Icy,Bike,38,2,Brake Failure
+666,10/28/2023 7:35,Pune,Severe,Rainy,Dry,Truck,39,4,Brake Failure
+667,2/19/2024 13:31,Hyderabad,Moderate,Foggy,Under Construction,Auto Rickshaw,30,4,Weather
+668,3/20/2024 13:14,Chennai,Severe,Rainy,Wet,Auto Rickshaw,61,5,Overtaking
+669,10/31/2024 22:59,Mumbai,Minor,Windy,Icy,Bike,64,5,Red Light Violation
+670,11/21/2024 11:17,Delhi,Moderate,Snowy,Icy,Bus,48,3,Speeding
+671,9/14/2024 4:13,Mumbai,Minor,Snowy,Potholes,Truck,27,5,Brake Failure
+672,1/11/2023 10:34,Kolkata,Severe,Foggy,Under Construction,Bus,31,4,Overtaking
+673,8/13/2024 4:02,Kolkata,Moderate,Foggy,Under Construction,Bike,22,5,Drunk Driving
+674,11/8/2023 21:08,Pune,Moderate,Clear,Icy,Auto Rickshaw,36,1,Brake Failure
+675,12/16/2024 18:53,Delhi,Moderate,Clear,Under Construction,Truck,58,0,Overtaking
+676,12/11/2024 10:33,Ahmedabad,Minor,Rainy,Wet,Auto Rickshaw,29,1,Red Light Violation
+677,11/6/2024 12:27,Kolkata,Severe,Foggy,Icy,Bus,38,4,Drunk Driving
+678,2/28/2023 23:49,Hyderabad,Severe,Foggy,Icy,Car,44,2,Red Light Violation
+679,10/29/2023 8:25,Chennai,Minor,Snowy,Wet,Bus,30,0,Drunk Driving
+680,10/24/2024 2:11,Delhi,Moderate,Foggy,Under Construction,Bicycle,43,1,Overtaking
+681,6/19/2023 18:05,Ahmedabad,Severe,Snowy,Wet,Auto Rickshaw,19,0,Bad Road Condition
+682,2/25/2024 1:44,Kolkata,Minor,Clear,Dry,Bicycle,62,3,Weather
+683,12/28/2024 15:31,Mumbai,Moderate,Foggy,Dry,Bike,63,1,Red Light Violation
+684,9/6/2024 1:56,Chennai,Minor,Clear,Potholes,Bike,28,3,Drunk Driving
+685,2/21/2023 2:38,Mumbai,Moderate,Rainy,Dry,Bicycle,25,5,Bad Road Condition
+686,7/27/2023 23:11,Mumbai,Severe,Foggy,Dry,Bicycle,20,5,Weather
+687,7/29/2023 19:46,Bangalore,Minor,Rainy,Under Construction,Car,18,3,Drunk Driving
+688,5/5/2024 18:06,Chennai,Moderate,Rainy,Dry,Auto Rickshaw,34,5,Brake Failure
+689,1/11/2023 5:37,Delhi,Severe,Windy,Dry,Bus,30,0,Drunk Driving
+690,4/11/2023 6:13,Kolkata,Severe,Clear,Under Construction,Auto Rickshaw,60,1,Red Light Violation
+691,6/12/2024 15:38,Delhi,Moderate,Foggy,Dry,Bicycle,24,4,Bad Road Condition
+692,9/21/2024 18:13,Bangalore,Severe,Clear,Wet,Bicycle,50,0,Overtaking
+693,7/7/2024 11:43,Chennai,Moderate,Clear,Under Construction,Auto Rickshaw,51,3,Bad Road Condition
+694,10/14/2024 0:17,Chennai,Minor,Snowy,Wet,Bus,54,3,Brake Failure
+695,6/28/2023 19:09,Chennai,Moderate,Clear,Potholes,Car,48,3,Weather
+696,1/6/2023 21:40,Kolkata,Severe,Rainy,Dry,Bicycle,36,1,Drunk Driving
+697,1/4/2023 12:14,Pune,Minor,Snowy,Dry,Bike,33,5,Overtaking
+698,11/16/2024 4:22,Mumbai,Severe,Rainy,Icy,Auto Rickshaw,38,3,Weather
+699,11/14/2024 0:52,Delhi,Moderate,Windy,Potholes,Bus,34,3,Bad Road Condition
+700,6/23/2024 16:52,Ahmedabad,Moderate,Snowy,Potholes,Car,64,1,Drunk Driving
+701,8/21/2024 8:20,Bangalore,Moderate,Clear,Dry,Truck,20,4,Bad Road Condition
+702,8/1/2024 9:33,Pune,Minor,Clear,Under Construction,Bicycle,52,4,Bad Road Condition
+703,6/20/2024 1:47,Mumbai,Minor,Foggy,Potholes,Car,21,4,Drunk Driving
+704,1/3/2024 18:45,Pune,Minor,Windy,Dry,Bus,52,3,Overtaking
+705,2/15/2024 4:37,Delhi,Moderate,Clear,Potholes,Truck,57,2,Overtaking
+706,2/28/2024 1:50,Chennai,Minor,Rainy,Wet,Truck,51,1,Weather
+707,7/29/2023 19:47,Mumbai,Minor,Foggy,Icy,Truck,20,3,Bad Road Condition
+708,10/4/2023 21:03,Ahmedabad,Moderate,Foggy,Icy,Bicycle,43,5,Weather
+709,10/31/2023 23:57,Mumbai,Moderate,Rainy,Icy,Car,19,4,Weather
+710,4/7/2023 2:56,Chennai,Moderate,Clear,Dry,Truck,44,2,Drunk Driving
+711,12/14/2024 10:41,Hyderabad,Moderate,Foggy,Icy,Car,40,4,Bad Road Condition
+712,12/21/2024 19:36,Hyderabad,Minor,Windy,Potholes,Bike,21,4,Brake Failure
+713,5/14/2024 11:37,Pune,Severe,Snowy,Under Construction,Bike,60,4,Speeding
+714,4/13/2023 9:01,Ahmedabad,Severe,Snowy,Dry,Car,59,0,Weather
+715,3/27/2023 20:25,Delhi,Moderate,Foggy,Wet,Bus,53,1,Brake Failure
+716,9/30/2024 3:02,Mumbai,Severe,Clear,Wet,Truck,20,1,Drunk Driving
+717,4/20/2023 19:02,Kolkata,Minor,Rainy,Under Construction,Bus,26,5,Drunk Driving
+718,6/28/2024 1:01,Kolkata,Minor,Foggy,Potholes,Bus,58,5,Speeding
+719,8/5/2023 3:28,Chennai,Moderate,Windy,Under Construction,Truck,56,3,Speeding
+720,9/11/2024 8:11,Hyderabad,Minor,Foggy,Wet,Car,49,1,Overtaking
+721,8/27/2024 5:31,Mumbai,Minor,Rainy,Dry,Bus,19,3,Overtaking
+722,2/17/2023 13:11,Hyderabad,Severe,Clear,Under Construction,Truck,55,2,Overtaking
+723,12/3/2024 7:46,Bangalore,Moderate,Rainy,Icy,Bicycle,50,3,Overtaking
+724,8/6/2024 23:15,Kolkata,Minor,Clear,Icy,Auto Rickshaw,52,5,Bad Road Condition
+725,5/23/2024 7:46,Bangalore,Minor,Windy,Wet,Car,25,5,Brake Failure
+726,5/1/2024 17:14,Chennai,Minor,Rainy,Wet,Bike,23,4,Drunk Driving
+727,12/8/2024 16:12,Delhi,Moderate,Windy,Dry,Bicycle,40,4,Brake Failure
+728,5/17/2023 4:47,Hyderabad,Minor,Windy,Wet,Bike,18,3,Overtaking
+729,2/12/2023 16:14,Pune,Minor,Clear,Potholes,Bicycle,37,4,Red Light Violation
+730,8/26/2024 5:39,Delhi,Minor,Snowy,Icy,Bike,41,5,Bad Road Condition
+731,6/3/2023 17:10,Bangalore,Moderate,Foggy,Icy,Car,23,0,Bad Road Condition
+732,4/16/2023 4:56,Delhi,Severe,Foggy,Dry,Bicycle,25,1,Weather
+733,4/20/2023 17:01,Pune,Minor,Windy,Dry,Bike,31,1,Red Light Violation
+734,1/6/2024 7:01,Mumbai,Severe,Foggy,Under Construction,Bicycle,38,0,Weather
+735,4/27/2023 6:35,Kolkata,Minor,Snowy,Icy,Bicycle,24,1,Red Light Violation
+736,1/2/2024 22:25,Bangalore,Minor,Windy,Wet,Bicycle,60,1,Bad Road Condition
+737,1/15/2023 18:54,Kolkata,Minor,Clear,Dry,Bus,44,0,Drunk Driving
+738,9/16/2023 18:31,Delhi,Minor,Clear,Dry,Bicycle,25,2,Brake Failure
+739,5/14/2024 19:54,Ahmedabad,Minor,Clear,Under Construction,Auto Rickshaw,33,0,Drunk Driving
+740,10/7/2023 2:58,Chennai,Severe,Snowy,Under Construction,Bicycle,48,2,Speeding
+741,8/18/2024 3:04,Kolkata,Severe,Clear,Under Construction,Truck,29,4,Drunk Driving
+742,6/29/2023 6:16,Delhi,Minor,Clear,Icy,Bike,27,3,Red Light Violation
+743,7/3/2024 19:10,Delhi,Severe,Foggy,Icy,Auto Rickshaw,19,2,Bad Road Condition
+744,8/16/2024 13:01,Mumbai,Severe,Clear,Icy,Bike,53,4,Bad Road Condition
+745,7/2/2023 4:41,Pune,Minor,Clear,Dry,Bike,22,3,Red Light Violation
+746,2/24/2023 2:23,Hyderabad,Moderate,Rainy,Wet,Car,49,3,Overtaking
+747,5/17/2023 2:36,Delhi,Severe,Snowy,Potholes,Bike,20,2,Weather
+748,10/13/2023 21:20,Mumbai,Minor,Foggy,Potholes,Bus,52,5,Red Light Violation
+749,4/12/2023 7:55,Bangalore,Moderate,Foggy,Potholes,Car,56,0,Bad Road Condition
+750,1/9/2023 18:32,Pune,Moderate,Rainy,Wet,Bus,18,1,Red Light Violation
+751,7/31/2024 8:07,Bangalore,Severe,Rainy,Under Construction,Bicycle,25,3,Drunk Driving
+752,1/30/2024 21:18,Pune,Minor,Snowy,Dry,Car,39,4,Brake Failure
+753,12/29/2024 7:06,Ahmedabad,Minor,Rainy,Icy,Bus,52,3,Bad Road Condition
+754,10/4/2024 13:52,Delhi,Moderate,Foggy,Wet,Car,36,4,Brake Failure
+755,7/18/2023 15:39,Hyderabad,Moderate,Windy,Wet,Bicycle,29,0,Speeding
+756,6/21/2023 16:03,Ahmedabad,Moderate,Clear,Wet,Auto Rickshaw,55,1,Brake Failure
+757,11/5/2023 23:52,Ahmedabad,Moderate,Clear,Potholes,Auto Rickshaw,20,5,Drunk Driving
+758,8/23/2024 16:57,Pune,Moderate,Windy,Icy,Bicycle,37,2,Bad Road Condition
+759,8/6/2023 7:48,Ahmedabad,Severe,Rainy,Potholes,Truck,60,3,Drunk Driving
+760,6/16/2024 19:00,Bangalore,Minor,Snowy,Under Construction,Bus,27,4,Drunk Driving
+761,1/12/2024 1:08,Bangalore,Moderate,Rainy,Wet,Bike,31,0,Weather
+762,9/12/2023 0:50,Delhi,Minor,Snowy,Potholes,Bike,26,5,Bad Road Condition
+763,10/17/2024 9:33,Ahmedabad,Severe,Clear,Potholes,Bike,44,1,Drunk Driving
+764,3/17/2023 19:41,Ahmedabad,Minor,Foggy,Under Construction,Bus,29,0,Red Light Violation
+765,8/11/2024 5:14,Mumbai,Severe,Foggy,Under Construction,Auto Rickshaw,53,3,Brake Failure
+766,1/1/2023 20:46,Bangalore,Moderate,Clear,Dry,Car,30,3,Bad Road Condition
+767,4/21/2024 16:30,Chennai,Moderate,Snowy,Wet,Car,34,3,Overtaking
+768,6/28/2023 10:22,Mumbai,Minor,Foggy,Dry,Truck,43,4,Bad Road Condition
+769,10/14/2024 13:14,Pune,Minor,Windy,Potholes,Bike,30,4,Overtaking
+770,10/6/2024 9:21,Kolkata,Moderate,Foggy,Wet,Bus,23,3,Brake Failure
+771,9/30/2024 20:52,Pune,Severe,Rainy,Dry,Bicycle,41,0,Weather
+772,5/4/2024 23:07,Pune,Severe,Clear,Under Construction,Bicycle,41,4,Drunk Driving
+773,9/23/2024 5:54,Delhi,Severe,Clear,Wet,Bike,52,3,Drunk Driving
+774,12/19/2023 11:13,Pune,Minor,Clear,Wet,Bus,36,5,Drunk Driving
+775,11/14/2023 3:56,Delhi,Minor,Foggy,Potholes,Bicycle,37,2,Drunk Driving
+776,5/3/2023 19:37,Delhi,Severe,Rainy,Wet,Bike,26,1,Weather
+777,1/11/2023 6:39,Kolkata,Severe,Rainy,Wet,Bus,18,2,Bad Road Condition
+778,5/11/2023 5:54,Ahmedabad,Minor,Snowy,Dry,Bicycle,38,1,Drunk Driving
+779,8/15/2023 19:36,Ahmedabad,Minor,Foggy,Dry,Car,23,0,Bad Road Condition
+780,9/2/2024 10:37,Bangalore,Moderate,Snowy,Under Construction,Auto Rickshaw,37,1,Weather
+781,11/14/2024 19:51,Bangalore,Severe,Snowy,Potholes,Auto Rickshaw,44,0,Weather
+782,8/9/2024 17:54,Ahmedabad,Moderate,Windy,Potholes,Bike,47,1,Speeding
+783,4/3/2023 11:06,Chennai,Minor,Foggy,Under Construction,Bicycle,35,0,Weather
+784,12/26/2023 8:09,Chennai,Minor,Clear,Potholes,Truck,24,2,Red Light Violation
+785,6/15/2024 17:36,Pune,Severe,Windy,Dry,Auto Rickshaw,32,4,Red Light Violation
+786,11/20/2023 2:50,Chennai,Severe,Windy,Wet,Car,54,4,Red Light Violation
+787,7/1/2024 23:45,Bangalore,Minor,Clear,Icy,Bicycle,58,5,Speeding
+788,8/4/2023 12:58,Ahmedabad,Severe,Clear,Wet,Bus,32,5,Weather
+789,12/20/2024 12:51,Pune,Severe,Foggy,Dry,Auto Rickshaw,50,3,Drunk Driving
+790,10/13/2024 15:15,Ahmedabad,Moderate,Foggy,Wet,Truck,46,2,Speeding
+791,3/9/2024 9:54,Kolkata,Severe,Windy,Potholes,Bus,33,2,Red Light Violation
+792,9/8/2023 8:33,Chennai,Minor,Windy,Icy,Auto Rickshaw,57,0,Red Light Violation
+793,9/11/2024 17:37,Chennai,Moderate,Rainy,Under Construction,Car,58,1,Overtaking
+794,7/14/2024 21:52,Kolkata,Severe,Clear,Potholes,Bike,41,0,Speeding
+795,11/8/2023 15:36,Delhi,Severe,Clear,Potholes,Car,55,3,Brake Failure
+796,5/12/2024 21:16,Ahmedabad,Minor,Snowy,Wet,Bus,52,2,Drunk Driving
+797,9/12/2024 22:04,Bangalore,Minor,Snowy,Icy,Truck,22,0,Overtaking
+798,4/11/2024 20:22,Ahmedabad,Moderate,Rainy,Potholes,Bus,27,4,Speeding
+799,3/1/2023 0:26,Pune,Moderate,Clear,Icy,Truck,27,2,Red Light Violation
+800,9/21/2023 23:55,Bangalore,Severe,Snowy,Icy,Bus,65,2,Drunk Driving
+801,1/26/2024 20:26,Bangalore,Minor,Rainy,Dry,Car,50,1,Brake Failure
+802,2/23/2024 11:53,Pune,Severe,Rainy,Dry,Bus,34,1,Bad Road Condition
+803,12/7/2024 13:19,Hyderabad,Minor,Clear,Wet,Auto Rickshaw,22,1,Speeding
+804,11/23/2024 11:23,Bangalore,Minor,Clear,Icy,Bicycle,19,3,Brake Failure
+805,12/18/2024 6:05,Hyderabad,Severe,Clear,Under Construction,Bicycle,51,3,Bad Road Condition
+806,7/6/2023 15:04,Mumbai,Severe,Clear,Potholes,Auto Rickshaw,26,5,Red Light Violation
+807,8/13/2024 22:05,Kolkata,Minor,Rainy,Icy,Car,60,0,Weather
+808,6/24/2024 14:12,Bangalore,Moderate,Snowy,Icy,Bike,18,1,Brake Failure
+809,10/22/2023 10:15,Chennai,Severe,Clear,Icy,Truck,40,3,Speeding
+810,11/18/2023 5:24,Hyderabad,Moderate,Foggy,Wet,Auto Rickshaw,45,4,Bad Road Condition
+811,11/23/2024 4:28,Pune,Severe,Rainy,Icy,Bicycle,24,4,Weather
+812,1/17/2023 10:31,Bangalore,Severe,Snowy,Under Construction,Auto Rickshaw,54,5,Brake Failure
+813,7/15/2024 8:03,Hyderabad,Moderate,Foggy,Under Construction,Auto Rickshaw,50,5,Drunk Driving
+814,2/3/2023 19:39,Mumbai,Moderate,Windy,Potholes,Car,64,3,Drunk Driving
+815,12/11/2023 17:02,Ahmedabad,Severe,Rainy,Wet,Bicycle,39,1,Brake Failure
+816,12/26/2023 7:22,Hyderabad,Minor,Snowy,Potholes,Auto Rickshaw,42,4,Drunk Driving
+817,8/7/2023 23:57,Chennai,Moderate,Snowy,Under Construction,Bus,19,4,Speeding
+818,6/2/2024 8:59,Ahmedabad,Moderate,Foggy,Under Construction,Truck,37,5,Weather
+819,9/7/2023 20:43,Mumbai,Minor,Rainy,Icy,Bus,52,4,Red Light Violation
+820,4/7/2024 21:01,Bangalore,Severe,Rainy,Dry,Auto Rickshaw,42,1,Weather
+821,11/29/2023 23:33,Mumbai,Moderate,Clear,Wet,Bike,21,1,Brake Failure
+822,12/16/2023 0:58,Pune,Minor,Windy,Under Construction,Truck,47,2,Weather
+823,1/19/2023 22:42,Ahmedabad,Minor,Foggy,Under Construction,Truck,23,3,Speeding
+824,1/16/2024 6:39,Bangalore,Moderate,Foggy,Wet,Truck,26,2,Overtaking
+825,9/13/2024 15:19,Mumbai,Severe,Snowy,Under Construction,Auto Rickshaw,24,5,Speeding
+826,11/5/2023 5:09,Pune,Moderate,Foggy,Potholes,Bus,24,5,Red Light Violation
+827,4/29/2023 16:48,Bangalore,Severe,Windy,Dry,Car,29,5,Drunk Driving
+828,1/23/2023 11:17,Mumbai,Minor,Windy,Potholes,Bicycle,51,5,Bad Road Condition
+829,7/1/2023 12:05,Pune,Severe,Clear,Under Construction,Car,65,5,Speeding
+830,9/28/2023 8:33,Ahmedabad,Minor,Snowy,Dry,Car,59,0,Weather
+831,4/14/2023 1:17,Chennai,Severe,Snowy,Potholes,Car,58,2,Overtaking
+832,1/25/2023 14:14,Kolkata,Moderate,Foggy,Under Construction,Bike,39,3,Overtaking
+833,9/3/2024 23:39,Pune,Moderate,Foggy,Under Construction,Bike,25,0,Brake Failure
+834,2/13/2023 23:21,Bangalore,Moderate,Snowy,Dry,Truck,31,5,Bad Road Condition
+835,4/23/2024 11:36,Mumbai,Moderate,Rainy,Wet,Bus,19,1,Red Light Violation
+836,2/6/2024 21:59,Kolkata,Moderate,Snowy,Under Construction,Bicycle,26,5,Brake Failure
+837,8/5/2024 0:27,Chennai,Severe,Rainy,Dry,Bike,30,2,Bad Road Condition
+838,4/9/2024 21:29,Mumbai,Severe,Clear,Wet,Auto Rickshaw,43,1,Red Light Violation
+839,10/24/2023 7:18,Hyderabad,Severe,Clear,Dry,Truck,32,1,Overtaking
+840,9/26/2024 23:05,Bangalore,Severe,Snowy,Potholes,Bike,64,2,Brake Failure
+841,1/8/2024 4:35,Ahmedabad,Moderate,Clear,Wet,Bicycle,43,2,Speeding
+842,7/5/2024 11:40,Ahmedabad,Minor,Rainy,Under Construction,Bike,46,2,Weather
+843,5/22/2023 2:37,Ahmedabad,Severe,Foggy,Icy,Auto Rickshaw,61,4,Bad Road Condition
+844,8/26/2024 17:47,Kolkata,Minor,Windy,Under Construction,Bicycle,55,3,Red Light Violation
+845,4/23/2024 16:25,Kolkata,Severe,Foggy,Wet,Bicycle,36,2,Red Light Violation
+846,5/21/2023 10:12,Delhi,Minor,Foggy,Icy,Bus,27,4,Overtaking
+847,4/29/2023 7:42,Hyderabad,Severe,Foggy,Icy,Bus,38,3,Weather
+848,7/3/2024 6:25,Chennai,Minor,Foggy,Wet,Bicycle,30,0,Weather
+849,5/28/2024 9:46,Pune,Severe,Foggy,Under Construction,Bus,34,5,Brake Failure
+850,12/26/2024 11:20,Kolkata,Minor,Clear,Potholes,Truck,37,0,Speeding
+851,8/18/2024 2:08,Chennai,Minor,Snowy,Dry,Car,44,5,Drunk Driving
+852,4/12/2024 14:43,Delhi,Moderate,Rainy,Icy,Bicycle,21,2,Drunk Driving
+853,12/11/2023 10:19,Ahmedabad,Minor,Windy,Icy,Auto Rickshaw,60,5,Brake Failure
+854,3/6/2024 0:43,Chennai,Severe,Clear,Dry,Bike,42,2,Red Light Violation
+855,1/24/2023 5:51,Ahmedabad,Severe,Rainy,Potholes,Auto Rickshaw,35,0,Overtaking
+856,7/25/2023 6:04,Hyderabad,Moderate,Snowy,Icy,Auto Rickshaw,33,3,Weather
+857,6/9/2023 5:05,Pune,Moderate,Snowy,Wet,Bus,65,0,Brake Failure
+858,9/20/2024 20:48,Chennai,Moderate,Windy,Dry,Bike,34,2,Red Light Violation
+859,11/30/2023 4:30,Hyderabad,Moderate,Clear,Dry,Truck,36,5,Weather
+860,10/5/2023 7:31,Mumbai,Minor,Snowy,Dry,Truck,31,1,Weather
+861,8/2/2024 6:50,Mumbai,Severe,Foggy,Icy,Bicycle,60,2,Drunk Driving
+862,10/15/2024 2:19,Kolkata,Moderate,Snowy,Icy,Bicycle,30,1,Weather
+863,9/21/2024 14:26,Kolkata,Moderate,Snowy,Icy,Bicycle,25,3,Red Light Violation
+864,6/23/2024 17:15,Hyderabad,Severe,Clear,Wet,Bus,52,1,Weather
+865,1/29/2024 10:34,Chennai,Minor,Rainy,Under Construction,Truck,31,5,Speeding
+866,4/5/2024 15:20,Pune,Moderate,Windy,Dry,Car,55,3,Drunk Driving
+867,8/26/2024 11:53,Bangalore,Moderate,Clear,Under Construction,Bus,24,1,Overtaking
+868,6/27/2024 0:56,Delhi,Moderate,Clear,Potholes,Bicycle,62,1,Speeding
+869,12/15/2023 18:37,Delhi,Moderate,Rainy,Under Construction,Car,50,5,Speeding
+870,10/20/2024 16:37,Delhi,Severe,Foggy,Icy,Truck,23,2,Speeding
+871,7/6/2023 3:00,Mumbai,Moderate,Windy,Wet,Bicycle,32,1,Drunk Driving
+872,5/25/2023 19:31,Ahmedabad,Minor,Rainy,Potholes,Car,53,5,Drunk Driving
+873,7/24/2023 13:02,Mumbai,Moderate,Foggy,Potholes,Auto Rickshaw,38,5,Bad Road Condition
+874,5/31/2023 13:38,Chennai,Moderate,Rainy,Wet,Truck,43,0,Speeding
+875,6/8/2023 6:54,Chennai,Severe,Snowy,Icy,Bicycle,35,1,Red Light Violation
+876,1/19/2023 4:14,Hyderabad,Moderate,Foggy,Potholes,Bicycle,29,1,Bad Road Condition
+877,2/17/2024 15:19,Delhi,Moderate,Windy,Under Construction,Bus,55,2,Weather
+878,2/8/2024 22:42,Kolkata,Moderate,Clear,Icy,Bike,21,5,Bad Road Condition
+879,12/31/2023 12:41,Delhi,Minor,Foggy,Icy,Car,19,0,Weather
+880,3/15/2024 17:32,Chennai,Severe,Snowy,Potholes,Truck,25,4,Overtaking
+881,3/21/2024 7:09,Kolkata,Severe,Rainy,Potholes,Car,18,3,Speeding
+882,5/8/2024 7:00,Ahmedabad,Moderate,Foggy,Under Construction,Bus,55,4,Brake Failure
+883,12/9/2024 8:13,Pune,Severe,Foggy,Wet,Bike,36,1,Drunk Driving
+884,10/19/2023 7:44,Chennai,Severe,Windy,Under Construction,Truck,59,0,Brake Failure
+885,8/30/2023 14:28,Chennai,Severe,Foggy,Potholes,Bicycle,51,1,Bad Road Condition
+886,7/4/2023 18:49,Chennai,Moderate,Windy,Dry,Bus,46,3,Overtaking
+887,8/30/2023 7:51,Hyderabad,Minor,Rainy,Potholes,Bicycle,39,2,Drunk Driving
+888,7/7/2023 14:04,Kolkata,Moderate,Windy,Dry,Bike,18,0,Overtaking
+889,3/6/2023 2:17,Kolkata,Minor,Foggy,Wet,Car,65,1,Red Light Violation
+890,10/8/2023 7:19,Chennai,Moderate,Snowy,Potholes,Bicycle,36,2,Weather
+891,10/11/2024 12:29,Chennai,Minor,Clear,Wet,Bicycle,47,1,Speeding
+892,5/30/2024 12:00,Ahmedabad,Moderate,Foggy,Potholes,Car,51,3,Brake Failure
+893,9/6/2023 4:20,Bangalore,Moderate,Clear,Icy,Truck,21,0,Bad Road Condition
+894,3/18/2023 12:49,Bangalore,Severe,Snowy,Dry,Auto Rickshaw,58,5,Bad Road Condition
+895,12/17/2023 21:15,Ahmedabad,Moderate,Foggy,Dry,Bus,21,4,Weather
+896,2/8/2023 8:10,Kolkata,Severe,Windy,Dry,Car,37,2,Weather
+897,6/18/2024 18:49,Mumbai,Moderate,Clear,Under Construction,Bus,31,4,Speeding
+898,1/21/2023 11:51,Pune,Severe,Clear,Dry,Car,27,3,Drunk Driving
+899,5/5/2024 14:29,Hyderabad,Severe,Snowy,Dry,Bike,20,0,Bad Road Condition
+900,3/5/2024 2:07,Ahmedabad,Moderate,Windy,Under Construction,Bus,34,5,Drunk Driving
+901,10/7/2024 14:29,Bangalore,Minor,Windy,Wet,Auto Rickshaw,49,1,Overtaking
+902,5/24/2024 14:11,Kolkata,Minor,Snowy,Dry,Bus,59,3,Bad Road Condition
+903,9/14/2023 0:07,Chennai,Severe,Foggy,Dry,Truck,45,3,Weather
+904,9/17/2023 10:32,Ahmedabad,Severe,Windy,Dry,Auto Rickshaw,64,0,Weather
+905,11/19/2023 6:40,Pune,Severe,Snowy,Icy,Car,64,5,Red Light Violation
+906,8/11/2023 17:01,Pune,Minor,Clear,Wet,Truck,42,5,Drunk Driving
+907,4/5/2023 5:09,Delhi,Severe,Snowy,Icy,Bike,56,3,Speeding
+908,4/24/2024 16:58,Chennai,Moderate,Snowy,Potholes,Car,29,2,Drunk Driving
+909,7/17/2023 1:32,Mumbai,Minor,Rainy,Icy,Truck,18,3,Brake Failure
+910,5/25/2024 3:13,Delhi,Severe,Windy,Icy,Bicycle,55,4,Drunk Driving
+911,9/11/2023 6:30,Mumbai,Minor,Rainy,Icy,Bike,49,4,Weather
+912,8/18/2024 21:15,Bangalore,Minor,Rainy,Dry,Bike,25,5,Speeding
+913,1/7/2024 1:07,Mumbai,Severe,Snowy,Dry,Bicycle,32,5,Overtaking
+914,2/22/2024 20:46,Bangalore,Severe,Rainy,Wet,Bicycle,24,0,Weather
+915,6/7/2024 12:23,Bangalore,Severe,Windy,Dry,Car,33,5,Overtaking
+916,11/1/2023 4:02,Hyderabad,Minor,Rainy,Dry,Bicycle,26,3,Weather
+917,2/14/2024 15:21,Ahmedabad,Minor,Foggy,Potholes,Truck,43,5,Drunk Driving
+918,9/20/2024 13:59,Delhi,Minor,Windy,Wet,Bicycle,32,0,Weather
+919,11/8/2023 1:21,Kolkata,Moderate,Snowy,Icy,Truck,47,0,Red Light Violation
+920,2/8/2023 22:46,Hyderabad,Severe,Rainy,Wet,Car,60,3,Bad Road Condition
+921,2/19/2023 6:23,Kolkata,Minor,Snowy,Icy,Bicycle,28,1,Red Light Violation
+922,2/22/2024 20:58,Bangalore,Severe,Windy,Under Construction,Bicycle,40,2,Bad Road Condition
+923,10/15/2024 8:32,Ahmedabad,Minor,Rainy,Dry,Bike,61,4,Speeding
+924,8/28/2023 1:52,Chennai,Severe,Rainy,Wet,Bike,39,3,Red Light Violation
+925,5/13/2024 2:52,Kolkata,Moderate,Foggy,Icy,Car,29,2,Brake Failure
+926,7/25/2024 13:24,Chennai,Severe,Clear,Icy,Truck,44,1,Weather
+927,10/5/2023 14:16,Kolkata,Moderate,Rainy,Icy,Bike,24,2,Speeding
+928,4/19/2023 13:55,Mumbai,Severe,Foggy,Wet,Bus,24,2,Overtaking
+929,8/31/2024 15:39,Chennai,Severe,Windy,Wet,Bike,38,2,Speeding
+930,3/22/2023 2:39,Bangalore,Severe,Windy,Potholes,Truck,58,5,Speeding
+931,12/19/2024 11:14,Ahmedabad,Moderate,Windy,Potholes,Car,58,5,Red Light Violation
+932,5/14/2023 3:32,Pune,Moderate,Snowy,Dry,Car,18,1,Overtaking
+933,12/30/2024 20:07,Pune,Severe,Clear,Potholes,Auto Rickshaw,57,1,Speeding
+934,8/10/2023 7:59,Ahmedabad,Minor,Windy,Dry,Bus,24,4,Drunk Driving
+935,2/8/2023 13:33,Chennai,Severe,Windy,Potholes,Bicycle,26,2,Red Light Violation
+936,6/8/2023 22:03,Delhi,Moderate,Rainy,Under Construction,Bicycle,62,5,Brake Failure
+937,8/20/2023 4:14,Kolkata,Moderate,Clear,Potholes,Bike,23,4,Drunk Driving
+938,2/7/2024 22:51,Bangalore,Moderate,Rainy,Potholes,Bike,27,3,Weather
+939,4/24/2024 7:10,Mumbai,Minor,Clear,Wet,Bicycle,47,0,Red Light Violation
+940,3/20/2023 3:12,Mumbai,Severe,Snowy,Under Construction,Bus,51,3,Drunk Driving
+941,9/19/2023 15:20,Mumbai,Minor,Windy,Dry,Bus,22,0,Weather
+942,4/1/2023 5:12,Chennai,Moderate,Foggy,Dry,Car,51,1,Weather
+943,11/5/2023 4:04,Delhi,Minor,Rainy,Icy,Bus,34,3,Red Light Violation
+944,1/8/2023 13:27,Delhi,Moderate,Rainy,Icy,Car,64,2,Speeding
+945,5/27/2023 5:26,Kolkata,Minor,Rainy,Dry,Bicycle,26,4,Brake Failure
+946,2/25/2023 14:40,Bangalore,Moderate,Snowy,Under Construction,Bus,33,2,Red Light Violation
+947,3/7/2024 16:11,Chennai,Moderate,Foggy,Icy,Bike,26,2,Red Light Violation
+948,9/14/2023 6:03,Pune,Severe,Foggy,Icy,Bicycle,37,1,Speeding
+949,3/26/2024 14:51,Chennai,Severe,Snowy,Icy,Car,55,5,Speeding
+950,8/17/2024 10:22,Hyderabad,Minor,Snowy,Potholes,Car,44,3,Red Light Violation
+951,11/9/2023 12:13,Kolkata,Moderate,Rainy,Dry,Bike,39,2,Bad Road Condition
+952,8/25/2024 4:18,Ahmedabad,Minor,Rainy,Wet,Bus,41,2,Bad Road Condition
+953,11/2/2023 12:28,Mumbai,Minor,Rainy,Dry,Truck,24,5,Speeding
+954,1/24/2023 17:40,Ahmedabad,Minor,Clear,Wet,Bicycle,23,1,Red Light Violation
+955,2/20/2024 6:21,Chennai,Moderate,Windy,Dry,Bicycle,30,0,Brake Failure
+956,6/14/2024 16:53,Hyderabad,Minor,Snowy,Dry,Auto Rickshaw,55,4,Drunk Driving
+957,3/7/2023 6:22,Kolkata,Minor,Rainy,Potholes,Bus,62,2,Bad Road Condition
+958,1/11/2023 16:11,Ahmedabad,Moderate,Clear,Potholes,Auto Rickshaw,47,4,Speeding
+959,2/12/2023 13:54,Pune,Severe,Windy,Dry,Bike,35,1,Red Light Violation
+960,4/26/2024 10:18,Delhi,Minor,Rainy,Potholes,Car,63,2,Overtaking
+961,10/26/2024 10:08,Hyderabad,Moderate,Rainy,Potholes,Bus,59,5,Weather
+962,8/14/2023 1:32,Hyderabad,Moderate,Clear,Potholes,Auto Rickshaw,47,4,Bad Road Condition
+963,3/9/2023 19:16,Chennai,Severe,Clear,Dry,Bike,43,1,Overtaking
+964,8/24/2023 6:58,Delhi,Severe,Clear,Dry,Car,22,3,Drunk Driving
+965,8/4/2024 3:18,Hyderabad,Severe,Foggy,Dry,Truck,25,4,Red Light Violation
+966,7/24/2023 16:07,Bangalore,Moderate,Rainy,Under Construction,Bicycle,38,1,Weather
+967,7/6/2024 18:15,Mumbai,Moderate,Clear,Under Construction,Bus,34,2,Overtaking
+968,2/1/2024 1:04,Bangalore,Moderate,Windy,Wet,Auto Rickshaw,44,0,Weather
+969,9/30/2023 20:58,Pune,Moderate,Clear,Icy,Bus,50,5,Drunk Driving
+970,5/5/2024 21:12,Hyderabad,Minor,Windy,Dry,Auto Rickshaw,24,1,Bad Road Condition
+971,8/23/2024 22:00,Hyderabad,Moderate,Snowy,Under Construction,Auto Rickshaw,42,4,Overtaking
+972,6/5/2024 18:41,Mumbai,Moderate,Windy,Dry,Car,44,3,Drunk Driving
+973,6/23/2023 14:38,Delhi,Moderate,Clear,Icy,Bike,19,5,Overtaking
+974,12/28/2023 13:27,Ahmedabad,Moderate,Foggy,Potholes,Bus,53,3,Brake Failure
+975,4/5/2024 13:39,Bangalore,Severe,Windy,Potholes,Car,49,0,Brake Failure
+976,3/28/2024 4:10,Delhi,Moderate,Foggy,Wet,Auto Rickshaw,47,4,Speeding
+977,4/9/2024 8:40,Delhi,Moderate,Clear,Dry,Truck,30,0,Brake Failure
+978,6/18/2024 18:42,Delhi,Moderate,Rainy,Under Construction,Auto Rickshaw,57,5,Drunk Driving
+979,11/23/2023 11:54,Pune,Severe,Clear,Potholes,Bike,40,2,Brake Failure
+980,4/9/2023 19:08,Delhi,Moderate,Foggy,Potholes,Bicycle,36,2,Drunk Driving
+981,11/29/2023 22:42,Delhi,Moderate,Rainy,Under Construction,Car,55,1,Bad Road Condition
+982,11/26/2024 7:16,Pune,Minor,Foggy,Icy,Bicycle,42,3,Speeding
+983,5/2/2024 3:05,Chennai,Severe,Clear,Under Construction,Auto Rickshaw,64,4,Drunk Driving
+984,11/15/2024 18:17,Delhi,Minor,Foggy,Under Construction,Auto Rickshaw,37,5,Bad Road Condition
+985,4/9/2024 22:04,Ahmedabad,Moderate,Rainy,Under Construction,Bicycle,24,1,Brake Failure
+986,1/25/2024 13:34,Chennai,Minor,Clear,Dry,Auto Rickshaw,39,2,Weather
+987,12/29/2024 18:44,Hyderabad,Moderate,Rainy,Dry,Auto Rickshaw,65,0,Weather
+988,11/30/2023 11:24,Bangalore,Minor,Rainy,Potholes,Truck,48,0,Red Light Violation
+989,3/20/2024 16:57,Ahmedabad,Moderate,Snowy,Icy,Auto Rickshaw,51,3,Overtaking
+990,8/2/2024 11:15,Pune,Severe,Clear,Icy,Auto Rickshaw,55,5,Red Light Violation
+991,8/3/2024 15:04,Ahmedabad,Minor,Clear,Icy,Bus,40,3,Drunk Driving
+992,3/19/2023 10:49,Delhi,Minor,Clear,Wet,Bike,18,4,Weather
+993,5/4/2023 0:02,Bangalore,Severe,Foggy,Icy,Auto Rickshaw,40,5,Drunk Driving
+994,9/26/2023 2:01,Pune,Severe,Clear,Under Construction,Auto Rickshaw,48,1,Weather
+995,12/7/2023 12:20,Delhi,Severe,Foggy,Under Construction,Bicycle,48,0,Bad Road Condition
+996,8/2/2024 0:03,Pune,Minor,Clear,Dry,Bike,38,0,Speeding
+997,7/28/2023 20:51,Mumbai,Moderate,Foggy,Under Construction,Bicycle,36,2,Red Light Violation
+998,10/9/2024 14:40,Mumbai,Moderate,Clear,Potholes,Car,63,0,Speeding
+999,7/26/2023 4:34,Mumbai,Severe,Rainy,Wet,Bus,60,1,Drunk Driving
+1000,3/1/2024 12:25,Pune,Moderate,Snowy,Icy,Bicycle,65,3,Weather
+1001,6/26/2024 9:06,Pune,Moderate,Clear,Dry,Bike,57,0,Weather
+1002,10/24/2023 2:00,Chennai,Moderate,Windy,Icy,Auto Rickshaw,28,4,Red Light Violation
+1003,6/6/2023 1:43,Mumbai,Moderate,Snowy,Wet,Bike,54,5,Red Light Violation
+1004,1/10/2024 22:12,Pune,Severe,Clear,Wet,Truck,43,4,Brake Failure
+1005,7/6/2023 15:58,Kolkata,Moderate,Windy,Dry,Car,46,1,Drunk Driving
+1006,1/1/2023 22:48,Bangalore,Moderate,Clear,Potholes,Bus,63,5,Brake Failure
+1007,5/6/2024 17:49,Mumbai,Severe,Clear,Under Construction,Bus,19,3,Brake Failure
+1008,6/15/2023 13:40,Kolkata,Moderate,Foggy,Potholes,Bicycle,43,4,Brake Failure
+1009,8/19/2024 22:45,Chennai,Severe,Snowy,Potholes,Bicycle,22,3,Bad Road Condition
+1010,7/21/2024 21:05,Bangalore,Minor,Rainy,Potholes,Bicycle,23,0,Red Light Violation
+1011,10/10/2023 0:50,Ahmedabad,Moderate,Windy,Under Construction,Auto Rickshaw,31,4,Bad Road Condition
+1012,6/22/2024 15:44,Bangalore,Minor,Snowy,Potholes,Bike,28,0,Red Light Violation
+1013,12/19/2024 12:20,Chennai,Severe,Snowy,Potholes,Auto Rickshaw,46,5,Overtaking
+1014,10/11/2024 16:58,Delhi,Minor,Snowy,Wet,Car,62,1,Speeding
+1015,8/24/2024 15:07,Pune,Severe,Windy,Under Construction,Bicycle,34,4,Overtaking
+1016,1/18/2023 13:44,Kolkata,Severe,Clear,Potholes,Car,36,4,Brake Failure
+1017,6/2/2023 9:34,Hyderabad,Moderate,Clear,Icy,Car,58,4,Red Light Violation
+1018,2/28/2024 21:05,Mumbai,Moderate,Foggy,Dry,Bus,56,2,Brake Failure
+1019,1/10/2023 13:11,Ahmedabad,Minor,Snowy,Wet,Car,49,0,Drunk Driving
+1020,2/17/2024 17:27,Delhi,Moderate,Rainy,Potholes,Bus,32,0,Speeding
+1021,11/15/2024 12:49,Hyderabad,Moderate,Windy,Dry,Bus,34,0,Weather
+1022,5/13/2023 13:43,Pune,Minor,Windy,Dry,Bicycle,62,4,Brake Failure
+1023,3/11/2024 1:12,Bangalore,Severe,Windy,Dry,Auto Rickshaw,18,0,Drunk Driving
+1024,4/17/2023 23:15,Hyderabad,Severe,Windy,Under Construction,Car,45,5,Overtaking
+1025,6/14/2023 16:33,Chennai,Severe,Rainy,Wet,Truck,32,1,Red Light Violation
+1026,7/3/2024 2:47,Delhi,Moderate,Snowy,Under Construction,Auto Rickshaw,44,1,Brake Failure
+1027,4/19/2023 11:33,Ahmedabad,Moderate,Rainy,Icy,Bike,26,5,Bad Road Condition
+1028,8/29/2024 22:41,Delhi,Severe,Snowy,Potholes,Auto Rickshaw,36,3,Overtaking
+1029,8/1/2024 4:16,Delhi,Minor,Foggy,Potholes,Bicycle,61,4,Bad Road Condition
+1030,7/13/2024 0:51,Hyderabad,Minor,Clear,Icy,Bicycle,40,2,Drunk Driving
+1031,7/8/2023 15:15,Kolkata,Minor,Rainy,Under Construction,Truck,37,0,Weather
+1032,1/19/2023 6:27,Kolkata,Severe,Windy,Icy,Auto Rickshaw,38,2,Brake Failure
+1033,12/3/2023 8:20,Chennai,Severe,Clear,Wet,Bus,24,0,Red Light Violation
+1034,10/15/2023 13:01,Kolkata,Minor,Clear,Wet,Bike,18,1,Brake Failure
+1035,12/28/2024 9:36,Mumbai,Moderate,Rainy,Dry,Auto Rickshaw,44,5,Drunk Driving
+1036,6/13/2024 2:43,Kolkata,Moderate,Foggy,Wet,Bike,49,4,Bad Road Condition
+1037,7/30/2023 14:51,Bangalore,Minor,Clear,Potholes,Auto Rickshaw,48,1,Speeding
+1038,9/1/2024 11:08,Chennai,Severe,Clear,Wet,Bus,64,4,Drunk Driving
+1039,9/11/2024 11:26,Bangalore,Minor,Rainy,Dry,Bus,26,2,Red Light Violation
+1040,4/16/2024 0:04,Mumbai,Minor,Foggy,Dry,Bicycle,46,4,Brake Failure
+1041,8/12/2024 15:41,Pune,Severe,Windy,Dry,Bicycle,34,2,Speeding
+1042,4/24/2024 9:32,Hyderabad,Moderate,Rainy,Wet,Bike,23,1,Drunk Driving
+1043,8/22/2024 23:12,Chennai,Moderate,Rainy,Icy,Auto Rickshaw,44,0,Bad Road Condition
+1044,10/25/2024 19:09,Pune,Minor,Foggy,Wet,Car,35,0,Bad Road Condition
+1045,4/2/2024 0:10,Mumbai,Severe,Windy,Potholes,Car,41,2,Speeding
+1046,10/1/2023 21:46,Delhi,Minor,Clear,Potholes,Bicycle,38,4,Bad Road Condition
+1047,10/24/2023 22:43,Delhi,Moderate,Clear,Wet,Bicycle,29,3,Speeding
+1048,11/9/2024 19:37,Kolkata,Minor,Clear,Under Construction,Car,61,5,Bad Road Condition
+1049,9/17/2023 23:18,Pune,Severe,Rainy,Wet,Auto Rickshaw,53,1,Bad Road Condition
+1050,3/2/2023 16:42,Ahmedabad,Minor,Windy,Wet,Bus,27,1,Weather
+1051,1/14/2024 15:19,Ahmedabad,Severe,Clear,Wet,Bike,38,0,Brake Failure
+1052,12/14/2023 16:27,Mumbai,Moderate,Clear,Wet,Truck,60,5,Brake Failure
+1053,11/17/2023 11:54,Mumbai,Moderate,Windy,Wet,Bicycle,18,4,Bad Road Condition
+1054,4/6/2023 23:17,Hyderabad,Severe,Snowy,Icy,Auto Rickshaw,26,0,Red Light Violation
+1055,7/8/2024 5:07,Delhi,Severe,Clear,Potholes,Bike,33,5,Bad Road Condition
+1056,11/16/2024 9:14,Delhi,Moderate,Snowy,Icy,Bus,38,3,Bad Road Condition
+1057,8/31/2023 6:21,Chennai,Minor,Clear,Under Construction,Bicycle,23,2,Overtaking
+1058,6/27/2024 23:43,Kolkata,Severe,Clear,Under Construction,Truck,23,1,Brake Failure
+1059,7/15/2023 11:14,Pune,Moderate,Snowy,Icy,Bus,29,5,Brake Failure
+1060,11/21/2023 23:14,Chennai,Moderate,Clear,Icy,Bike,23,5,Speeding
+1061,1/9/2024 14:52,Pune,Minor,Foggy,Under Construction,Bus,34,3,Brake Failure
+1062,2/3/2024 10:12,Chennai,Severe,Rainy,Under Construction,Truck,19,5,Weather
+1063,12/3/2024 20:48,Ahmedabad,Moderate,Windy,Under Construction,Car,43,4,Brake Failure
+1064,10/8/2023 13:25,Ahmedabad,Severe,Snowy,Potholes,Bike,59,4,Overtaking
+1065,9/17/2024 22:02,Ahmedabad,Moderate,Clear,Dry,Bicycle,19,0,Brake Failure
+1066,9/15/2023 20:58,Chennai,Moderate,Rainy,Under Construction,Bus,57,5,Red Light Violation
+1067,5/3/2024 1:27,Mumbai,Minor,Clear,Icy,Auto Rickshaw,59,4,Speeding
+1068,8/10/2023 5:42,Ahmedabad,Minor,Windy,Wet,Bus,58,1,Red Light Violation
+1069,11/11/2024 14:53,Ahmedabad,Severe,Snowy,Under Construction,Auto Rickshaw,56,0,Speeding
+1070,8/11/2023 16:28,Ahmedabad,Moderate,Foggy,Dry,Bicycle,30,0,Brake Failure
+1071,1/9/2024 9:20,Chennai,Moderate,Windy,Icy,Auto Rickshaw,47,1,Red Light Violation
+1072,5/18/2023 7:39,Pune,Severe,Snowy,Under Construction,Truck,42,2,Weather
+1073,7/21/2023 9:37,Kolkata,Minor,Windy,Icy,Auto Rickshaw,62,4,Bad Road Condition
+1074,7/21/2024 9:31,Kolkata,Minor,Clear,Dry,Truck,29,4,Weather
+1075,6/25/2023 21:38,Mumbai,Minor,Rainy,Wet,Bus,27,4,Drunk Driving
+1076,6/30/2023 14:30,Hyderabad,Severe,Windy,Dry,Auto Rickshaw,48,1,Speeding
+1077,11/14/2023 6:19,Pune,Minor,Clear,Potholes,Bicycle,64,1,Brake Failure
+1078,5/3/2024 11:00,Bangalore,Moderate,Rainy,Wet,Auto Rickshaw,23,4,Bad Road Condition
+1079,4/22/2024 19:02,Hyderabad,Moderate,Windy,Wet,Bicycle,52,2,Speeding
+1080,2/16/2024 11:43,Ahmedabad,Severe,Snowy,Potholes,Auto Rickshaw,29,4,Red Light Violation
+1081,5/22/2023 10:08,Pune,Severe,Foggy,Under Construction,Auto Rickshaw,56,5,Red Light Violation
+1082,6/16/2023 3:45,Chennai,Moderate,Snowy,Wet,Bicycle,52,3,Overtaking
+1083,3/20/2023 6:48,Kolkata,Severe,Foggy,Dry,Auto Rickshaw,21,2,Red Light Violation
+1084,9/2/2024 4:00,Bangalore,Moderate,Windy,Under Construction,Bus,42,2,Red Light Violation
+1085,7/6/2023 5:51,Chennai,Minor,Snowy,Potholes,Bike,34,1,Brake Failure
+1086,9/22/2024 15:03,Chennai,Severe,Rainy,Dry,Bike,61,2,Overtaking
+1087,11/9/2024 17:15,Kolkata,Minor,Foggy,Under Construction,Car,65,1,Weather
+1088,5/13/2024 18:11,Mumbai,Minor,Clear,Potholes,Truck,22,1,Red Light Violation
+1089,8/5/2023 13:50,Chennai,Minor,Rainy,Icy,Bicycle,44,3,Drunk Driving
+1090,10/24/2023 21:13,Hyderabad,Severe,Clear,Icy,Truck,49,1,Brake Failure
+1091,6/25/2023 7:08,Ahmedabad,Severe,Snowy,Under Construction,Car,28,5,Red Light Violation
+1092,11/14/2024 8:58,Delhi,Severe,Snowy,Potholes,Truck,59,3,Weather
+1093,1/29/2024 19:46,Kolkata,Severe,Windy,Wet,Car,38,1,Drunk Driving
+1094,5/8/2024 20:31,Bangalore,Severe,Clear,Icy,Bicycle,30,1,Drunk Driving
+1095,6/2/2023 0:08,Kolkata,Severe,Snowy,Potholes,Truck,25,2,Red Light Violation
+1096,6/20/2023 17:47,Ahmedabad,Moderate,Snowy,Wet,Bike,51,4,Weather
+1097,6/17/2023 14:04,Kolkata,Moderate,Rainy,Under Construction,Auto Rickshaw,26,5,Speeding
+1098,2/27/2024 18:21,Bangalore,Minor,Snowy,Potholes,Bike,59,2,Drunk Driving
+1099,6/8/2024 11:26,Ahmedabad,Minor,Snowy,Under Construction,Truck,35,4,Overtaking
+1100,1/28/2023 4:18,Kolkata,Minor,Snowy,Icy,Car,49,1,Speeding
+1101,5/31/2023 17:25,Ahmedabad,Severe,Rainy,Potholes,Car,50,1,Brake Failure
+1102,9/12/2024 22:39,Hyderabad,Moderate,Rainy,Wet,Car,35,2,Speeding
+1103,1/18/2024 17:21,Ahmedabad,Moderate,Snowy,Under Construction,Bicycle,35,1,Speeding
+1104,9/26/2024 8:02,Mumbai,Severe,Foggy,Under Construction,Bike,37,4,Speeding
+1105,2/3/2023 15:30,Kolkata,Moderate,Clear,Dry,Bicycle,18,4,Speeding
+1106,5/20/2023 5:13,Hyderabad,Severe,Clear,Under Construction,Car,37,4,Red Light Violation
+1107,1/1/2024 18:25,Hyderabad,Minor,Snowy,Dry,Auto Rickshaw,43,2,Brake Failure
+1108,2/5/2024 11:46,Chennai,Minor,Foggy,Wet,Bicycle,60,0,Weather
+1109,8/26/2024 19:16,Delhi,Minor,Clear,Dry,Bicycle,61,3,Weather
+1110,2/24/2023 21:40,Chennai,Minor,Windy,Icy,Auto Rickshaw,55,1,Drunk Driving
+1111,7/10/2024 13:10,Chennai,Moderate,Rainy,Potholes,Bicycle,34,4,Speeding
+1112,12/11/2024 12:40,Kolkata,Moderate,Windy,Dry,Truck,20,0,Speeding
+1113,10/8/2023 13:57,Bangalore,Moderate,Foggy,Dry,Truck,23,4,Overtaking
+1114,7/2/2024 5:30,Ahmedabad,Severe,Clear,Potholes,Car,51,5,Weather
+1115,4/5/2023 18:17,Mumbai,Severe,Foggy,Potholes,Truck,50,2,Red Light Violation
+1116,12/16/2023 7:39,Bangalore,Severe,Snowy,Dry,Bus,27,5,Overtaking
+1117,5/22/2024 23:27,Chennai,Minor,Foggy,Under Construction,Auto Rickshaw,26,4,Drunk Driving
+1118,3/17/2024 9:21,Delhi,Minor,Windy,Under Construction,Bicycle,29,0,Overtaking
+1119,12/16/2024 12:19,Chennai,Minor,Snowy,Under Construction,Car,55,3,Bad Road Condition
+1120,3/1/2023 19:29,Kolkata,Moderate,Clear,Potholes,Bicycle,26,2,Red Light Violation
+1121,3/14/2023 2:06,Ahmedabad,Moderate,Foggy,Under Construction,Auto Rickshaw,22,4,Bad Road Condition
+1122,6/30/2024 9:25,Mumbai,Moderate,Foggy,Wet,Car,34,3,Brake Failure
+1123,8/17/2023 12:09,Chennai,Minor,Clear,Wet,Bicycle,49,1,Speeding
+1124,3/2/2023 1:59,Chennai,Minor,Windy,Dry,Bike,39,5,Brake Failure
+1125,8/15/2023 19:08,Chennai,Minor,Clear,Wet,Truck,52,5,Drunk Driving
+1126,7/7/2024 4:47,Ahmedabad,Minor,Foggy,Under Construction,Bike,34,3,Drunk Driving
+1127,4/28/2024 22:17,Hyderabad,Moderate,Foggy,Dry,Bicycle,61,2,Red Light Violation
+1128,8/7/2023 4:05,Pune,Severe,Rainy,Under Construction,Bus,46,2,Drunk Driving
+1129,7/14/2023 8:26,Bangalore,Severe,Windy,Under Construction,Bike,34,3,Red Light Violation
+1130,8/21/2023 6:26,Bangalore,Minor,Foggy,Dry,Bus,29,0,Bad Road Condition
+1131,3/6/2024 15:38,Mumbai,Severe,Rainy,Icy,Auto Rickshaw,60,0,Overtaking
+1132,9/17/2024 3:21,Mumbai,Moderate,Windy,Under Construction,Car,29,4,Speeding
+1133,1/18/2024 6:50,Delhi,Moderate,Snowy,Wet,Truck,33,5,Overtaking
+1134,1/17/2024 8:53,Delhi,Moderate,Clear,Potholes,Truck,41,0,Speeding
+1135,12/14/2024 22:03,Mumbai,Moderate,Rainy,Dry,Bus,35,4,Drunk Driving
+1136,9/20/2024 15:36,Bangalore,Minor,Snowy,Dry,Truck,42,3,Drunk Driving
+1137,3/14/2024 4:00,Kolkata,Moderate,Clear,Under Construction,Car,62,4,Brake Failure
+1138,4/1/2024 21:07,Mumbai,Minor,Clear,Dry,Bike,54,5,Overtaking
+1139,1/16/2024 13:26,Pune,Minor,Rainy,Dry,Car,34,3,Bad Road Condition
+1140,7/2/2024 19:36,Delhi,Severe,Clear,Wet,Truck,48,2,Red Light Violation
+1141,12/10/2023 15:06,Ahmedabad,Minor,Windy,Wet,Bike,54,4,Overtaking
+1142,4/14/2023 11:52,Bangalore,Severe,Rainy,Wet,Bus,39,1,Bad Road Condition
+1143,2/23/2023 17:55,Mumbai,Severe,Clear,Potholes,Car,46,5,Red Light Violation
+1144,6/4/2024 17:37,Pune,Severe,Rainy,Icy,Car,50,2,Drunk Driving
+1145,7/20/2024 5:36,Kolkata,Moderate,Rainy,Dry,Car,26,3,Weather
+1146,10/24/2024 14:48,Delhi,Moderate,Windy,Icy,Car,39,5,Weather
+1147,5/13/2024 11:50,Mumbai,Moderate,Rainy,Icy,Bike,48,2,Bad Road Condition
+1148,4/22/2024 6:31,Bangalore,Minor,Snowy,Wet,Car,39,0,Speeding
+1149,7/25/2023 3:35,Pune,Minor,Clear,Wet,Car,49,1,Bad Road Condition
+1150,11/29/2023 13:42,Kolkata,Severe,Rainy,Icy,Auto Rickshaw,35,3,Drunk Driving
+1151,9/16/2024 6:33,Mumbai,Minor,Windy,Potholes,Truck,55,5,Drunk Driving
+1152,8/28/2024 23:21,Mumbai,Severe,Rainy,Icy,Auto Rickshaw,44,2,Brake Failure
+1153,9/7/2024 9:56,Bangalore,Minor,Clear,Under Construction,Bus,47,5,Speeding
+1154,3/9/2024 11:57,Pune,Moderate,Clear,Wet,Auto Rickshaw,54,1,Brake Failure
+1155,9/6/2023 3:45,Ahmedabad,Moderate,Foggy,Icy,Car,47,5,Bad Road Condition
+1156,6/25/2024 16:44,Delhi,Moderate,Windy,Wet,Truck,25,4,Weather
+1157,9/18/2023 7:22,Pune,Minor,Windy,Potholes,Auto Rickshaw,37,4,Overtaking
+1158,4/24/2023 11:44,Delhi,Severe,Clear,Dry,Car,36,0,Drunk Driving
+1159,10/28/2023 12:41,Delhi,Minor,Clear,Dry,Auto Rickshaw,20,0,Weather
+1160,7/23/2023 15:01,Pune,Severe,Windy,Icy,Bicycle,49,1,Brake Failure
+1161,11/12/2024 16:39,Kolkata,Severe,Clear,Icy,Car,22,4,Bad Road Condition
+1162,8/6/2024 17:29,Delhi,Minor,Windy,Under Construction,Truck,37,5,Weather
+1163,10/17/2023 1:44,Delhi,Moderate,Snowy,Under Construction,Bus,23,5,Red Light Violation
+1164,6/14/2023 5:41,Chennai,Severe,Clear,Potholes,Truck,58,5,Overtaking
+1165,3/9/2023 9:15,Delhi,Moderate,Foggy,Under Construction,Bicycle,54,1,Bad Road Condition
+1166,10/17/2024 5:03,Ahmedabad,Moderate,Windy,Icy,Bus,55,2,Bad Road Condition
+1167,9/1/2023 13:02,Delhi,Severe,Rainy,Under Construction,Auto Rickshaw,47,2,Drunk Driving
+1168,7/21/2023 1:50,Pune,Severe,Clear,Under Construction,Auto Rickshaw,53,4,Overtaking
+1169,11/4/2024 12:02,Chennai,Minor,Snowy,Icy,Truck,24,2,Speeding
+1170,11/1/2023 15:25,Bangalore,Moderate,Foggy,Dry,Bike,45,4,Speeding
+1171,1/23/2024 14:41,Hyderabad,Severe,Snowy,Potholes,Car,46,2,Weather
+1172,8/6/2024 4:09,Bangalore,Severe,Windy,Dry,Truck,63,1,Brake Failure
+1173,3/31/2023 2:25,Ahmedabad,Minor,Windy,Wet,Bike,60,1,Weather
+1174,12/18/2023 5:57,Kolkata,Moderate,Rainy,Under Construction,Truck,53,4,Red Light Violation
+1175,10/15/2024 7:46,Delhi,Severe,Snowy,Under Construction,Bicycle,30,1,Bad Road Condition
+1176,1/21/2024 20:39,Kolkata,Moderate,Windy,Icy,Bike,42,5,Weather
+1177,5/2/2023 5:49,Pune,Severe,Snowy,Under Construction,Bus,57,5,Bad Road Condition
+1178,10/18/2024 21:21,Chennai,Moderate,Snowy,Wet,Car,19,4,Overtaking
+1179,2/4/2023 5:58,Chennai,Severe,Rainy,Dry,Bus,51,2,Overtaking
+1180,1/21/2023 14:13,Kolkata,Minor,Rainy,Dry,Bicycle,60,2,Weather
+1181,7/18/2024 13:50,Chennai,Moderate,Clear,Icy,Auto Rickshaw,26,3,Brake Failure
+1182,11/10/2023 22:12,Hyderabad,Moderate,Foggy,Wet,Bike,48,0,Overtaking
+1183,12/15/2024 20:35,Ahmedabad,Moderate,Clear,Under Construction,Truck,39,1,Brake Failure
+1184,9/6/2023 9:11,Chennai,Moderate,Windy,Potholes,Truck,58,5,Speeding
+1185,2/14/2024 4:36,Delhi,Moderate,Foggy,Wet,Auto Rickshaw,61,3,Bad Road Condition
+1186,1/18/2023 6:37,Chennai,Minor,Clear,Icy,Bike,36,5,Red Light Violation
+1187,3/9/2023 14:46,Bangalore,Minor,Rainy,Under Construction,Bike,53,1,Bad Road Condition
+1188,8/11/2023 8:49,Kolkata,Moderate,Snowy,Dry,Auto Rickshaw,50,2,Drunk Driving
+1189,7/17/2024 3:02,Chennai,Moderate,Snowy,Dry,Bus,57,1,Red Light Violation
+1190,3/8/2023 16:09,Ahmedabad,Severe,Snowy,Under Construction,Bike,33,4,Weather
+1191,10/1/2024 22:52,Chennai,Severe,Clear,Under Construction,Auto Rickshaw,61,4,Bad Road Condition
+1192,1/19/2023 20:49,Pune,Moderate,Foggy,Icy,Bicycle,31,3,Speeding
+1193,8/4/2024 12:22,Kolkata,Severe,Foggy,Potholes,Bicycle,43,2,Red Light Violation
+1194,8/5/2024 14:20,Hyderabad,Moderate,Windy,Potholes,Bike,52,2,Drunk Driving
+1195,10/28/2024 14:41,Bangalore,Moderate,Rainy,Dry,Bicycle,29,5,Overtaking
+1196,8/17/2024 21:26,Ahmedabad,Severe,Clear,Potholes,Auto Rickshaw,39,3,Brake Failure
+1197,11/13/2023 1:38,Bangalore,Moderate,Foggy,Under Construction,Bike,65,5,Drunk Driving
+1198,10/19/2023 0:49,Delhi,Moderate,Snowy,Icy,Car,52,0,Weather
+1199,12/31/2023 6:08,Ahmedabad,Moderate,Clear,Wet,Truck,33,3,Brake Failure
+1200,7/9/2024 2:30,Hyderabad,Severe,Windy,Icy,Bus,52,2,Weather
+1201,3/8/2024 2:42,Delhi,Minor,Foggy,Dry,Bus,27,2,Drunk Driving
+1202,9/20/2024 21:19,Pune,Severe,Snowy,Dry,Bicycle,56,1,Brake Failure
+1203,1/24/2023 19:23,Chennai,Severe,Foggy,Wet,Bicycle,25,4,Brake Failure
+1204,10/8/2024 2:26,Hyderabad,Moderate,Rainy,Under Construction,Bus,46,1,Red Light Violation
+1205,3/1/2023 11:37,Mumbai,Minor,Rainy,Dry,Bus,20,2,Drunk Driving
+1206,12/7/2023 22:24,Delhi,Minor,Windy,Potholes,Auto Rickshaw,45,3,Weather
+1207,12/25/2024 17:08,Kolkata,Moderate,Rainy,Dry,Auto Rickshaw,50,1,Red Light Violation
+1208,2/26/2024 12:44,Chennai,Moderate,Windy,Wet,Bike,40,0,Red Light Violation
+1209,12/8/2023 10:02,Mumbai,Moderate,Windy,Wet,Truck,54,1,Bad Road Condition
+1210,4/12/2023 7:33,Kolkata,Moderate,Windy,Wet,Truck,42,0,Drunk Driving
+1211,2/27/2024 17:30,Kolkata,Severe,Windy,Potholes,Car,23,0,Overtaking
+1212,9/12/2024 19:18,Chennai,Moderate,Rainy,Under Construction,Truck,37,5,Speeding
+1213,11/19/2023 5:56,Hyderabad,Minor,Snowy,Under Construction,Auto Rickshaw,30,2,Drunk Driving
+1214,1/31/2024 9:03,Chennai,Severe,Foggy,Wet,Bicycle,65,2,Brake Failure
+1215,8/22/2024 0:52,Ahmedabad,Severe,Windy,Icy,Bike,21,0,Weather
+1216,2/9/2024 21:12,Chennai,Severe,Rainy,Potholes,Truck,32,2,Bad Road Condition
+1217,3/14/2023 14:56,Kolkata,Moderate,Foggy,Under Construction,Car,29,1,Weather
+1218,8/20/2024 21:37,Delhi,Minor,Foggy,Wet,Truck,46,3,Overtaking
+1219,10/16/2023 5:06,Delhi,Severe,Rainy,Dry,Bicycle,55,1,Speeding
+1220,9/10/2024 8:59,Kolkata,Minor,Foggy,Icy,Car,51,5,Red Light Violation
+1221,7/13/2023 1:18,Delhi,Minor,Snowy,Under Construction,Auto Rickshaw,30,3,Weather
+1222,10/2/2023 8:32,Bangalore,Moderate,Foggy,Wet,Auto Rickshaw,56,4,Brake Failure
+1223,8/23/2023 6:46,Pune,Minor,Snowy,Potholes,Bus,38,1,Weather
+1224,8/20/2024 15:57,Bangalore,Moderate,Snowy,Icy,Bike,37,2,Overtaking
+1225,8/17/2024 18:35,Pune,Minor,Snowy,Potholes,Car,48,2,Overtaking
+1226,8/13/2023 8:32,Kolkata,Moderate,Foggy,Icy,Bike,18,1,Speeding
+1227,2/24/2024 2:29,Bangalore,Minor,Clear,Icy,Bike,42,0,Speeding
+1228,3/15/2023 19:54,Chennai,Minor,Rainy,Wet,Auto Rickshaw,28,0,Overtaking
+1229,10/31/2024 22:02,Ahmedabad,Minor,Clear,Under Construction,Bike,29,5,Drunk Driving
+1230,6/9/2023 19:09,Delhi,Minor,Snowy,Under Construction,Bus,62,3,Bad Road Condition
+1231,12/3/2023 4:06,Delhi,Moderate,Snowy,Wet,Truck,26,1,Overtaking
+1232,11/22/2023 23:53,Mumbai,Moderate,Clear,Dry,Bike,25,3,Weather
+1233,6/2/2023 15:03,Bangalore,Moderate,Clear,Icy,Car,41,4,Red Light Violation
+1234,4/26/2023 17:04,Ahmedabad,Minor,Foggy,Dry,Truck,64,4,Speeding
+1235,4/30/2023 21:20,Hyderabad,Severe,Windy,Wet,Bus,52,4,Bad Road Condition
+1236,8/31/2024 10:06,Delhi,Minor,Snowy,Wet,Bus,23,4,Bad Road Condition
+1237,4/4/2024 5:53,Bangalore,Moderate,Snowy,Dry,Bicycle,49,3,Weather
+1238,3/24/2023 5:38,Hyderabad,Minor,Snowy,Wet,Bike,42,4,Brake Failure
+1239,8/12/2024 23:51,Bangalore,Severe,Windy,Potholes,Truck,57,1,Overtaking
+1240,3/17/2024 21:19,Bangalore,Minor,Snowy,Potholes,Auto Rickshaw,59,1,Overtaking
+1241,6/24/2023 12:48,Bangalore,Moderate,Rainy,Dry,Bike,53,5,Red Light Violation
+1242,7/2/2023 9:59,Ahmedabad,Minor,Windy,Under Construction,Bicycle,39,2,Speeding
+1243,12/12/2024 12:49,Mumbai,Minor,Windy,Potholes,Truck,18,3,Drunk Driving
+1244,9/17/2024 20:45,Ahmedabad,Moderate,Snowy,Wet,Bus,50,1,Overtaking
+1245,8/18/2024 1:28,Ahmedabad,Moderate,Foggy,Icy,Auto Rickshaw,54,2,Drunk Driving
+1246,7/15/2023 16:27,Mumbai,Minor,Snowy,Icy,Car,36,1,Speeding
+1247,9/27/2024 15:44,Hyderabad,Minor,Foggy,Wet,Bus,52,3,Red Light Violation
+1248,12/10/2023 10:31,Pune,Severe,Foggy,Dry,Bike,26,2,Weather
+1249,10/18/2024 10:42,Hyderabad,Minor,Clear,Potholes,Bus,26,4,Drunk Driving
+1250,7/29/2023 3:20,Chennai,Moderate,Foggy,Potholes,Car,30,3,Bad Road Condition
+1251,2/19/2024 4:41,Chennai,Minor,Windy,Dry,Car,34,4,Red Light Violation
+1252,7/19/2024 23:11,Pune,Minor,Windy,Potholes,Bicycle,22,5,Speeding
+1253,7/15/2023 10:46,Kolkata,Moderate,Snowy,Dry,Car,44,0,Drunk Driving
+1254,12/22/2023 0:29,Pune,Minor,Foggy,Wet,Bike,50,1,Drunk Driving
+1255,3/30/2023 7:06,Chennai,Minor,Clear,Icy,Truck,62,1,Overtaking
+1256,5/13/2024 21:38,Ahmedabad,Severe,Windy,Potholes,Car,37,2,Overtaking
+1257,6/10/2023 6:00,Delhi,Severe,Snowy,Icy,Bus,42,5,Brake Failure
+1258,11/25/2023 17:53,Ahmedabad,Severe,Foggy,Dry,Bus,39,2,Bad Road Condition
+1259,5/11/2023 11:52,Bangalore,Severe,Snowy,Potholes,Car,56,5,Brake Failure
+1260,6/26/2024 18:07,Chennai,Severe,Clear,Potholes,Bus,24,5,Brake Failure
+1261,3/1/2023 2:05,Pune,Severe,Foggy,Potholes,Auto Rickshaw,62,2,Weather
+1262,9/5/2023 21:47,Mumbai,Moderate,Foggy,Under Construction,Car,58,2,Weather
+1263,10/8/2023 21:21,Ahmedabad,Moderate,Clear,Dry,Car,61,1,Speeding
+1264,6/19/2023 21:27,Hyderabad,Severe,Snowy,Icy,Bus,49,1,Weather
+1265,12/21/2023 6:20,Delhi,Severe,Rainy,Potholes,Bicycle,49,0,Speeding
+1266,6/3/2024 14:20,Kolkata,Moderate,Clear,Potholes,Bike,42,2,Brake Failure
+1267,1/18/2023 16:01,Mumbai,Minor,Rainy,Dry,Auto Rickshaw,24,5,Red Light Violation
+1268,2/22/2024 20:14,Kolkata,Minor,Rainy,Dry,Auto Rickshaw,28,0,Speeding
+1269,10/16/2023 17:47,Chennai,Moderate,Snowy,Dry,Auto Rickshaw,28,1,Bad Road Condition
+1270,10/11/2023 8:38,Chennai,Minor,Rainy,Dry,Bus,35,2,Speeding
+1271,10/10/2023 3:28,Pune,Moderate,Snowy,Wet,Truck,49,0,Red Light Violation
+1272,11/20/2023 14:00,Ahmedabad,Moderate,Snowy,Potholes,Bicycle,44,2,Red Light Violation
+1273,7/18/2024 12:07,Chennai,Severe,Rainy,Wet,Auto Rickshaw,29,2,Drunk Driving
+1274,8/10/2023 22:08,Mumbai,Severe,Windy,Dry,Bus,53,4,Brake Failure
+1275,7/24/2023 10:25,Delhi,Minor,Windy,Dry,Truck,55,5,Overtaking
+1276,3/20/2023 4:12,Bangalore,Severe,Snowy,Wet,Auto Rickshaw,29,0,Weather
+1277,11/11/2024 17:16,Pune,Severe,Clear,Icy,Auto Rickshaw,31,3,Red Light Violation
+1278,5/18/2024 22:17,Ahmedabad,Moderate,Clear,Icy,Auto Rickshaw,20,5,Drunk Driving
+1279,6/3/2023 22:30,Hyderabad,Severe,Clear,Dry,Truck,26,2,Weather
+1280,1/12/2024 21:04,Bangalore,Severe,Snowy,Potholes,Auto Rickshaw,53,5,Red Light Violation
+1281,4/10/2023 12:43,Bangalore,Minor,Snowy,Potholes,Truck,29,5,Speeding
+1282,1/15/2023 8:44,Chennai,Severe,Rainy,Wet,Truck,38,3,Weather
+1283,2/26/2023 12:08,Chennai,Moderate,Snowy,Potholes,Bike,34,5,Speeding
+1284,5/16/2023 1:27,Kolkata,Moderate,Windy,Icy,Truck,31,3,Bad Road Condition
+1285,12/20/2024 2:58,Mumbai,Severe,Rainy,Under Construction,Bus,57,3,Red Light Violation
+1286,10/23/2023 22:23,Mumbai,Minor,Snowy,Icy,Bus,65,2,Brake Failure
+1287,8/1/2024 3:57,Hyderabad,Moderate,Foggy,Dry,Auto Rickshaw,36,5,Bad Road Condition
+1288,4/16/2024 8:10,Pune,Severe,Snowy,Under Construction,Bus,55,4,Bad Road Condition
+1289,6/19/2023 5:27,Hyderabad,Severe,Windy,Potholes,Bus,64,2,Red Light Violation
+1290,10/7/2023 23:31,Delhi,Minor,Snowy,Dry,Truck,65,4,Brake Failure
+1291,10/14/2024 20:49,Bangalore,Minor,Windy,Under Construction,Truck,41,1,Bad Road Condition
+1292,10/9/2024 11:51,Hyderabad,Severe,Foggy,Dry,Bike,57,4,Bad Road Condition
+1293,2/19/2023 13:57,Ahmedabad,Moderate,Clear,Potholes,Auto Rickshaw,30,0,Overtaking
+1294,11/11/2024 13:07,Pune,Minor,Clear,Wet,Auto Rickshaw,28,3,Bad Road Condition
+1295,2/13/2024 10:33,Chennai,Severe,Foggy,Dry,Car,42,3,Red Light Violation
+1296,5/23/2024 21:20,Pune,Severe,Snowy,Dry,Auto Rickshaw,59,0,Red Light Violation
+1297,5/22/2024 16:59,Pune,Moderate,Clear,Potholes,Truck,33,2,Brake Failure
+1298,12/30/2023 19:34,Ahmedabad,Severe,Snowy,Under Construction,Bike,59,4,Weather
+1299,3/5/2024 0:54,Bangalore,Severe,Snowy,Icy,Car,28,4,Weather
+1300,7/30/2024 5:56,Ahmedabad,Moderate,Foggy,Wet,Auto Rickshaw,52,1,Overtaking
+1301,9/11/2023 9:34,Kolkata,Moderate,Snowy,Under Construction,Bus,18,4,Speeding
+1302,10/14/2023 15:02,Mumbai,Minor,Windy,Icy,Bus,28,4,Weather
+1303,8/27/2023 16:14,Hyderabad,Moderate,Rainy,Icy,Bicycle,57,0,Red Light Violation
+1304,9/12/2024 8:18,Kolkata,Moderate,Rainy,Icy,Bus,32,0,Overtaking
+1305,9/11/2024 1:52,Chennai,Severe,Rainy,Dry,Car,59,4,Overtaking
+1306,10/15/2023 11:17,Delhi,Moderate,Windy,Icy,Bike,27,5,Bad Road Condition
+1307,7/7/2023 21:34,Bangalore,Severe,Snowy,Icy,Bike,60,0,Overtaking
+1308,7/1/2024 18:37,Kolkata,Moderate,Snowy,Dry,Auto Rickshaw,19,2,Speeding
+1309,5/15/2024 5:52,Bangalore,Moderate,Foggy,Under Construction,Car,31,5,Red Light Violation
+1310,6/12/2024 1:13,Hyderabad,Minor,Rainy,Icy,Bike,38,5,Bad Road Condition
+1311,2/25/2023 5:37,Pune,Severe,Clear,Icy,Bicycle,65,5,Speeding
+1312,11/9/2024 16:11,Kolkata,Minor,Clear,Icy,Truck,29,0,Weather
+1313,5/31/2023 12:32,Ahmedabad,Moderate,Clear,Icy,Car,28,2,Red Light Violation
+1314,3/13/2023 21:49,Chennai,Minor,Foggy,Under Construction,Car,42,4,Red Light Violation
+1315,6/11/2023 4:42,Hyderabad,Moderate,Foggy,Potholes,Bus,26,1,Overtaking
+1316,4/27/2023 17:13,Delhi,Severe,Snowy,Icy,Bicycle,53,2,Weather
+1317,5/24/2023 12:04,Kolkata,Minor,Snowy,Potholes,Auto Rickshaw,53,4,Bad Road Condition
+1318,6/1/2024 8:06,Hyderabad,Minor,Windy,Potholes,Bus,25,4,Weather
+1319,9/29/2023 10:51,Ahmedabad,Severe,Snowy,Wet,Auto Rickshaw,54,0,Drunk Driving
+1320,2/6/2024 15:05,Kolkata,Moderate,Rainy,Icy,Bike,52,0,Drunk Driving
+1321,11/1/2024 0:30,Chennai,Minor,Rainy,Wet,Bicycle,38,2,Red Light Violation
+1322,12/24/2023 4:35,Kolkata,Minor,Foggy,Potholes,Bus,47,0,Brake Failure
+1323,3/10/2024 8:54,Mumbai,Severe,Rainy,Wet,Bike,18,0,Weather
+1324,5/18/2024 9:05,Chennai,Moderate,Snowy,Icy,Car,18,4,Speeding
+1325,8/29/2024 12:36,Delhi,Moderate,Rainy,Dry,Bike,44,2,Weather
+1326,8/5/2023 16:14,Ahmedabad,Moderate,Foggy,Dry,Auto Rickshaw,20,5,Speeding
+1327,2/8/2023 18:02,Delhi,Minor,Clear,Potholes,Auto Rickshaw,33,0,Drunk Driving
+1328,2/2/2023 13:29,Pune,Moderate,Foggy,Under Construction,Car,42,5,Speeding
+1329,1/16/2023 0:18,Mumbai,Minor,Windy,Potholes,Truck,41,2,Brake Failure
+1330,2/7/2023 7:13,Hyderabad,Severe,Windy,Dry,Truck,48,4,Bad Road Condition
+1331,1/19/2024 11:26,Pune,Minor,Clear,Dry,Truck,56,1,Drunk Driving
+1332,7/26/2023 22:14,Ahmedabad,Severe,Foggy,Potholes,Bike,19,1,Bad Road Condition
+1333,1/24/2023 7:34,Hyderabad,Severe,Windy,Under Construction,Truck,26,2,Brake Failure
+1334,4/29/2023 21:08,Bangalore,Moderate,Windy,Icy,Bus,60,0,Speeding
+1335,2/4/2023 7:20,Mumbai,Minor,Snowy,Wet,Truck,31,5,Weather
+1336,2/22/2024 18:49,Delhi,Moderate,Windy,Under Construction,Truck,18,1,Weather
+1337,3/22/2024 8:28,Bangalore,Severe,Clear,Dry,Truck,19,0,Bad Road Condition
+1338,10/31/2024 8:19,Bangalore,Moderate,Snowy,Potholes,Bike,57,0,Red Light Violation
+1339,11/24/2024 17:07,Kolkata,Moderate,Foggy,Under Construction,Bike,39,3,Overtaking
+1340,10/29/2024 23:44,Ahmedabad,Severe,Rainy,Wet,Truck,30,3,Weather
+1341,5/17/2024 0:31,Mumbai,Moderate,Snowy,Wet,Bicycle,38,2,Speeding
+1342,10/26/2023 19:40,Hyderabad,Minor,Foggy,Potholes,Car,27,0,Red Light Violation
+1343,5/17/2024 13:09,Bangalore,Severe,Windy,Wet,Car,54,2,Drunk Driving
+1344,10/7/2024 2:34,Hyderabad,Moderate,Clear,Wet,Bicycle,40,3,Drunk Driving
+1345,12/21/2023 8:26,Kolkata,Minor,Foggy,Potholes,Truck,40,1,Drunk Driving
+1346,2/23/2024 5:27,Mumbai,Minor,Clear,Icy,Bicycle,19,1,Red Light Violation
+1347,6/8/2024 0:32,Delhi,Moderate,Rainy,Wet,Car,31,1,Brake Failure
+1348,10/14/2023 19:45,Kolkata,Severe,Rainy,Under Construction,Truck,19,5,Speeding
+1349,7/5/2023 13:40,Delhi,Severe,Clear,Dry,Bicycle,46,2,Overtaking
+1350,10/6/2023 4:30,Chennai,Moderate,Foggy,Under Construction,Truck,49,4,Drunk Driving
+1351,10/5/2024 0:40,Mumbai,Minor,Rainy,Icy,Car,61,2,Weather
+1352,11/11/2024 16:21,Hyderabad,Severe,Foggy,Under Construction,Auto Rickshaw,55,0,Drunk Driving
+1353,7/30/2023 2:08,Delhi,Severe,Foggy,Icy,Bus,44,2,Drunk Driving
+1354,2/18/2024 6:47,Hyderabad,Severe,Windy,Icy,Truck,23,2,Red Light Violation
+1355,8/7/2023 1:39,Pune,Minor,Windy,Dry,Bus,47,0,Weather
+1356,5/22/2024 6:42,Kolkata,Minor,Foggy,Wet,Car,52,3,Red Light Violation
+1357,8/5/2024 0:47,Ahmedabad,Minor,Clear,Dry,Bus,30,1,Overtaking
+1358,5/28/2023 10:55,Mumbai,Severe,Rainy,Potholes,Bus,62,5,Overtaking
+1359,10/17/2024 14:03,Pune,Moderate,Snowy,Icy,Auto Rickshaw,34,5,Weather
+1360,9/28/2024 15:46,Hyderabad,Severe,Snowy,Dry,Car,55,5,Drunk Driving
+1361,7/10/2024 6:35,Bangalore,Minor,Snowy,Dry,Auto Rickshaw,20,1,Bad Road Condition
+1362,9/8/2024 16:34,Pune,Moderate,Rainy,Potholes,Truck,51,5,Brake Failure
+1363,5/26/2023 15:35,Ahmedabad,Moderate,Foggy,Dry,Bike,60,0,Drunk Driving
+1364,11/26/2024 8:12,Ahmedabad,Moderate,Snowy,Under Construction,Bus,45,2,Overtaking
+1365,2/8/2023 10:56,Mumbai,Moderate,Foggy,Dry,Bike,63,3,Bad Road Condition
+1366,7/23/2023 18:11,Bangalore,Minor,Rainy,Dry,Bus,51,3,Speeding
+1367,7/16/2023 10:22,Mumbai,Moderate,Foggy,Wet,Truck,48,2,Bad Road Condition
+1368,2/27/2023 18:55,Ahmedabad,Moderate,Snowy,Icy,Auto Rickshaw,18,3,Red Light Violation
+1369,8/27/2024 0:44,Bangalore,Moderate,Windy,Wet,Truck,31,2,Drunk Driving
+1370,3/22/2024 1:53,Bangalore,Minor,Windy,Potholes,Truck,31,5,Overtaking
+1371,7/3/2023 15:32,Mumbai,Severe,Foggy,Wet,Auto Rickshaw,18,2,Speeding
+1372,1/26/2023 12:43,Bangalore,Severe,Rainy,Under Construction,Bike,27,4,Overtaking
+1373,11/26/2024 17:07,Kolkata,Moderate,Snowy,Under Construction,Bus,28,5,Drunk Driving
+1374,10/15/2023 1:23,Bangalore,Moderate,Snowy,Under Construction,Auto Rickshaw,45,2,Overtaking
+1375,4/13/2023 8:17,Ahmedabad,Severe,Clear,Wet,Car,23,5,Weather
+1376,9/2/2023 22:17,Hyderabad,Moderate,Snowy,Potholes,Auto Rickshaw,48,4,Red Light Violation
+1377,3/5/2024 2:53,Delhi,Severe,Clear,Potholes,Bicycle,39,2,Weather
+1378,12/21/2024 2:26,Mumbai,Severe,Foggy,Dry,Bike,38,2,Overtaking
+1379,4/21/2023 5:56,Bangalore,Severe,Clear,Potholes,Auto Rickshaw,65,5,Red Light Violation
+1380,1/14/2023 0:51,Mumbai,Moderate,Snowy,Potholes,Bicycle,58,5,Brake Failure
+1381,1/26/2024 0:05,Chennai,Severe,Windy,Under Construction,Bicycle,49,5,Speeding
+1382,12/4/2024 3:13,Delhi,Minor,Clear,Icy,Bus,32,2,Brake Failure
+1383,5/25/2024 16:32,Bangalore,Severe,Rainy,Wet,Bus,41,5,Brake Failure
+1384,10/27/2024 21:11,Chennai,Severe,Windy,Under Construction,Bike,54,4,Speeding
+1385,6/13/2023 14:54,Delhi,Minor,Windy,Icy,Bus,39,5,Weather
+1386,7/8/2023 10:55,Kolkata,Minor,Clear,Under Construction,Bus,28,1,Speeding
+1387,9/12/2024 12:05,Hyderabad,Minor,Snowy,Under Construction,Truck,49,1,Weather
+1388,1/4/2024 15:26,Mumbai,Moderate,Foggy,Potholes,Truck,44,4,Weather
+1389,7/2/2023 15:29,Delhi,Minor,Windy,Under Construction,Bicycle,64,4,Weather
+1390,1/3/2023 4:43,Chennai,Minor,Windy,Icy,Car,31,5,Drunk Driving
+1391,4/19/2023 15:21,Mumbai,Severe,Windy,Icy,Bike,24,4,Weather
+1392,8/6/2023 17:28,Kolkata,Severe,Clear,Wet,Bus,21,0,Red Light Violation
+1393,5/1/2023 19:21,Kolkata,Minor,Clear,Under Construction,Truck,19,5,Speeding
+1394,9/17/2024 16:01,Kolkata,Minor,Snowy,Under Construction,Auto Rickshaw,33,4,Red Light Violation
+1395,6/18/2024 6:11,Kolkata,Moderate,Clear,Potholes,Auto Rickshaw,36,1,Overtaking
+1396,12/9/2023 22:05,Hyderabad,Moderate,Clear,Potholes,Truck,48,0,Weather
+1397,4/6/2023 7:39,Chennai,Severe,Clear,Potholes,Truck,60,3,Weather
+1398,2/7/2023 12:53,Mumbai,Moderate,Windy,Under Construction,Bus,49,5,Bad Road Condition
+1399,11/26/2023 13:10,Ahmedabad,Severe,Windy,Potholes,Bicycle,37,2,Drunk Driving
+1400,8/13/2024 10:53,Hyderabad,Minor,Rainy,Potholes,Bus,60,1,Brake Failure
+1401,9/23/2024 17:53,Delhi,Minor,Snowy,Dry,Car,58,3,Bad Road Condition
+1402,6/23/2023 2:31,Kolkata,Moderate,Snowy,Potholes,Bike,37,2,Overtaking
+1403,3/11/2023 8:48,Delhi,Minor,Snowy,Icy,Bus,23,3,Brake Failure
+1404,6/19/2024 1:58,Delhi,Moderate,Windy,Wet,Auto Rickshaw,28,2,Weather
+1405,9/10/2024 4:40,Kolkata,Moderate,Foggy,Under Construction,Auto Rickshaw,54,1,Brake Failure
+1406,1/21/2023 9:31,Ahmedabad,Severe,Clear,Dry,Bus,39,3,Speeding
+1407,9/14/2024 0:23,Chennai,Severe,Snowy,Dry,Car,57,4,Brake Failure
+1408,3/12/2023 22:48,Hyderabad,Severe,Clear,Under Construction,Bus,58,0,Brake Failure
+1409,12/1/2024 19:18,Mumbai,Severe,Clear,Dry,Auto Rickshaw,19,5,Bad Road Condition
+1410,5/2/2024 10:33,Bangalore,Severe,Rainy,Under Construction,Bus,41,0,Drunk Driving
+1411,11/18/2023 8:30,Bangalore,Severe,Clear,Icy,Truck,54,0,Weather
+1412,8/6/2024 8:48,Bangalore,Severe,Snowy,Dry,Truck,62,5,Brake Failure
+1413,8/23/2024 20:17,Kolkata,Minor,Rainy,Under Construction,Car,58,4,Brake Failure
+1414,6/22/2024 11:21,Hyderabad,Severe,Clear,Wet,Auto Rickshaw,49,0,Speeding
+1415,8/14/2023 8:35,Bangalore,Minor,Clear,Under Construction,Car,40,3,Drunk Driving
+1416,6/30/2023 21:00,Bangalore,Minor,Snowy,Under Construction,Car,32,0,Speeding
+1417,3/31/2023 4:42,Pune,Minor,Windy,Icy,Auto Rickshaw,60,1,Bad Road Condition
+1418,7/26/2023 13:34,Ahmedabad,Moderate,Rainy,Icy,Auto Rickshaw,26,3,Brake Failure
+1419,5/20/2023 2:08,Kolkata,Minor,Windy,Potholes,Bike,26,1,Bad Road Condition
+1420,9/16/2023 14:38,Bangalore,Severe,Snowy,Wet,Bicycle,45,4,Brake Failure
+1421,2/22/2023 5:21,Hyderabad,Moderate,Clear,Dry,Bike,49,1,Weather
+1422,10/14/2024 9:38,Chennai,Moderate,Windy,Wet,Truck,34,3,Drunk Driving
+1423,9/27/2024 6:15,Kolkata,Moderate,Clear,Under Construction,Bike,29,4,Overtaking
+1424,3/17/2024 14:14,Pune,Moderate,Foggy,Wet,Car,27,2,Bad Road Condition
+1425,4/2/2023 10:17,Pune,Minor,Foggy,Wet,Car,51,4,Weather
+1426,4/15/2024 21:55,Ahmedabad,Severe,Windy,Wet,Car,18,2,Bad Road Condition
+1427,11/3/2023 5:57,Pune,Moderate,Rainy,Dry,Bus,20,1,Speeding
+1428,11/10/2024 8:40,Kolkata,Moderate,Clear,Wet,Auto Rickshaw,58,5,Speeding
+1429,4/1/2023 22:33,Pune,Moderate,Rainy,Icy,Car,32,3,Overtaking
+1430,2/3/2024 16:26,Delhi,Moderate,Windy,Under Construction,Truck,60,5,Speeding
+1431,11/5/2023 21:07,Ahmedabad,Minor,Rainy,Dry,Truck,20,4,Overtaking
+1432,3/6/2024 4:26,Ahmedabad,Minor,Clear,Dry,Truck,37,5,Brake Failure
+1433,3/6/2024 19:02,Kolkata,Minor,Snowy,Dry,Bus,43,0,Drunk Driving
+1434,12/9/2023 20:10,Chennai,Moderate,Rainy,Wet,Bus,41,5,Brake Failure
+1435,1/9/2023 22:36,Ahmedabad,Minor,Windy,Icy,Bike,52,4,Drunk Driving
+1436,2/23/2024 19:48,Delhi,Minor,Windy,Wet,Car,50,2,Red Light Violation
+1437,3/2/2023 12:26,Hyderabad,Moderate,Snowy,Under Construction,Bike,58,2,Red Light Violation
+1438,6/16/2023 8:40,Mumbai,Moderate,Foggy,Icy,Car,29,2,Weather
+1439,3/12/2023 16:07,Bangalore,Severe,Snowy,Dry,Bus,48,5,Speeding
+1440,10/19/2024 3:23,Bangalore,Minor,Snowy,Dry,Car,26,5,Drunk Driving
+1441,2/16/2024 17:13,Mumbai,Moderate,Snowy,Potholes,Bike,30,2,Overtaking
+1442,1/30/2023 15:16,Bangalore,Severe,Foggy,Icy,Car,42,0,Red Light Violation
+1443,4/9/2023 9:24,Mumbai,Moderate,Windy,Under Construction,Car,51,5,Brake Failure
+1444,7/11/2023 22:44,Chennai,Severe,Rainy,Potholes,Auto Rickshaw,39,0,Bad Road Condition
+1445,11/29/2023 19:08,Chennai,Severe,Windy,Icy,Bicycle,34,4,Speeding
+1446,12/17/2023 6:46,Delhi,Moderate,Foggy,Under Construction,Bus,26,4,Speeding
+1447,8/21/2024 4:34,Kolkata,Severe,Snowy,Potholes,Truck,65,5,Brake Failure
+1448,10/9/2023 13:15,Chennai,Minor,Rainy,Dry,Bike,63,0,Drunk Driving
+1449,3/31/2024 16:35,Chennai,Moderate,Foggy,Potholes,Auto Rickshaw,37,4,Brake Failure
+1450,10/22/2023 6:03,Chennai,Moderate,Snowy,Potholes,Truck,28,1,Speeding
+1451,8/8/2024 5:55,Delhi,Moderate,Foggy,Wet,Car,46,1,Brake Failure
+1452,10/29/2023 16:56,Chennai,Severe,Windy,Potholes,Truck,39,3,Brake Failure
+1453,12/17/2023 21:29,Kolkata,Severe,Windy,Dry,Truck,26,1,Weather
+1454,12/20/2023 8:09,Mumbai,Severe,Snowy,Icy,Bike,46,0,Red Light Violation
+1455,2/3/2024 6:06,Bangalore,Severe,Clear,Under Construction,Truck,35,2,Bad Road Condition
+1456,4/24/2023 20:38,Mumbai,Severe,Clear,Potholes,Bike,44,5,Weather
+1457,11/13/2024 22:39,Hyderabad,Severe,Foggy,Wet,Bicycle,26,2,Speeding
+1458,9/4/2024 7:48,Delhi,Moderate,Foggy,Wet,Car,46,0,Weather
+1459,7/19/2024 8:44,Hyderabad,Severe,Clear,Dry,Bike,65,1,Bad Road Condition
+1460,10/23/2023 18:15,Ahmedabad,Moderate,Snowy,Under Construction,Bicycle,47,4,Speeding
+1461,11/10/2023 5:49,Chennai,Severe,Clear,Icy,Truck,47,5,Weather
+1462,11/22/2023 6:27,Mumbai,Minor,Rainy,Potholes,Truck,23,2,Weather
+1463,2/5/2023 19:26,Pune,Minor,Clear,Icy,Bicycle,18,4,Bad Road Condition
+1464,8/11/2024 19:31,Pune,Moderate,Foggy,Icy,Bike,35,5,Brake Failure
+1465,5/2/2024 13:24,Bangalore,Severe,Clear,Potholes,Car,57,1,Speeding
+1466,12/2/2023 3:00,Pune,Moderate,Snowy,Under Construction,Bus,29,5,Bad Road Condition
+1467,4/21/2023 6:37,Kolkata,Minor,Snowy,Under Construction,Truck,25,0,Speeding
+1468,8/22/2023 21:03,Bangalore,Severe,Clear,Icy,Truck,39,3,Brake Failure
+1469,4/27/2023 0:50,Hyderabad,Severe,Windy,Wet,Bus,40,5,Red Light Violation
+1470,4/17/2023 14:23,Pune,Severe,Windy,Potholes,Truck,48,1,Drunk Driving
+1471,8/12/2024 5:07,Delhi,Moderate,Foggy,Dry,Car,58,1,Speeding
+1472,5/5/2024 10:43,Chennai,Severe,Clear,Wet,Truck,60,3,Red Light Violation
+1473,1/3/2023 20:59,Chennai,Moderate,Snowy,Wet,Bike,64,2,Brake Failure
+1474,4/9/2024 23:48,Bangalore,Minor,Snowy,Potholes,Car,28,2,Overtaking
+1475,7/28/2024 5:37,Mumbai,Moderate,Windy,Icy,Auto Rickshaw,19,3,Brake Failure
+1476,2/6/2024 20:53,Pune,Severe,Clear,Potholes,Car,56,5,Drunk Driving
+1477,12/21/2023 1:38,Ahmedabad,Severe,Foggy,Potholes,Auto Rickshaw,18,5,Speeding
+1478,2/11/2024 13:36,Delhi,Moderate,Clear,Wet,Truck,26,5,Bad Road Condition
+1479,11/18/2023 18:34,Kolkata,Moderate,Snowy,Potholes,Bus,46,1,Overtaking
+1480,3/21/2023 23:12,Pune,Severe,Foggy,Dry,Bike,27,2,Brake Failure
+1481,9/4/2023 19:15,Chennai,Minor,Foggy,Potholes,Truck,38,3,Brake Failure
+1482,10/26/2024 16:15,Mumbai,Minor,Foggy,Under Construction,Auto Rickshaw,64,1,Bad Road Condition
+1483,9/21/2023 16:18,Ahmedabad,Severe,Foggy,Wet,Auto Rickshaw,59,0,Overtaking
+1484,2/20/2024 2:13,Hyderabad,Severe,Rainy,Icy,Car,40,5,Red Light Violation
+1485,9/4/2024 14:08,Bangalore,Severe,Windy,Icy,Bus,26,4,Overtaking
+1486,5/31/2023 13:13,Mumbai,Moderate,Clear,Dry,Truck,58,2,Weather
+1487,8/23/2024 19:11,Kolkata,Minor,Foggy,Wet,Bus,27,0,Speeding
+1488,7/5/2023 21:13,Mumbai,Minor,Clear,Under Construction,Bicycle,32,0,Drunk Driving
+1489,5/3/2024 4:16,Pune,Severe,Windy,Dry,Bus,21,2,Weather
+1490,4/15/2023 9:39,Kolkata,Moderate,Clear,Under Construction,Car,42,0,Speeding
+1491,3/9/2023 11:50,Kolkata,Severe,Clear,Under Construction,Auto Rickshaw,45,4,Red Light Violation
+1492,5/1/2023 21:09,Mumbai,Severe,Snowy,Potholes,Bicycle,26,5,Brake Failure
+1493,2/13/2023 8:26,Hyderabad,Moderate,Clear,Icy,Bus,56,3,Red Light Violation
+1494,3/6/2024 3:51,Delhi,Severe,Clear,Potholes,Bicycle,24,0,Red Light Violation
+1495,10/8/2023 18:17,Bangalore,Severe,Rainy,Dry,Bike,60,2,Red Light Violation
+1496,7/19/2023 21:52,Mumbai,Minor,Clear,Icy,Truck,39,1,Brake Failure
+1497,1/18/2024 3:48,Chennai,Minor,Rainy,Dry,Truck,37,3,Bad Road Condition
+1498,11/27/2024 21:41,Bangalore,Minor,Rainy,Under Construction,Bus,32,2,Brake Failure
+1499,9/21/2023 10:33,Hyderabad,Severe,Rainy,Under Construction,Auto Rickshaw,33,3,Drunk Driving
+1500,7/4/2023 5:02,Bangalore,Severe,Foggy,Under Construction,Car,59,0,Brake Failure
+1501,4/25/2023 12:47,Kolkata,Severe,Windy,Potholes,Truck,65,5,Speeding
+1502,1/11/2024 15:44,Chennai,Severe,Snowy,Dry,Auto Rickshaw,21,5,Drunk Driving
+1503,1/20/2024 8:45,Ahmedabad,Severe,Snowy,Dry,Bicycle,26,0,Drunk Driving
+1504,4/14/2024 6:16,Bangalore,Severe,Snowy,Wet,Truck,40,2,Overtaking
+1505,8/9/2023 18:39,Hyderabad,Minor,Rainy,Dry,Bicycle,22,5,Bad Road Condition
+1506,3/12/2023 2:09,Chennai,Severe,Windy,Icy,Car,57,4,Brake Failure
+1507,2/11/2024 3:43,Chennai,Severe,Windy,Icy,Car,65,1,Weather
+1508,7/8/2023 22:53,Kolkata,Severe,Foggy,Dry,Auto Rickshaw,39,3,Weather
+1509,4/12/2023 9:19,Pune,Moderate,Clear,Icy,Bus,64,4,Speeding
+1510,6/8/2023 16:39,Delhi,Minor,Rainy,Icy,Bicycle,22,1,Drunk Driving
+1511,5/27/2024 22:40,Delhi,Minor,Clear,Icy,Auto Rickshaw,63,5,Red Light Violation
+1512,1/29/2024 16:45,Delhi,Minor,Rainy,Under Construction,Bicycle,46,4,Drunk Driving
+1513,1/6/2023 22:38,Delhi,Minor,Clear,Potholes,Car,65,4,Bad Road Condition
+1514,6/21/2024 13:23,Mumbai,Minor,Windy,Icy,Bus,20,5,Overtaking
+1515,6/27/2023 11:21,Kolkata,Severe,Clear,Wet,Bicycle,36,4,Red Light Violation
+1516,5/27/2024 16:39,Mumbai,Moderate,Clear,Under Construction,Truck,31,4,Drunk Driving
+1517,1/17/2024 2:09,Chennai,Minor,Snowy,Dry,Car,32,0,Red Light Violation
+1518,2/1/2023 6:31,Delhi,Moderate,Foggy,Icy,Bike,40,2,Overtaking
+1519,5/25/2023 16:58,Bangalore,Severe,Windy,Under Construction,Car,56,1,Speeding
+1520,11/1/2024 21:42,Kolkata,Minor,Windy,Potholes,Bus,33,3,Drunk Driving
+1521,8/23/2023 4:51,Ahmedabad,Severe,Clear,Wet,Bus,24,5,Red Light Violation
+1522,11/22/2024 7:48,Chennai,Severe,Foggy,Potholes,Bike,54,1,Red Light Violation
+1523,12/15/2024 19:02,Ahmedabad,Moderate,Clear,Under Construction,Truck,54,1,Brake Failure
+1524,7/15/2023 21:13,Hyderabad,Minor,Windy,Wet,Car,33,5,Weather
+1525,1/31/2023 6:23,Ahmedabad,Moderate,Foggy,Under Construction,Truck,26,0,Speeding
+1526,8/23/2024 8:58,Kolkata,Minor,Rainy,Under Construction,Car,36,4,Overtaking
+1527,8/24/2023 19:10,Ahmedabad,Minor,Foggy,Potholes,Auto Rickshaw,30,1,Speeding
+1528,4/25/2024 15:53,Ahmedabad,Moderate,Rainy,Icy,Bike,54,1,Overtaking
+1529,8/3/2023 1:00,Kolkata,Moderate,Clear,Icy,Bus,35,1,Red Light Violation
+1530,4/11/2023 14:14,Mumbai,Moderate,Snowy,Under Construction,Bus,52,5,Bad Road Condition
+1531,10/31/2024 20:06,Pune,Moderate,Clear,Wet,Car,25,5,Speeding
+1532,8/20/2024 15:52,Kolkata,Minor,Rainy,Under Construction,Bike,46,0,Speeding
+1533,7/31/2024 10:15,Chennai,Minor,Rainy,Wet,Car,20,3,Speeding
+1534,2/25/2024 20:03,Hyderabad,Moderate,Windy,Icy,Auto Rickshaw,26,5,Weather
+1535,3/6/2024 10:04,Kolkata,Minor,Foggy,Under Construction,Truck,47,5,Brake Failure
+1536,11/10/2024 17:10,Chennai,Moderate,Rainy,Icy,Bike,49,0,Speeding
+1537,12/8/2023 12:23,Ahmedabad,Minor,Rainy,Dry,Bicycle,52,1,Red Light Violation
+1538,10/26/2024 18:44,Bangalore,Moderate,Snowy,Icy,Auto Rickshaw,27,3,Speeding
+1539,10/8/2023 17:09,Mumbai,Severe,Snowy,Dry,Bicycle,54,4,Weather
+1540,10/26/2023 17:40,Ahmedabad,Severe,Foggy,Dry,Auto Rickshaw,41,4,Red Light Violation
+1541,4/24/2023 6:36,Ahmedabad,Severe,Windy,Icy,Bike,33,0,Speeding
+1542,10/16/2024 2:41,Hyderabad,Minor,Foggy,Potholes,Auto Rickshaw,60,4,Drunk Driving
+1543,1/9/2024 1:28,Chennai,Severe,Rainy,Wet,Bike,19,2,Drunk Driving
+1544,5/5/2024 5:00,Hyderabad,Severe,Windy,Dry,Auto Rickshaw,63,3,Bad Road Condition
+1545,5/21/2023 1:46,Chennai,Severe,Windy,Potholes,Bus,29,0,Bad Road Condition
+1546,2/17/2024 9:39,Chennai,Severe,Windy,Icy,Bike,58,1,Overtaking
+1547,4/30/2023 21:09,Pune,Minor,Rainy,Wet,Auto Rickshaw,48,3,Red Light Violation
+1548,1/30/2024 16:10,Ahmedabad,Minor,Foggy,Icy,Bicycle,55,3,Brake Failure
+1549,10/24/2023 4:42,Pune,Minor,Snowy,Dry,Bike,50,5,Bad Road Condition
+1550,8/14/2024 2:25,Kolkata,Moderate,Foggy,Icy,Truck,22,4,Speeding
+1551,5/16/2023 13:10,Mumbai,Severe,Clear,Dry,Bus,55,5,Red Light Violation
+1552,2/6/2023 14:59,Bangalore,Severe,Clear,Icy,Truck,64,2,Drunk Driving
+1553,5/10/2024 13:47,Hyderabad,Moderate,Snowy,Under Construction,Car,33,1,Red Light Violation
+1554,11/7/2023 21:00,Ahmedabad,Minor,Snowy,Dry,Auto Rickshaw,22,4,Bad Road Condition
+1555,5/31/2024 9:32,Pune,Moderate,Snowy,Wet,Bicycle,65,5,Weather
+1556,1/4/2024 1:58,Pune,Severe,Foggy,Icy,Bicycle,35,5,Weather
+1557,10/28/2024 20:31,Bangalore,Moderate,Snowy,Wet,Bike,34,1,Speeding
+1558,8/16/2024 12:31,Kolkata,Severe,Clear,Under Construction,Truck,50,1,Weather
+1559,2/9/2024 16:34,Kolkata,Moderate,Foggy,Dry,Bus,51,5,Drunk Driving
+1560,12/2/2024 2:49,Delhi,Minor,Rainy,Potholes,Bicycle,24,5,Drunk Driving
+1561,3/23/2023 12:11,Hyderabad,Minor,Windy,Icy,Bicycle,43,0,Drunk Driving
+1562,2/12/2024 21:32,Bangalore,Minor,Snowy,Icy,Bus,21,5,Bad Road Condition
+1563,8/17/2023 4:07,Delhi,Moderate,Snowy,Wet,Bike,43,5,Speeding
+1564,12/25/2024 11:17,Mumbai,Moderate,Foggy,Under Construction,Truck,23,2,Speeding
+1565,7/20/2024 10:32,Hyderabad,Minor,Snowy,Icy,Truck,48,0,Brake Failure
+1566,4/4/2024 7:39,Kolkata,Severe,Clear,Dry,Bus,46,2,Overtaking
+1567,10/5/2023 16:30,Bangalore,Minor,Snowy,Potholes,Bicycle,64,2,Overtaking
+1568,3/24/2024 3:14,Kolkata,Moderate,Rainy,Under Construction,Truck,48,4,Bad Road Condition
+1569,6/15/2023 14:00,Chennai,Moderate,Foggy,Under Construction,Bike,37,3,Brake Failure
+1570,3/21/2024 15:20,Hyderabad,Moderate,Rainy,Potholes,Car,40,4,Weather
+1571,10/20/2024 22:11,Pune,Moderate,Foggy,Wet,Bus,59,1,Overtaking
+1572,6/9/2024 17:33,Bangalore,Minor,Windy,Dry,Bus,34,5,Drunk Driving
+1573,1/8/2023 22:13,Chennai,Minor,Clear,Dry,Bike,62,2,Bad Road Condition
+1574,3/13/2023 6:33,Bangalore,Severe,Snowy,Under Construction,Bicycle,41,2,Brake Failure
+1575,6/5/2023 1:50,Ahmedabad,Moderate,Windy,Under Construction,Car,42,0,Brake Failure
+1576,4/7/2024 20:06,Pune,Moderate,Foggy,Icy,Bicycle,30,4,Speeding
+1577,2/29/2024 8:15,Kolkata,Severe,Snowy,Under Construction,Auto Rickshaw,22,5,Red Light Violation
+1578,9/12/2024 0:10,Ahmedabad,Minor,Snowy,Dry,Auto Rickshaw,43,5,Speeding
+1579,7/4/2024 14:37,Delhi,Moderate,Snowy,Wet,Car,35,4,Red Light Violation
+1580,10/25/2024 15:19,Mumbai,Minor,Snowy,Potholes,Bicycle,33,4,Weather
+1581,9/14/2024 15:36,Delhi,Severe,Snowy,Dry,Bus,36,4,Brake Failure
+1582,11/25/2023 4:27,Pune,Moderate,Foggy,Wet,Bus,34,5,Red Light Violation
+1583,7/24/2023 3:34,Mumbai,Minor,Snowy,Icy,Bike,34,2,Overtaking
+1584,10/24/2024 20:07,Delhi,Minor,Snowy,Icy,Bicycle,39,5,Bad Road Condition
+1585,11/15/2024 22:08,Kolkata,Severe,Clear,Wet,Car,41,0,Red Light Violation
+1586,10/24/2024 20:20,Pune,Minor,Snowy,Icy,Bike,63,5,Weather
+1587,12/9/2024 17:14,Kolkata,Moderate,Rainy,Under Construction,Auto Rickshaw,49,4,Brake Failure
+1588,3/26/2023 8:10,Delhi,Moderate,Foggy,Icy,Bicycle,45,1,Red Light Violation
+1589,11/8/2023 14:53,Kolkata,Minor,Foggy,Icy,Bus,41,4,Drunk Driving
+1590,11/19/2024 18:31,Chennai,Moderate,Snowy,Icy,Truck,38,5,Bad Road Condition
+1591,10/16/2023 5:49,Hyderabad,Severe,Windy,Potholes,Bicycle,52,1,Speeding
+1592,5/1/2023 21:00,Hyderabad,Minor,Snowy,Under Construction,Car,59,2,Weather
+1593,7/21/2023 0:39,Ahmedabad,Minor,Foggy,Potholes,Auto Rickshaw,31,1,Drunk Driving
+1594,2/26/2023 11:12,Bangalore,Severe,Snowy,Under Construction,Car,53,4,Speeding
+1595,4/14/2024 22:36,Hyderabad,Minor,Windy,Icy,Car,54,4,Red Light Violation
+1596,3/5/2024 7:43,Delhi,Severe,Snowy,Potholes,Bus,39,3,Speeding
+1597,1/23/2023 6:07,Bangalore,Moderate,Snowy,Under Construction,Bus,62,2,Drunk Driving
+1598,9/7/2023 8:37,Delhi,Minor,Foggy,Under Construction,Auto Rickshaw,34,0,Speeding
+1599,12/9/2023 16:31,Pune,Severe,Clear,Dry,Bike,61,2,Red Light Violation
+1600,9/3/2023 21:24,Delhi,Minor,Rainy,Potholes,Bus,25,5,Bad Road Condition
+1601,11/8/2024 8:18,Bangalore,Minor,Rainy,Under Construction,Bicycle,55,4,Drunk Driving
+1602,5/5/2024 11:39,Ahmedabad,Moderate,Clear,Icy,Auto Rickshaw,64,3,Brake Failure
+1603,11/27/2023 21:13,Chennai,Moderate,Foggy,Potholes,Bicycle,48,3,Speeding
+1604,10/31/2024 4:33,Delhi,Minor,Clear,Under Construction,Car,28,1,Overtaking
+1605,10/31/2024 14:52,Ahmedabad,Moderate,Clear,Dry,Bus,26,2,Drunk Driving
+1606,11/28/2023 19:43,Bangalore,Severe,Rainy,Wet,Bike,61,5,Red Light Violation
+1607,10/5/2024 4:43,Mumbai,Minor,Snowy,Dry,Car,50,4,Drunk Driving
+1608,2/24/2024 12:42,Chennai,Moderate,Snowy,Icy,Bicycle,25,1,Overtaking
+1609,12/13/2023 14:58,Bangalore,Severe,Clear,Under Construction,Bicycle,20,3,Red Light Violation
+1610,10/10/2023 15:42,Bangalore,Severe,Windy,Under Construction,Truck,40,5,Overtaking
+1611,1/17/2023 15:44,Pune,Moderate,Windy,Icy,Bicycle,19,2,Bad Road Condition
+1612,6/24/2024 0:11,Bangalore,Minor,Snowy,Potholes,Bicycle,36,5,Drunk Driving
+1613,7/30/2023 1:07,Kolkata,Severe,Windy,Potholes,Truck,33,1,Overtaking
+1614,11/18/2024 4:00,Mumbai,Minor,Windy,Potholes,Truck,39,2,Overtaking
+1615,6/15/2024 6:58,Ahmedabad,Minor,Windy,Icy,Bicycle,65,1,Red Light Violation
+1616,10/6/2024 6:43,Bangalore,Severe,Clear,Icy,Bus,62,5,Brake Failure
+1617,8/28/2023 0:04,Mumbai,Minor,Rainy,Under Construction,Car,34,5,Weather
+1618,2/7/2023 22:30,Kolkata,Minor,Windy,Wet,Car,50,1,Drunk Driving
+1619,9/16/2024 18:59,Ahmedabad,Severe,Snowy,Icy,Bicycle,52,0,Weather
+1620,12/6/2023 19:59,Hyderabad,Moderate,Clear,Potholes,Bus,18,3,Brake Failure
+1621,7/7/2024 22:53,Chennai,Severe,Windy,Potholes,Auto Rickshaw,21,1,Drunk Driving
+1622,3/3/2024 13:04,Hyderabad,Moderate,Rainy,Dry,Bicycle,62,4,Overtaking
+1623,8/18/2024 13:26,Bangalore,Moderate,Clear,Icy,Car,58,3,Bad Road Condition
+1624,9/27/2023 11:04,Kolkata,Moderate,Windy,Dry,Bicycle,24,5,Red Light Violation
+1625,4/19/2023 20:19,Bangalore,Severe,Rainy,Wet,Bus,49,2,Weather
+1626,10/19/2023 19:42,Pune,Severe,Clear,Dry,Car,32,2,Drunk Driving
+1627,6/23/2023 15:05,Pune,Minor,Clear,Under Construction,Auto Rickshaw,21,3,Brake Failure
+1628,8/29/2023 23:03,Kolkata,Severe,Foggy,Under Construction,Car,19,5,Bad Road Condition
+1629,3/25/2024 5:32,Mumbai,Severe,Snowy,Wet,Auto Rickshaw,38,3,Red Light Violation
+1630,1/9/2023 2:23,Bangalore,Moderate,Clear,Wet,Car,30,2,Overtaking
+1631,10/9/2023 23:23,Pune,Minor,Foggy,Potholes,Auto Rickshaw,45,1,Speeding
+1632,5/1/2024 2:45,Mumbai,Minor,Snowy,Icy,Auto Rickshaw,38,5,Overtaking
+1633,9/19/2024 5:36,Bangalore,Moderate,Clear,Potholes,Bicycle,26,1,Drunk Driving
+1634,8/19/2024 0:03,Mumbai,Minor,Windy,Dry,Bicycle,20,5,Red Light Violation
+1635,5/5/2023 2:54,Ahmedabad,Moderate,Foggy,Wet,Bus,53,1,Overtaking
+1636,5/11/2024 23:37,Hyderabad,Severe,Rainy,Under Construction,Bicycle,59,1,Bad Road Condition
+1637,11/17/2023 17:33,Pune,Moderate,Rainy,Potholes,Car,24,1,Overtaking
+1638,10/30/2023 4:43,Mumbai,Moderate,Rainy,Wet,Truck,59,3,Drunk Driving
+1639,3/18/2024 18:13,Delhi,Severe,Rainy,Dry,Truck,44,0,Brake Failure
+1640,6/9/2024 15:13,Ahmedabad,Minor,Foggy,Dry,Auto Rickshaw,48,3,Drunk Driving
+1641,4/28/2023 5:37,Chennai,Minor,Snowy,Dry,Bike,25,3,Overtaking
+1642,3/6/2023 10:41,Delhi,Moderate,Rainy,Potholes,Auto Rickshaw,24,0,Brake Failure
+1643,5/18/2023 2:42,Kolkata,Minor,Windy,Potholes,Car,23,1,Drunk Driving
+1644,8/22/2023 14:38,Chennai,Moderate,Foggy,Under Construction,Truck,59,0,Bad Road Condition
+1645,8/7/2023 23:29,Delhi,Severe,Rainy,Wet,Bicycle,28,3,Drunk Driving
+1646,11/26/2024 10:55,Bangalore,Minor,Clear,Potholes,Bicycle,45,3,Brake Failure
+1647,7/10/2023 20:27,Mumbai,Moderate,Foggy,Icy,Auto Rickshaw,54,3,Weather
+1648,9/26/2024 4:10,Bangalore,Severe,Snowy,Under Construction,Truck,60,0,Weather
+1649,6/13/2024 23:12,Mumbai,Minor,Clear,Wet,Bike,52,2,Red Light Violation
+1650,10/30/2023 3:23,Chennai,Minor,Snowy,Wet,Truck,45,4,Weather
+1651,2/28/2023 15:50,Chennai,Minor,Rainy,Under Construction,Bike,46,1,Speeding
+1652,7/10/2023 5:30,Delhi,Minor,Clear,Under Construction,Bicycle,18,5,Overtaking
+1653,3/11/2023 7:58,Hyderabad,Moderate,Clear,Icy,Truck,38,3,Overtaking
+1654,12/14/2023 16:28,Ahmedabad,Severe,Rainy,Potholes,Car,20,2,Red Light Violation
+1655,9/10/2023 19:38,Ahmedabad,Minor,Snowy,Potholes,Car,50,0,Drunk Driving
+1656,12/18/2024 0:33,Delhi,Minor,Snowy,Potholes,Truck,27,1,Bad Road Condition
+1657,2/28/2023 16:25,Pune,Minor,Snowy,Icy,Bike,25,4,Overtaking
+1658,12/16/2024 12:25,Bangalore,Severe,Snowy,Wet,Bike,26,3,Overtaking
+1659,3/5/2023 0:30,Delhi,Moderate,Rainy,Wet,Bus,23,0,Red Light Violation
+1660,7/30/2023 5:01,Mumbai,Minor,Rainy,Icy,Car,22,3,Red Light Violation
+1661,7/6/2024 5:12,Kolkata,Moderate,Rainy,Potholes,Auto Rickshaw,48,4,Drunk Driving
+1662,2/16/2024 5:26,Pune,Minor,Windy,Potholes,Bus,31,1,Overtaking
+1663,3/4/2024 14:53,Pune,Minor,Rainy,Dry,Bus,45,0,Bad Road Condition
+1664,1/10/2024 20:31,Delhi,Moderate,Rainy,Wet,Truck,32,4,Bad Road Condition
+1665,12/29/2024 1:20,Pune,Moderate,Foggy,Potholes,Car,19,2,Red Light Violation
+1666,1/16/2023 23:44,Bangalore,Minor,Clear,Wet,Truck,51,0,Weather
+1667,10/3/2023 4:21,Mumbai,Severe,Clear,Wet,Car,30,0,Weather
+1668,5/17/2024 18:45,Pune,Minor,Foggy,Potholes,Bicycle,28,3,Weather
+1669,12/17/2023 23:40,Mumbai,Minor,Snowy,Under Construction,Auto Rickshaw,49,1,Drunk Driving
+1670,8/15/2024 6:20,Pune,Moderate,Foggy,Wet,Auto Rickshaw,23,5,Red Light Violation
+1671,1/9/2023 10:51,Delhi,Moderate,Rainy,Wet,Truck,47,4,Red Light Violation
+1672,12/23/2023 13:10,Delhi,Severe,Snowy,Wet,Bus,20,2,Bad Road Condition
+1673,10/6/2024 8:30,Mumbai,Minor,Clear,Potholes,Truck,25,2,Red Light Violation
+1674,6/1/2023 7:04,Chennai,Moderate,Clear,Dry,Truck,57,1,Speeding
+1675,2/9/2024 21:41,Pune,Minor,Clear,Potholes,Bus,63,0,Red Light Violation
+1676,11/30/2024 1:55,Ahmedabad,Moderate,Foggy,Icy,Car,60,3,Bad Road Condition
+1677,5/22/2024 10:18,Kolkata,Minor,Windy,Dry,Bus,64,0,Brake Failure
+1678,9/22/2024 23:40,Mumbai,Moderate,Foggy,Dry,Bicycle,20,5,Weather
+1679,7/23/2023 16:16,Ahmedabad,Minor,Windy,Wet,Bus,57,3,Speeding
+1680,4/23/2023 7:34,Delhi,Moderate,Foggy,Dry,Bus,43,3,Overtaking
+1681,12/23/2023 2:35,Pune,Moderate,Clear,Dry,Car,21,2,Weather
+1682,2/11/2023 5:22,Mumbai,Severe,Windy,Potholes,Car,18,1,Red Light Violation
+1683,3/13/2023 23:29,Bangalore,Severe,Snowy,Dry,Auto Rickshaw,52,0,Overtaking
+1684,7/3/2024 19:43,Bangalore,Minor,Snowy,Potholes,Auto Rickshaw,57,2,Drunk Driving
+1685,12/12/2024 17:54,Bangalore,Severe,Windy,Wet,Bike,24,5,Speeding
+1686,4/27/2023 22:48,Mumbai,Severe,Clear,Dry,Car,24,5,Red Light Violation
+1687,2/19/2023 14:23,Hyderabad,Minor,Clear,Wet,Car,36,4,Drunk Driving
+1688,12/20/2024 18:09,Bangalore,Minor,Rainy,Wet,Truck,33,5,Red Light Violation
+1689,5/19/2023 10:40,Mumbai,Moderate,Clear,Potholes,Bus,44,3,Red Light Violation
+1690,2/21/2024 18:58,Ahmedabad,Minor,Clear,Dry,Car,52,3,Overtaking
+1691,8/7/2023 16:01,Mumbai,Moderate,Rainy,Under Construction,Bike,26,1,Red Light Violation
+1692,7/7/2024 4:10,Kolkata,Moderate,Clear,Wet,Bus,36,2,Brake Failure
+1693,2/21/2023 2:25,Kolkata,Severe,Rainy,Icy,Bicycle,28,5,Brake Failure
+1694,6/18/2023 23:17,Mumbai,Minor,Foggy,Dry,Auto Rickshaw,42,0,Weather
+1695,11/18/2024 20:41,Ahmedabad,Moderate,Rainy,Dry,Bus,48,3,Red Light Violation
+1696,2/11/2024 10:03,Chennai,Minor,Windy,Potholes,Car,49,3,Brake Failure
+1697,1/12/2023 7:20,Kolkata,Moderate,Snowy,Icy,Car,48,4,Drunk Driving
+1698,6/7/2024 14:58,Mumbai,Minor,Clear,Dry,Bicycle,48,3,Speeding
+1699,12/25/2024 17:57,Chennai,Severe,Clear,Wet,Bicycle,22,5,Overtaking
+1700,5/22/2024 0:22,Chennai,Moderate,Windy,Wet,Car,19,3,Drunk Driving
+1701,4/16/2023 5:03,Ahmedabad,Severe,Foggy,Wet,Auto Rickshaw,29,0,Weather
+1702,9/18/2024 10:39,Kolkata,Severe,Rainy,Potholes,Bike,57,1,Overtaking
+1703,2/18/2024 23:52,Mumbai,Minor,Windy,Under Construction,Truck,39,3,Bad Road Condition
+1704,9/25/2024 18:37,Delhi,Moderate,Foggy,Wet,Bicycle,25,3,Brake Failure
+1705,9/23/2023 2:39,Chennai,Severe,Windy,Potholes,Truck,35,4,Speeding
+1706,11/9/2024 5:49,Hyderabad,Moderate,Foggy,Dry,Car,44,1,Weather
+1707,8/12/2024 21:49,Kolkata,Minor,Rainy,Icy,Car,18,1,Brake Failure
+1708,10/26/2023 2:17,Delhi,Severe,Snowy,Dry,Auto Rickshaw,54,0,Red Light Violation
+1709,11/16/2024 6:25,Mumbai,Moderate,Foggy,Under Construction,Car,46,2,Brake Failure
+1710,9/22/2024 11:47,Mumbai,Severe,Snowy,Wet,Truck,59,3,Overtaking
+1711,6/12/2023 16:31,Chennai,Minor,Clear,Dry,Bicycle,47,3,Bad Road Condition
+1712,12/17/2023 17:36,Pune,Severe,Windy,Dry,Truck,58,3,Weather
+1713,5/8/2023 23:17,Pune,Moderate,Foggy,Icy,Bus,24,2,Overtaking
+1714,4/3/2023 2:05,Bangalore,Minor,Clear,Dry,Bicycle,27,0,Brake Failure
+1715,1/5/2024 4:50,Ahmedabad,Moderate,Clear,Under Construction,Auto Rickshaw,40,0,Speeding
+1716,9/12/2023 9:43,Hyderabad,Moderate,Windy,Wet,Bicycle,34,3,Red Light Violation
+1717,2/1/2023 6:09,Hyderabad,Moderate,Clear,Wet,Car,60,0,Weather
+1718,7/1/2023 13:52,Ahmedabad,Severe,Windy,Icy,Auto Rickshaw,45,0,Speeding
+1719,2/26/2024 23:20,Pune,Moderate,Foggy,Icy,Car,64,0,Overtaking
+1720,6/10/2023 4:20,Mumbai,Moderate,Snowy,Wet,Bus,26,2,Overtaking
+1721,8/30/2024 2:40,Delhi,Severe,Snowy,Wet,Car,24,2,Weather
+1722,3/5/2024 20:05,Bangalore,Moderate,Rainy,Icy,Auto Rickshaw,23,4,Brake Failure
+1723,10/20/2023 0:08,Pune,Moderate,Windy,Icy,Truck,21,0,Bad Road Condition
+1724,7/1/2023 19:37,Ahmedabad,Severe,Foggy,Under Construction,Bus,33,1,Red Light Violation
+1725,11/2/2024 20:39,Delhi,Minor,Snowy,Icy,Bicycle,56,4,Drunk Driving
+1726,3/28/2023 12:42,Kolkata,Severe,Foggy,Potholes,Bike,65,2,Overtaking
+1727,11/21/2024 19:16,Hyderabad,Minor,Rainy,Dry,Bicycle,65,5,Weather
+1728,3/26/2024 6:19,Kolkata,Moderate,Snowy,Wet,Bus,57,5,Red Light Violation
+1729,6/12/2024 12:53,Chennai,Severe,Clear,Potholes,Auto Rickshaw,37,5,Red Light Violation
+1730,6/30/2024 14:35,Bangalore,Moderate,Windy,Dry,Car,34,3,Overtaking
+1731,8/4/2024 9:25,Kolkata,Severe,Windy,Wet,Auto Rickshaw,59,0,Bad Road Condition
+1732,5/12/2024 2:54,Pune,Severe,Foggy,Wet,Car,35,5,Speeding
+1733,5/20/2023 1:17,Ahmedabad,Minor,Clear,Potholes,Bus,48,2,Speeding
+1734,10/3/2023 18:34,Delhi,Minor,Clear,Under Construction,Bike,65,0,Bad Road Condition
+1735,1/20/2023 2:21,Mumbai,Minor,Rainy,Icy,Bike,21,0,Bad Road Condition
+1736,11/10/2024 16:49,Kolkata,Minor,Rainy,Potholes,Bus,30,4,Red Light Violation
+1737,7/23/2023 10:18,Chennai,Moderate,Foggy,Potholes,Auto Rickshaw,52,5,Overtaking
+1738,1/24/2024 0:35,Ahmedabad,Minor,Windy,Wet,Bus,45,2,Speeding
+1739,1/15/2023 12:31,Chennai,Minor,Clear,Potholes,Bike,40,4,Red Light Violation
+1740,5/26/2023 7:16,Kolkata,Severe,Snowy,Wet,Auto Rickshaw,59,0,Bad Road Condition
+1741,4/3/2023 23:48,Pune,Minor,Snowy,Icy,Auto Rickshaw,61,1,Drunk Driving
+1742,4/25/2024 4:45,Bangalore,Severe,Snowy,Potholes,Car,57,2,Drunk Driving
+1743,4/6/2023 11:05,Pune,Minor,Clear,Icy,Bicycle,30,3,Bad Road Condition
+1744,5/31/2023 9:11,Mumbai,Minor,Rainy,Wet,Bike,44,1,Overtaking
+1745,8/27/2024 0:41,Hyderabad,Moderate,Windy,Under Construction,Auto Rickshaw,55,1,Speeding
+1746,9/18/2023 7:09,Chennai,Severe,Foggy,Under Construction,Truck,64,5,Weather
+1747,2/7/2023 23:17,Delhi,Moderate,Windy,Under Construction,Car,30,1,Red Light Violation
+1748,9/2/2024 6:13,Chennai,Severe,Clear,Under Construction,Bike,45,5,Brake Failure
+1749,10/1/2023 21:29,Chennai,Moderate,Clear,Potholes,Auto Rickshaw,64,1,Brake Failure
+1750,1/28/2023 14:59,Kolkata,Severe,Foggy,Icy,Auto Rickshaw,56,3,Speeding
+1751,10/23/2024 16:53,Delhi,Severe,Foggy,Under Construction,Bicycle,37,5,Drunk Driving
+1752,9/14/2024 20:16,Hyderabad,Moderate,Windy,Dry,Auto Rickshaw,38,2,Speeding
+1753,8/5/2024 11:59,Kolkata,Minor,Clear,Dry,Auto Rickshaw,37,2,Overtaking
+1754,9/17/2023 8:26,Pune,Moderate,Rainy,Dry,Bike,52,2,Bad Road Condition
+1755,1/3/2024 19:49,Delhi,Severe,Snowy,Potholes,Auto Rickshaw,62,2,Bad Road Condition
+1756,7/20/2024 23:42,Ahmedabad,Minor,Foggy,Wet,Truck,21,0,Drunk Driving
+1757,7/4/2023 0:37,Ahmedabad,Minor,Clear,Wet,Auto Rickshaw,64,4,Red Light Violation
+1758,9/10/2024 23:25,Chennai,Moderate,Snowy,Icy,Car,51,1,Drunk Driving
+1759,4/13/2024 8:33,Bangalore,Severe,Foggy,Wet,Car,29,1,Overtaking
+1760,4/27/2023 4:29,Delhi,Severe,Foggy,Wet,Bike,30,5,Weather
+1761,10/8/2024 22:37,Kolkata,Severe,Rainy,Wet,Car,52,1,Brake Failure
+1762,1/6/2024 6:26,Ahmedabad,Severe,Foggy,Icy,Bus,48,3,Weather
+1763,5/8/2023 13:29,Bangalore,Severe,Windy,Icy,Auto Rickshaw,54,3,Weather
+1764,5/29/2023 9:19,Hyderabad,Severe,Clear,Icy,Auto Rickshaw,65,5,Weather
+1765,4/19/2024 10:57,Mumbai,Severe,Windy,Under Construction,Truck,51,2,Speeding
+1766,7/29/2023 15:29,Kolkata,Severe,Snowy,Potholes,Bike,19,5,Brake Failure
+1767,8/8/2024 14:14,Pune,Minor,Foggy,Potholes,Car,57,1,Red Light Violation
+1768,7/16/2024 20:46,Kolkata,Severe,Rainy,Wet,Bus,46,3,Weather
+1769,9/27/2023 10:24,Hyderabad,Moderate,Snowy,Dry,Auto Rickshaw,63,2,Brake Failure
+1770,10/8/2023 21:47,Kolkata,Severe,Snowy,Wet,Car,36,5,Weather
+1771,9/24/2023 23:19,Chennai,Minor,Snowy,Wet,Truck,53,1,Red Light Violation
+1772,11/2/2023 3:38,Bangalore,Minor,Windy,Icy,Truck,38,2,Drunk Driving
+1773,8/31/2024 5:55,Mumbai,Minor,Clear,Under Construction,Bus,30,4,Drunk Driving
+1774,8/2/2023 4:08,Chennai,Minor,Windy,Under Construction,Auto Rickshaw,23,2,Drunk Driving
+1775,4/10/2024 1:58,Hyderabad,Moderate,Snowy,Potholes,Car,38,3,Bad Road Condition
+1776,10/6/2024 17:30,Chennai,Moderate,Foggy,Dry,Bus,30,4,Speeding
+1777,5/5/2023 13:35,Chennai,Moderate,Clear,Dry,Bus,24,0,Overtaking
+1778,8/21/2024 15:23,Hyderabad,Moderate,Foggy,Wet,Car,48,5,Drunk Driving
+1779,3/18/2023 21:14,Pune,Moderate,Snowy,Potholes,Bike,65,1,Drunk Driving
+1780,6/14/2023 8:09,Chennai,Severe,Clear,Icy,Auto Rickshaw,55,1,Bad Road Condition
+1781,9/3/2023 23:00,Mumbai,Minor,Clear,Icy,Car,21,2,Brake Failure
+1782,3/19/2023 7:28,Ahmedabad,Minor,Rainy,Under Construction,Bike,38,0,Drunk Driving
+1783,2/19/2023 22:22,Mumbai,Moderate,Windy,Wet,Bicycle,54,1,Drunk Driving
+1784,12/12/2023 9:32,Delhi,Minor,Foggy,Potholes,Auto Rickshaw,42,0,Drunk Driving
+1785,4/12/2023 11:01,Ahmedabad,Minor,Rainy,Potholes,Bike,24,3,Brake Failure
+1786,8/31/2024 2:43,Chennai,Severe,Foggy,Wet,Auto Rickshaw,35,5,Red Light Violation
+1787,5/16/2024 0:06,Chennai,Moderate,Clear,Icy,Bus,49,5,Bad Road Condition
+1788,8/7/2023 19:36,Delhi,Severe,Snowy,Icy,Bike,30,3,Overtaking
+1789,9/4/2024 12:19,Mumbai,Severe,Foggy,Icy,Auto Rickshaw,56,4,Weather
+1790,11/13/2023 16:25,Chennai,Moderate,Foggy,Under Construction,Bus,52,4,Drunk Driving
+1791,10/25/2023 1:48,Ahmedabad,Minor,Snowy,Under Construction,Car,21,2,Drunk Driving
+1792,12/24/2023 7:59,Hyderabad,Minor,Rainy,Under Construction,Auto Rickshaw,65,0,Speeding
+1793,11/19/2023 20:35,Ahmedabad,Minor,Windy,Icy,Bus,25,1,Bad Road Condition
+1794,12/5/2023 4:23,Hyderabad,Severe,Rainy,Dry,Car,62,1,Drunk Driving
+1795,8/27/2023 1:40,Pune,Minor,Clear,Under Construction,Bicycle,48,0,Drunk Driving
+1796,7/12/2023 14:00,Hyderabad,Minor,Rainy,Under Construction,Car,62,0,Red Light Violation
+1797,7/4/2023 7:05,Delhi,Minor,Foggy,Under Construction,Bicycle,19,3,Overtaking
+1798,8/10/2023 1:37,Hyderabad,Severe,Rainy,Under Construction,Bus,55,2,Speeding
+1799,8/14/2024 10:30,Ahmedabad,Severe,Clear,Icy,Car,27,0,Speeding
+1800,12/9/2023 23:27,Bangalore,Moderate,Clear,Under Construction,Auto Rickshaw,36,0,Weather
+1801,1/3/2023 20:19,Bangalore,Severe,Foggy,Dry,Auto Rickshaw,24,1,Weather
+1802,11/30/2023 19:53,Pune,Moderate,Foggy,Dry,Truck,47,1,Overtaking
+1803,2/9/2024 9:30,Chennai,Minor,Snowy,Dry,Car,38,0,Weather
+1804,7/24/2023 4:32,Mumbai,Minor,Snowy,Dry,Truck,51,1,Brake Failure
+1805,4/13/2023 1:44,Delhi,Moderate,Clear,Dry,Bike,49,3,Overtaking
+1806,8/30/2024 10:37,Kolkata,Severe,Clear,Dry,Truck,37,5,Red Light Violation
+1807,10/24/2024 23:52,Ahmedabad,Minor,Snowy,Icy,Car,59,5,Red Light Violation
+1808,9/11/2024 22:22,Mumbai,Minor,Foggy,Dry,Bicycle,29,3,Speeding
+1809,8/28/2024 18:36,Kolkata,Moderate,Windy,Wet,Bicycle,51,3,Weather
+1810,3/25/2024 17:15,Kolkata,Moderate,Snowy,Potholes,Car,22,2,Red Light Violation
+1811,10/2/2023 15:22,Chennai,Minor,Foggy,Icy,Bicycle,46,1,Red Light Violation
+1812,3/8/2023 18:59,Chennai,Severe,Foggy,Icy,Bicycle,37,2,Weather
+1813,12/5/2024 12:11,Mumbai,Moderate,Windy,Dry,Car,55,2,Red Light Violation
+1814,8/1/2024 14:23,Ahmedabad,Minor,Foggy,Under Construction,Car,42,2,Overtaking
+1815,5/29/2023 3:12,Delhi,Minor,Windy,Icy,Car,35,5,Red Light Violation
+1816,11/3/2024 21:07,Mumbai,Severe,Snowy,Icy,Bicycle,53,4,Speeding
+1817,10/30/2023 19:19,Mumbai,Moderate,Windy,Dry,Bike,55,3,Speeding
+1818,9/22/2023 18:50,Chennai,Minor,Clear,Wet,Bus,40,1,Drunk Driving
+1819,11/13/2024 21:23,Delhi,Moderate,Rainy,Potholes,Bike,21,5,Drunk Driving
+1820,7/1/2023 1:50,Ahmedabad,Severe,Snowy,Potholes,Truck,30,2,Brake Failure
+1821,6/18/2023 4:21,Ahmedabad,Severe,Snowy,Icy,Auto Rickshaw,60,1,Weather
+1822,7/5/2023 1:55,Bangalore,Moderate,Windy,Potholes,Auto Rickshaw,20,0,Bad Road Condition
+1823,3/14/2023 17:08,Delhi,Minor,Rainy,Potholes,Truck,55,4,Brake Failure
+1824,10/15/2024 12:57,Chennai,Severe,Rainy,Wet,Truck,21,3,Overtaking
+1825,2/1/2024 12:49,Chennai,Minor,Clear,Icy,Bus,18,5,Red Light Violation
+1826,9/8/2023 1:16,Bangalore,Moderate,Rainy,Potholes,Bike,61,1,Drunk Driving
+1827,11/28/2024 13:15,Ahmedabad,Minor,Windy,Potholes,Auto Rickshaw,23,4,Weather
+1828,11/21/2023 6:20,Hyderabad,Minor,Clear,Wet,Car,33,5,Weather
+1829,1/27/2023 9:22,Delhi,Moderate,Rainy,Wet,Truck,43,2,Overtaking
+1830,4/26/2023 12:00,Kolkata,Minor,Clear,Potholes,Car,48,3,Bad Road Condition
+1831,4/14/2024 20:43,Pune,Minor,Foggy,Under Construction,Auto Rickshaw,25,1,Drunk Driving
+1832,1/9/2023 3:32,Chennai,Moderate,Foggy,Wet,Car,20,0,Bad Road Condition
+1833,11/5/2023 13:12,Bangalore,Moderate,Foggy,Icy,Bike,43,0,Brake Failure
+1834,9/11/2023 20:25,Hyderabad,Moderate,Foggy,Icy,Car,50,4,Overtaking
+1835,7/2/2023 8:12,Bangalore,Moderate,Windy,Dry,Bike,51,1,Weather
+1836,3/7/2023 12:50,Kolkata,Severe,Snowy,Wet,Car,26,0,Brake Failure
+1837,4/11/2024 22:07,Pune,Moderate,Snowy,Wet,Bus,28,1,Red Light Violation
+1838,7/20/2024 8:41,Hyderabad,Severe,Foggy,Icy,Bike,65,2,Red Light Violation
+1839,9/7/2023 11:09,Delhi,Moderate,Rainy,Dry,Auto Rickshaw,48,0,Brake Failure
+1840,12/13/2023 9:10,Mumbai,Minor,Foggy,Wet,Truck,49,4,Speeding
+1841,4/16/2024 4:32,Chennai,Severe,Clear,Wet,Truck,63,3,Speeding
+1842,9/21/2024 11:20,Hyderabad,Severe,Rainy,Wet,Car,22,2,Speeding
+1843,3/31/2024 12:19,Delhi,Severe,Rainy,Wet,Car,31,0,Brake Failure
+1844,11/2/2024 11:12,Chennai,Severe,Foggy,Icy,Bicycle,19,4,Bad Road Condition
+1845,2/9/2023 14:02,Chennai,Moderate,Clear,Dry,Bus,25,4,Overtaking
+1846,8/2/2023 2:10,Hyderabad,Minor,Foggy,Wet,Auto Rickshaw,46,1,Speeding
+1847,6/26/2023 12:23,Kolkata,Severe,Foggy,Potholes,Bicycle,52,0,Speeding
+1848,12/24/2024 13:05,Pune,Minor,Foggy,Wet,Bike,49,4,Speeding
+1849,6/1/2023 19:23,Bangalore,Moderate,Foggy,Potholes,Auto Rickshaw,45,4,Bad Road Condition
+1850,8/15/2023 5:02,Ahmedabad,Severe,Foggy,Potholes,Bus,50,2,Speeding
+1851,12/8/2023 19:02,Delhi,Moderate,Foggy,Wet,Bicycle,54,1,Overtaking
+1852,12/20/2024 14:59,Kolkata,Severe,Snowy,Icy,Auto Rickshaw,21,1,Overtaking
+1853,1/24/2024 18:36,Pune,Moderate,Windy,Wet,Bike,32,0,Red Light Violation
+1854,2/19/2023 22:58,Chennai,Severe,Foggy,Potholes,Auto Rickshaw,39,1,Drunk Driving
+1855,9/24/2024 22:17,Hyderabad,Moderate,Rainy,Icy,Auto Rickshaw,23,0,Overtaking
+1856,4/22/2024 7:35,Chennai,Moderate,Snowy,Potholes,Bike,34,3,Speeding
+1857,11/2/2023 11:46,Pune,Minor,Clear,Wet,Bus,41,4,Overtaking
+1858,3/21/2024 19:51,Hyderabad,Moderate,Snowy,Under Construction,Bike,25,5,Overtaking
+1859,4/3/2024 1:42,Bangalore,Severe,Snowy,Potholes,Auto Rickshaw,24,0,Speeding
+1860,9/1/2024 5:55,Ahmedabad,Severe,Clear,Dry,Bicycle,34,2,Brake Failure
+1861,11/16/2024 22:01,Mumbai,Severe,Windy,Potholes,Auto Rickshaw,27,4,Speeding
+1862,9/2/2024 3:06,Pune,Moderate,Clear,Dry,Bus,29,4,Speeding
+1863,5/16/2023 23:52,Hyderabad,Severe,Clear,Dry,Bicycle,26,0,Overtaking
+1864,3/27/2023 15:45,Delhi,Severe,Snowy,Potholes,Car,61,3,Speeding
+1865,7/10/2023 4:35,Bangalore,Moderate,Foggy,Icy,Bike,58,1,Speeding
+1866,3/30/2023 3:44,Hyderabad,Minor,Foggy,Dry,Bus,19,3,Overtaking
+1867,9/20/2023 14:50,Ahmedabad,Minor,Windy,Icy,Bus,43,0,Bad Road Condition
+1868,11/10/2024 5:14,Hyderabad,Severe,Foggy,Under Construction,Auto Rickshaw,41,1,Brake Failure
+1869,5/27/2023 15:46,Chennai,Moderate,Rainy,Under Construction,Auto Rickshaw,55,4,Overtaking
+1870,1/1/2024 19:47,Bangalore,Minor,Snowy,Under Construction,Truck,44,1,Bad Road Condition
+1871,10/5/2024 19:10,Delhi,Severe,Clear,Icy,Car,51,5,Drunk Driving
+1872,4/27/2024 2:00,Delhi,Moderate,Rainy,Dry,Auto Rickshaw,26,1,Red Light Violation
+1873,4/6/2023 9:01,Kolkata,Minor,Foggy,Wet,Bicycle,34,1,Speeding
+1874,11/18/2023 5:31,Chennai,Moderate,Clear,Icy,Bus,62,2,Red Light Violation
+1875,11/20/2024 17:14,Delhi,Severe,Windy,Dry,Truck,52,5,Bad Road Condition
+1876,9/20/2023 16:41,Hyderabad,Severe,Snowy,Wet,Car,32,3,Drunk Driving
+1877,9/19/2023 6:12,Ahmedabad,Moderate,Foggy,Icy,Truck,31,3,Red Light Violation
+1878,12/8/2024 10:39,Kolkata,Severe,Rainy,Potholes,Auto Rickshaw,60,5,Weather
+1879,1/12/2024 6:31,Mumbai,Minor,Rainy,Wet,Bike,45,0,Weather
+1880,8/17/2024 20:08,Pune,Severe,Snowy,Under Construction,Truck,45,0,Bad Road Condition
+1881,4/8/2024 15:46,Ahmedabad,Severe,Windy,Under Construction,Car,23,1,Weather
+1882,5/31/2024 6:53,Chennai,Minor,Windy,Icy,Auto Rickshaw,31,4,Brake Failure
+1883,5/23/2024 15:40,Bangalore,Moderate,Rainy,Potholes,Bike,45,2,Brake Failure
+1884,12/18/2024 9:18,Kolkata,Severe,Snowy,Dry,Bike,49,3,Drunk Driving
+1885,4/26/2024 16:40,Ahmedabad,Severe,Rainy,Potholes,Bike,47,3,Red Light Violation
+1886,12/16/2024 19:47,Bangalore,Minor,Snowy,Dry,Truck,20,2,Weather
+1887,3/27/2023 19:17,Mumbai,Moderate,Foggy,Icy,Bike,55,0,Speeding
+1888,1/29/2023 9:56,Delhi,Minor,Rainy,Icy,Truck,54,1,Drunk Driving
+1889,1/4/2023 23:38,Hyderabad,Minor,Clear,Under Construction,Car,23,5,Overtaking
+1890,5/12/2023 19:35,Kolkata,Minor,Rainy,Wet,Bus,55,0,Bad Road Condition
+1891,4/3/2023 19:18,Delhi,Minor,Windy,Under Construction,Truck,53,5,Overtaking
+1892,3/22/2023 1:05,Ahmedabad,Minor,Clear,Potholes,Car,40,1,Brake Failure
+1893,10/15/2024 9:20,Delhi,Moderate,Rainy,Dry,Car,37,4,Red Light Violation
+1894,8/8/2023 23:20,Ahmedabad,Moderate,Rainy,Icy,Truck,47,3,Overtaking
+1895,2/15/2023 6:08,Ahmedabad,Moderate,Snowy,Potholes,Bus,21,5,Speeding
+1896,7/7/2023 5:28,Delhi,Minor,Clear,Dry,Bicycle,29,0,Overtaking
+1897,8/29/2023 5:12,Bangalore,Severe,Windy,Under Construction,Bicycle,50,5,Brake Failure
+1898,7/25/2024 21:14,Delhi,Severe,Windy,Icy,Bus,41,2,Red Light Violation
+1899,5/11/2024 2:05,Pune,Severe,Snowy,Dry,Bus,20,4,Brake Failure
+1900,1/11/2024 10:35,Bangalore,Minor,Snowy,Under Construction,Truck,29,4,Speeding
+1901,8/3/2024 2:50,Kolkata,Severe,Snowy,Wet,Truck,44,2,Overtaking
+1902,12/17/2023 6:39,Hyderabad,Severe,Snowy,Potholes,Bicycle,54,5,Drunk Driving
+1903,8/7/2024 22:24,Kolkata,Minor,Foggy,Wet,Bike,63,4,Brake Failure
+1904,3/3/2024 0:37,Mumbai,Minor,Foggy,Dry,Bike,51,3,Bad Road Condition
+1905,6/22/2024 7:30,Kolkata,Moderate,Foggy,Icy,Truck,21,1,Bad Road Condition
+1906,9/9/2024 11:31,Mumbai,Moderate,Foggy,Dry,Bike,52,1,Drunk Driving
+1907,5/8/2024 7:52,Bangalore,Minor,Windy,Dry,Bicycle,47,3,Overtaking
+1908,5/23/2024 1:43,Chennai,Minor,Clear,Wet,Truck,30,2,Overtaking
+1909,4/28/2024 15:21,Chennai,Minor,Foggy,Icy,Auto Rickshaw,30,0,Red Light Violation
+1910,11/10/2024 7:11,Hyderabad,Moderate,Rainy,Under Construction,Car,52,1,Bad Road Condition
+1911,8/1/2023 1:40,Pune,Severe,Windy,Under Construction,Bike,30,5,Red Light Violation
+1912,3/20/2024 20:47,Mumbai,Moderate,Windy,Wet,Truck,59,3,Red Light Violation
+1913,6/25/2024 5:48,Hyderabad,Moderate,Clear,Icy,Bicycle,51,5,Red Light Violation
+1914,8/12/2023 17:31,Hyderabad,Severe,Windy,Wet,Bike,48,3,Drunk Driving
+1915,1/22/2023 20:35,Kolkata,Minor,Snowy,Wet,Bike,56,3,Brake Failure
+1916,6/13/2024 6:32,Pune,Minor,Snowy,Potholes,Bicycle,35,2,Drunk Driving
+1917,12/30/2023 0:16,Bangalore,Severe,Windy,Dry,Truck,58,1,Bad Road Condition
+1918,11/18/2023 20:02,Chennai,Minor,Rainy,Potholes,Bus,21,1,Overtaking
+1919,11/8/2024 19:07,Mumbai,Minor,Rainy,Dry,Bicycle,44,3,Bad Road Condition
+1920,2/5/2023 13:21,Mumbai,Severe,Clear,Under Construction,Car,38,4,Weather
+1921,12/13/2023 22:08,Chennai,Minor,Foggy,Potholes,Car,47,1,Drunk Driving
+1922,3/31/2024 6:07,Bangalore,Moderate,Rainy,Under Construction,Bike,25,1,Bad Road Condition
+1923,5/1/2024 23:30,Delhi,Minor,Foggy,Icy,Bicycle,61,1,Red Light Violation
+1924,9/29/2024 0:52,Bangalore,Moderate,Clear,Dry,Auto Rickshaw,62,4,Brake Failure
+1925,4/15/2023 10:28,Pune,Moderate,Clear,Dry,Truck,53,0,Bad Road Condition
+1926,4/1/2024 5:25,Pune,Moderate,Snowy,Potholes,Bicycle,52,5,Bad Road Condition
+1927,6/8/2024 10:20,Hyderabad,Minor,Windy,Icy,Bicycle,27,4,Red Light Violation
+1928,3/8/2023 7:54,Pune,Moderate,Snowy,Potholes,Bicycle,56,2,Weather
+1929,9/6/2024 18:29,Pune,Minor,Snowy,Under Construction,Auto Rickshaw,45,5,Speeding
+1930,8/31/2023 0:35,Delhi,Severe,Windy,Wet,Bike,33,5,Overtaking
+1931,4/26/2023 16:22,Kolkata,Severe,Foggy,Under Construction,Auto Rickshaw,47,3,Weather
+1932,3/24/2023 18:17,Bangalore,Minor,Windy,Wet,Bus,43,1,Overtaking
+1933,10/30/2024 7:11,Kolkata,Minor,Rainy,Under Construction,Bike,34,5,Red Light Violation
+1934,5/4/2024 5:19,Pune,Severe,Foggy,Potholes,Auto Rickshaw,63,2,Speeding
+1935,10/12/2024 20:29,Delhi,Severe,Windy,Under Construction,Car,21,0,Red Light Violation
+1936,4/14/2024 19:08,Ahmedabad,Minor,Windy,Potholes,Auto Rickshaw,26,4,Drunk Driving
+1937,8/14/2023 18:54,Ahmedabad,Minor,Snowy,Dry,Auto Rickshaw,25,5,Brake Failure
+1938,9/8/2023 15:04,Mumbai,Moderate,Foggy,Under Construction,Bike,36,5,Speeding
+1939,2/23/2023 12:29,Mumbai,Minor,Snowy,Icy,Auto Rickshaw,20,5,Weather
+1940,12/30/2023 19:26,Mumbai,Moderate,Foggy,Dry,Bike,42,4,Speeding
+1941,1/18/2024 12:31,Bangalore,Moderate,Clear,Wet,Auto Rickshaw,43,2,Brake Failure
+1942,6/26/2024 16:14,Chennai,Moderate,Clear,Dry,Bus,52,0,Drunk Driving
+1943,11/18/2023 10:25,Mumbai,Minor,Clear,Potholes,Auto Rickshaw,32,0,Brake Failure
+1944,10/24/2023 13:09,Chennai,Severe,Rainy,Dry,Car,31,1,Weather
+1945,4/14/2024 21:19,Ahmedabad,Moderate,Rainy,Wet,Car,29,2,Drunk Driving
+1946,10/23/2024 7:48,Bangalore,Moderate,Snowy,Potholes,Truck,48,3,Red Light Violation
+1947,12/5/2023 8:33,Kolkata,Minor,Windy,Icy,Bicycle,58,0,Overtaking
+1948,5/21/2023 10:35,Bangalore,Minor,Foggy,Dry,Bus,30,0,Red Light Violation
+1949,8/12/2023 7:57,Chennai,Moderate,Rainy,Icy,Truck,26,2,Brake Failure
+1950,8/5/2023 13:08,Kolkata,Moderate,Foggy,Dry,Bike,30,0,Brake Failure
+1951,7/20/2024 2:54,Ahmedabad,Minor,Clear,Dry,Bus,52,2,Brake Failure
+1952,2/18/2023 20:48,Chennai,Minor,Clear,Wet,Truck,62,1,Red Light Violation
+1953,1/10/2023 13:42,Ahmedabad,Moderate,Rainy,Dry,Bus,38,5,Weather
+1954,5/26/2023 9:28,Mumbai,Moderate,Foggy,Potholes,Bicycle,34,0,Red Light Violation
+1955,8/26/2023 5:04,Kolkata,Severe,Foggy,Dry,Bike,40,2,Speeding
+1956,5/25/2024 10:26,Bangalore,Moderate,Clear,Icy,Truck,64,1,Weather
+1957,3/8/2023 8:03,Delhi,Minor,Clear,Icy,Bicycle,28,4,Brake Failure
+1958,3/22/2023 20:27,Ahmedabad,Moderate,Clear,Icy,Auto Rickshaw,34,5,Brake Failure
+1959,6/18/2023 20:41,Bangalore,Severe,Rainy,Wet,Truck,22,2,Drunk Driving
+1960,10/6/2024 8:21,Mumbai,Minor,Clear,Under Construction,Bike,54,2,Drunk Driving
+1961,6/15/2023 20:04,Mumbai,Moderate,Clear,Icy,Car,28,4,Drunk Driving
+1962,12/18/2024 7:39,Hyderabad,Minor,Windy,Under Construction,Truck,46,5,Weather
+1963,5/5/2023 18:06,Bangalore,Minor,Clear,Icy,Bus,65,0,Weather
+1964,1/8/2024 21:38,Pune,Severe,Snowy,Potholes,Bus,44,0,Brake Failure
+1965,9/20/2024 2:33,Pune,Severe,Foggy,Icy,Bike,60,3,Overtaking
+1966,2/11/2024 3:36,Bangalore,Moderate,Foggy,Under Construction,Car,52,3,Brake Failure
+1967,1/15/2023 1:32,Hyderabad,Minor,Snowy,Wet,Bicycle,33,3,Bad Road Condition
+1968,1/14/2023 0:08,Kolkata,Moderate,Snowy,Under Construction,Bike,65,2,Drunk Driving
+1969,4/28/2023 19:13,Bangalore,Severe,Snowy,Dry,Auto Rickshaw,50,1,Brake Failure
+1970,7/10/2024 12:17,Kolkata,Severe,Windy,Potholes,Bike,62,3,Brake Failure
+1971,7/24/2023 4:38,Ahmedabad,Minor,Snowy,Under Construction,Bike,61,3,Drunk Driving
+1972,11/20/2023 6:30,Kolkata,Minor,Windy,Wet,Bus,60,3,Speeding
+1973,8/20/2024 13:20,Mumbai,Minor,Foggy,Dry,Truck,25,5,Drunk Driving
+1974,1/2/2024 2:40,Ahmedabad,Severe,Foggy,Wet,Car,37,2,Red Light Violation
+1975,6/4/2024 10:37,Hyderabad,Moderate,Foggy,Under Construction,Bicycle,51,2,Weather
+1976,8/29/2024 9:22,Delhi,Moderate,Clear,Under Construction,Bike,31,4,Drunk Driving
+1977,1/13/2023 3:49,Chennai,Moderate,Snowy,Potholes,Bicycle,20,5,Weather
+1978,10/2/2023 17:53,Delhi,Moderate,Clear,Potholes,Bus,25,1,Bad Road Condition
+1979,7/16/2024 7:44,Chennai,Minor,Rainy,Under Construction,Bus,18,3,Weather
+1980,7/27/2024 1:08,Kolkata,Minor,Clear,Icy,Bus,34,0,Bad Road Condition
+1981,6/20/2024 23:30,Delhi,Severe,Snowy,Icy,Truck,19,5,Weather
+1982,11/18/2023 6:35,Bangalore,Minor,Foggy,Potholes,Auto Rickshaw,58,5,Red Light Violation
+1983,2/7/2023 21:30,Bangalore,Severe,Clear,Dry,Car,43,3,Weather
+1984,6/26/2024 3:39,Chennai,Severe,Snowy,Icy,Bus,54,5,Speeding
+1985,10/15/2024 21:07,Kolkata,Moderate,Windy,Under Construction,Car,43,0,Brake Failure
+1986,7/30/2023 14:36,Delhi,Severe,Windy,Under Construction,Bicycle,32,3,Red Light Violation
+1987,8/11/2024 5:28,Pune,Severe,Windy,Under Construction,Bus,18,5,Brake Failure
+1988,9/19/2023 10:54,Ahmedabad,Minor,Snowy,Dry,Car,65,1,Brake Failure
+1989,9/11/2024 14:03,Bangalore,Minor,Clear,Dry,Truck,18,4,Speeding
+1990,5/12/2024 17:11,Bangalore,Minor,Windy,Icy,Bus,50,3,Bad Road Condition
+1991,3/17/2023 13:08,Delhi,Moderate,Rainy,Dry,Bus,49,0,Weather
+1992,5/26/2024 20:05,Ahmedabad,Moderate,Windy,Icy,Car,28,1,Red Light Violation
+1993,6/26/2023 4:53,Chennai,Severe,Foggy,Under Construction,Bus,45,2,Drunk Driving
+1994,6/19/2023 15:20,Kolkata,Moderate,Windy,Icy,Car,44,4,Speeding
+1995,8/8/2023 9:08,Ahmedabad,Severe,Clear,Icy,Bike,41,1,Speeding
+1996,8/12/2024 17:45,Delhi,Severe,Foggy,Wet,Bike,62,1,Speeding
+1997,2/12/2024 16:58,Ahmedabad,Minor,Snowy,Under Construction,Auto Rickshaw,19,0,Speeding
+1998,9/19/2024 16:16,Delhi,Severe,Clear,Under Construction,Bike,50,2,Weather
+1999,8/30/2023 13:02,Ahmedabad,Severe,Windy,Under Construction,Car,55,3,Speeding
+2000,4/19/2024 17:09,Hyderabad,Minor,Windy,Wet,Bicycle,28,0,Overtaking
